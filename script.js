@@ -22,7 +22,9 @@ function parseCountdownData(data) {
 
     sideModules.forEach(({ id, title, content }) => {
         // if (title === '角色唤取活动' || title === '武器活动唤取') {
-        if (title === '角色唤取活动') {
+        // if (title === '角色唤取活动' || title === '角色活动唤取' || title === '武器活动唤取') {
+        if (title.indexOf('唤取') > 0) {
+            console.log(":::content:::", content)
             content.tabs.forEach((tab, index) => {
                 const dateRange = tab.countDown?.dateRange;
                 if (dateRange) {
@@ -57,15 +59,19 @@ function createCard(elementId, title, backgroundUrl) {
     card.style.backgroundSize = 'cover';
     card.style.color = 'white';
 
+    const cardFooter = document.createElement('div');
+    cardFooter.className = 'card-footer';
+
     const cardTitle = document.createElement('h2');
     cardTitle.textContent = title;
 
-    const timer = document.createElement('p');
+    const timer = document.createElement('h2');
     timer.id = elementId + '-timer';
     timer.textContent = '00:00:00';
 
-    card.appendChild(cardTitle);
-    card.appendChild(timer);
+    cardFooter.appendChild(cardTitle);
+    cardFooter.appendChild(timer);
+    card.appendChild(cardFooter);
     cardContainer.appendChild(card);
 }
 
@@ -88,7 +94,7 @@ function startCountdown(elementId, duration) {
     }, 1000);
 }
 
-window.onload = async function() {
+window.onload = async function () {
     const url = 'https://api.kurobbs.com/wiki/core/homepage/getPage';
     const options = {
         method: 'POST',
@@ -101,6 +107,10 @@ window.onload = async function() {
 
     const data = await fetchData(url, options);
     const countdownItems = parseCountdownData(data);
+
+    if (!countdownItems.length) {
+        return createCard('none', '解析失败', 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==');
+    }
 
     countdownItems.forEach(({ id, title, duration, backgroundUrl }) => {
         createCard(id, title, backgroundUrl);

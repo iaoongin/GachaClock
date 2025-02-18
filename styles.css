@@ -28,7 +28,7 @@ body {
     transition: transform 0.2s;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: end;
     align-items: center;
 }
 
@@ -36,19 +36,13 @@ body {
     transform: scale(1.05);
 }
 
-.card-header {
+.card-footer {
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
-    padding: 10px;
+    padding: 1px;
     text-align: center;
     z-index: 1;
-}
-
-.card-content {
-    flex: 1;
-    background-size: cover;
-    background-position: center;
-    position: relative;
+    width: 100%;
 }
 
 h2 {
