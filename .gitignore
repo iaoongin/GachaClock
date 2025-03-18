@@ -24,3 +24,7 @@ build/
 
 # 忽略环境变量文件
 .env 
+
+# 忽略python
+__pycache__/
+.scrapy/
