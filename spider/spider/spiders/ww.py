@@ -1,4 +1,5 @@
 import scrapy
+import requests
 
 from spider.items import SpiderItem
 
@@ -6,16 +7,15 @@ from spider.items import SpiderItem
 class WwSpider(scrapy.Spider):
     name = "ww"
     allowed_domains = ["api.kurobbs.com"]
+    headers = {
+        'wiki_type': '9',
+        'source': 'h5',
+        'referer': 'https://wiki.kurobbs.com/'
+    }
 
     def start_requests(self):
         url = 'https://api.kurobbs.com/wiki/core/homepage/getPage'
-        headers = {
-            'wiki_type': '9',
-            'source': 'h5',
-            'referer': 'https://wiki.kurobbs.com/'
-        }
-        
-        yield scrapy.Request(url, headers=headers, method='POST', callback=self.parse)
+        yield scrapy.Request(url, headers=self.headers, method='POST', callback=self.parse)
 
     def parse(self, response):
         data = response.json()
@@ -32,15 +32,18 @@ class WwSpider(scrapy.Spider):
                 
                 g = []
                 for img in tab['imgs']:
+                    # title 
+                    entryId = self.safe_get(img, 'linkConfig', 'entryId', default='')
+                    title = self.get_title(entryId)
                     g.append({
-                        'title': self.safe_get(img, 'linkConfig', 'entryId', default=''),
+                        'title': title,
                         'img': img['img']
                     })
                     
                 item = SpiderItem()
                 item["title"] = tab['name']
                 item["type"] =  '角色' if '角色' in title else '武器'
-                item["timer"] = self.safe_get(tab, 'countDown', 'dataRange', default=[])
+                item["timer"] = self.safe_get(tab, 'countDown', 'dateRange', default=[])
                 item["gachas"] = g
                 yield item
             
@@ -54,3 +57,23 @@ class WwSpider(scrapy.Spider):
             else:
                 return default
         return current
+    
+    def get_title(self, data):
+        url = f'https://api.kurobbs.com/wiki/core/catalogue/item/getEntryDetail'
+        headers = {
+            **self.headers,
+            'Content-Type': 'application/x-www-form-urlencoded'
+        }
+        try:
+            response = requests.post(url, headers=headers, data=f'id={data}')
+            response.raise_for_status()  # 检查响应状态码，如果不是 200 会抛出异常
+            json_data = response.json()
+            name = self.safe_get(json_data, 'data', 'name', default='')
+            return name
+        except requests.RequestException as e:
+            print(f"请求发生错误: {e}")
+        except ValueError:
+            print(f"无法解析响应的 JSON 数据，响应内容: {response.text}")
+        except KeyError:
+            print(f"响应中缺少所需的键，响应内容: {response.text}")
+        return data

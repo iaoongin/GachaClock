@@ -8,7 +8,7 @@ from spider.spiders.ww import WwSpider
 settings = get_project_settings()
 # 创建 CrawlerProcess 实例并传入配置
 process = CrawlerProcess(settings)
-# process.crawl(ZzzSpider)
-# process.crawl(SrSpider)
+process.crawl(ZzzSpider)
+process.crawl(SrSpider)
 process.crawl(WwSpider)
 process.start()

@@ -13,6 +13,7 @@ import base64
 from datetime import datetime
 
 base_dir = "data"
+img_dir = "img"
 ext = "json"
 
 class SpiderPipeline:
@@ -40,7 +41,9 @@ class SpiderPipeline:
         print(f'==================> {item}')
         # 处理图片为base64
         for gacha in item['gachas']:
-            gacha['img_base64'] = self.download_image_to_base64(gacha['img'])
+            file_name = f"{img_dir}/{spider.name}/{gacha['title']}.png"
+            self.download_file(gacha['img'], file_name)
+            gacha['img_path'] = file_name
         # 爬虫处理数据时将数据添加到列表
         self.items.append(item)
         return item
@@ -56,6 +59,36 @@ class SpiderPipeline:
             finally:
                 self.file.close()
                 
+    def download_file(self, url, save_path):
+        """
+        从指定 URL 下载文件到指定路径，如果文件已存在则跳过
+        :param url: 文件的下载链接
+        :param save_path: 文件保存的路径，包含文件名
+        :return: 如果下载成功返回 True，文件已存在返回 None，出现错误返回 False
+        """
+        if os.path.exists(save_path):
+            print(f"文件 {save_path} 已存在，跳过下载。")
+            return None
+        try:
+            response = requests.get(url, stream=True)
+            response.raise_for_status()
+
+            save_dir = os.path.dirname(save_path)
+            if not os.path.exists(save_dir):
+                os.makedirs(save_dir)
+
+            with open(save_path, 'wb') as file:
+                for chunk in response.iter_content(chunk_size=8192):
+                    if chunk:
+                        file.write(chunk)
+
+            print(f"文件下载成功，保存路径: {save_path}")
+            return True
+        except requests.RequestException as e:
+            print(f"下载过程中出现网络错误: {e}")
+        except Exception as e:
+            print(f"下载过程中出现其他错误: {e}")
+        return False
     def download_image_to_base64(self, url):
         try:
             # 发送 HTTP 请求下载图片

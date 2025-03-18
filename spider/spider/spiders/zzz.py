@@ -25,7 +25,7 @@ class ZzzSpider(scrapy.Spider):
             for i in range(len(g_title)):
                 g.append({
                     "title": g_title[i],
-                    "img": g_img[i]
+                    "img": g_img[i].replace("56", "112")
                 })
             
             # time

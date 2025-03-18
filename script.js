@@ -1,3 +1,12 @@
+window.onload = async function () {
+  // yyyyMMdd
+  currentDate = new Date().toISOString().slice(0, 10).replace(/-/g, "");
+  
+  await load(`spider/data/${currentDate}/zzz.json`)
+  await load(`spider/data/${currentDate}/sr.json`)
+  await load(`spider/data/${currentDate}/ww.json`)
+};
+
 async function fetchData(url, options = {}) {
   try {
     const response = await fetch(url, options);
@@ -11,50 +20,10 @@ async function fetchData(url, options = {}) {
   }
 }
 
-function parseCountdownData(data) {
-  if (!(data?.data?.contentJson?.sideModules || "")) {
-    console.warn("Data structure is not as expected:", data);
-    return [];
-  }
-
-  const sideModules = data.data.contentJson.sideModules;
-  const countdownItems = [];
-
-  sideModules.forEach(({ id, title, content }) => {
-    // if (title === '角色唤取活动' || title === '武器活动唤取') {
-    // if (title === '角色唤取活动' || title === '角色活动唤取' || title === '武器活动唤取') {
-    if (title.indexOf("唤取") > 0) {
-      console.log(":::content:::", content);
-      content.tabs.forEach((tab, index) => {
-        const dateRange = tab.countDown?.dateRange;
-        if (dateRange) {
-          const endDate = new Date(dateRange[1].replace(" ", "T"));
-          const now = new Date();
-          const duration = Math.floor((endDate - now) / 1000);
-
-          const backgroundUrl = tab.imgs?.[0]?.img || "";
-
-          if (duration > 0) {
-            countdownItems.push({
-              id: `${id}-tab${index}`,
-              title,
-              duration,
-              backgroundUrl,
-            });
-          }
-        }
-      });
-    }
-  });
-
-  return countdownItems;
-}
-
-function createCard(elementId, title, backgroundUrl) {
-  const cardContainer = document.querySelector(".card-container");
+function createCard(cardGroup, title, backgroundUrl) {
   const card = document.createElement("div");
   card.className = "card";
-  card.id = elementId;
+  card.id = title;
   card.style.backgroundImage = `url(${backgroundUrl})`;
   card.style.backgroundSize = "cover";
   card.style.color = "white";
@@ -65,14 +34,34 @@ function createCard(elementId, title, backgroundUrl) {
   const cardTitle = document.createElement("h2");
   cardTitle.textContent = title;
 
-  const timer = document.createElement("h2");
-  timer.id = elementId + "-timer";
-  timer.textContent = "00:00:00";
-
   cardFooter.appendChild(cardTitle);
-  cardFooter.appendChild(timer);
   card.appendChild(cardFooter);
-  cardContainer.appendChild(card);
+  cardGroup.appendChild(card);
+}
+
+function createCardGroup(elementId){
+  const cardContainer = document.querySelector(".card-container");
+  const cardGroup = document.createElement("div");
+  cardGroup.className = "card-group";
+  cardGroup.id = elementId;
+  cardGroup.style.backgroundSize = "cover";
+  cardGroup.style.color = "white";
+
+  const cardGroupHeader = document.createElement("div");
+  cardGroupHeader.className = "card-group-header";
+
+  const cardTitle = document.createElement("h1");
+  cardTitle.textContent = '当前卡池';
+
+  const timer = document.createElement("h1");
+  timer.id = elementId + "-timer";
+  timer.textContent = "还剩0天0小时0分钟";
+
+  cardGroupHeader.appendChild(cardTitle);
+  cardGroupHeader.appendChild(timer);
+  cardGroup.appendChild(cardGroupHeader);
+  cardContainer.appendChild(cardGroup);
+  return cardGroup;
 }
 
 function startCountdown(elementId, duration) {
@@ -98,10 +87,7 @@ function startCountdown(elementId, duration) {
   }, 1000);
 }
 
-window.onload = async function () {
-  // yyyyMMdd
-  currentDate = new Date().toISOString().slice(0, 10).replace(/-/g, "");
-  const url = `spider/data/${currentDate}/zzz.json`;
+async function load(url){
   const data = await fetchData(url);
 
   if (!data.length) {
@@ -112,11 +98,19 @@ window.onload = async function () {
     );
   }
 
+  const cardGroupId = url
+  const cardGroup = createCardGroup(cardGroupId);
+
   data.forEach(({ title, type, timer, gachas }) => {
-    gachas.forEach(({ title, img_base64 }) => {
-      createCard(title, title, "data:image/png;base64," + img_base64);
-      duration = new Date(timer[1]).getTime() - new Date().getTime();
-      startCountdown(title, duration / 1000);
+    gachas.forEach(({ title, img_path }) => {
+      createCard(cardGroup, title, 'spider/' + img_path);
     });
+    duration = new Date(timer[1]).getTime() - new Date().getTime();
   });
-};
+
+  
+  startCountdown(cardGroupId, duration / 1000);
+
+}
+
+

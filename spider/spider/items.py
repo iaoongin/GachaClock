@@ -19,4 +19,4 @@ class SpiderItem(scrapy.Item):
 class GachaItem(TypedDict):
     title: str
     img: str
-    img_base64: str
+    img_path: str

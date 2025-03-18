@@ -3,7 +3,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
     margin: 0;
     background-color: #f0f0f0;
 }
@@ -12,9 +11,28 @@ body {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    gap: 100px;
+    width: 90%;
+    max-width: 2400px;
+    padding: 100px;
+}
+
+.card-group {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
     gap: 15px;
     width: 90%;
-    max-width: 1200px;
+
+}
+
+.card-group-header {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    text-align: center;
+    z-index: 1;
+    width: 100%;
+    border-radius: 15px;
 }
 
 .card {
@@ -45,22 +63,22 @@ body {
     width: 100%;
 }
 
-h2 {
+/* h2 {
     margin: 0 0 10px;
     font-size: 18px;
-}
+} */
 
 p {
     font-size: 24px;
     margin: 0;
 }
 
-h1 {
+/* h1 {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
     width: 100%;
-}
+} */
 
 .header-container {
     display: flex;

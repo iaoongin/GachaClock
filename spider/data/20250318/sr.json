@@ -1,0 +1,122 @@
+[
+    {
+        "title": "「径复原初」角色活动跃迁",
+        "type": "角色",
+        "timer": [
+            "2025/02/26 10:00",
+            "2025/03/19 11:59"
+        ],
+        "gachas": [
+            {
+                "title": "缇宝",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/1/16/s15opurtx1s67wf670orxm0ysqnr7nk.png/112px-%E7%BC%87%E5%AE%9D.png",
+                "img_path": "img/sr/缇宝.png"
+            },
+            {
+                "title": "玲可",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/8/82/01xva2wa5fwbvlcbq3gfe8r2g8jpq2z.png/112px-%E7%8E%B2%E5%8F%AF.png",
+                "img_path": "img/sr/玲可.png"
+            },
+            {
+                "title": "虎克",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/d/d9/cng0jc28j1hikbidgetsoyeq81pp2he.png/112px-%E8%99%8E%E5%85%8B.png",
+                "img_path": "img/sr/虎克.png"
+            },
+            {
+                "title": "桂乃芬",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/1/12/atc2i0g1s6acih7zoydpgthv0sxdrii.png/112px-%E6%A1%82%E4%B9%83%E8%8A%AC.png",
+                "img_path": "img/sr/桂乃芬.png"
+            }
+        ]
+    },
+    {
+        "title": "「掷山破云」角色活动跃迁",
+        "type": "角色",
+        "timer": [
+            "2025/02/26 10:00",
+            "2025/03/19 11:59"
+        ],
+        "gachas": [
+            {
+                "title": "云璃",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/d/d9/q1kzn8lehteph6x95tlyzjzf9re3ek8.png/112px-%E4%BA%91%E7%92%83.png",
+                "img_path": "img/sr/云璃.png"
+            },
+            {
+                "title": "玲可",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/8/82/01xva2wa5fwbvlcbq3gfe8r2g8jpq2z.png/112px-%E7%8E%B2%E5%8F%AF.png",
+                "img_path": "img/sr/玲可.png"
+            },
+            {
+                "title": "虎克",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/d/d9/cng0jc28j1hikbidgetsoyeq81pp2he.png/112px-%E8%99%8E%E5%85%8B.png",
+                "img_path": "img/sr/虎克.png"
+            },
+            {
+                "title": "桂乃芬",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/1/12/atc2i0g1s6acih7zoydpgthv0sxdrii.png/112px-%E6%A1%82%E4%B9%83%E8%8A%AC.png",
+                "img_path": "img/sr/桂乃芬.png"
+            }
+        ]
+    },
+    {
+        "title": "「流光定影」光锥活动跃迁",
+        "type": "武器",
+        "timer": [
+            "2025/02/26 10:00",
+            "2025/03/19 11:59"
+        ],
+        "gachas": [
+            {
+                "title": "如果时间是一朵花",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/5/51/fj94fxdzp0nicnfsd5i0fagwq0vwslq.png/112px-%E5%A6%82%E6%9E%9C%E6%97%B6%E9%97%B4%E6%98%AF%E4%B8%80%E6%9C%B5%E8%8A%B1.png",
+                "img_path": "img/sr/如果时间是一朵花.png"
+            },
+            {
+                "title": "与行星相会",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/0/00/l66yszhlv3n1qhxpow938qguf557tc1.png/112px-%E4%B8%8E%E8%A1%8C%E6%98%9F%E7%9B%B8%E4%BC%9A.png",
+                "img_path": "img/sr/与行星相会.png"
+            },
+            {
+                "title": "一场术后对话",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/2/2e/7j4m4ov44ny78wdvacllk16073z6aoh.png/112px-%E4%B8%80%E5%9C%BA%E6%9C%AF%E5%90%8E%E5%AF%B9%E8%AF%9D.png",
+                "img_path": "img/sr/一场术后对话.png"
+            },
+            {
+                "title": "宇宙市场趋势",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/e/e9/svwdk3yfbv6mvpn7ev4ajj3ew152e52.png/112px-%E5%AE%87%E5%AE%99%E5%B8%82%E5%9C%BA%E8%B6%8B%E5%8A%BF.png",
+                "img_path": "img/sr/宇宙市场趋势.png"
+            }
+        ]
+    },
+    {
+        "title": "「溯回忆象」光锥活动跃迁",
+        "type": "武器",
+        "timer": [
+            "2025/02/26 10:00",
+            "2025/03/19 11:59"
+        ],
+        "gachas": [
+            {
+                "title": "落日时起舞",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/d/d2/c4luysg9im43c6gbz319m9lo0eb9uga.png/112px-%E8%90%BD%E6%97%A5%E6%97%B6%E8%B5%B7%E8%88%9E.png",
+                "img_path": "img/sr/落日时起舞.png"
+            },
+            {
+                "title": "与行星相会",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/0/00/l66yszhlv3n1qhxpow938qguf557tc1.png/112px-%E4%B8%8E%E8%A1%8C%E6%98%9F%E7%9B%B8%E4%BC%9A.png",
+                "img_path": "img/sr/与行星相会.png"
+            },
+            {
+                "title": "一场术后对话",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/2/2e/7j4m4ov44ny78wdvacllk16073z6aoh.png/112px-%E4%B8%80%E5%9C%BA%E6%9C%AF%E5%90%8E%E5%AF%B9%E8%AF%9D.png",
+                "img_path": "img/sr/一场术后对话.png"
+            },
+            {
+                "title": "宇宙市场趋势",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/e/e9/svwdk3yfbv6mvpn7ev4ajj3ew152e52.png/112px-%E5%AE%87%E5%AE%99%E5%B8%82%E5%9C%BA%E8%B6%8B%E5%8A%BF.png",
+                "img_path": "img/sr/宇宙市场趋势.png"
+            }
+        ]
+    }
+]
