@@ -28,7 +28,7 @@ class SrSpider(scrapy.Spider):
                 })
             
             # time
-            eventTimer = [gacha.xpath('./div/span/@data-start').extract_first(), gacha.xpath('./div/span/@data-end').extract_first()]
+            eventTimer = [gacha.xpath('./div/span/@data-start').extract_first()+':00', gacha.xpath('./div/span/@data-end').extract_first()+':00']
             
             item = SpiderItem()
             item["title"] = banner_title

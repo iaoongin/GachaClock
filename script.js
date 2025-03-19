@@ -2,9 +2,11 @@ window.onload = async function () {
   // yyyyMMdd
   currentDate = new Date().toISOString().slice(0, 10).replace(/-/g, "");
   
-  await load(`spider/data/${currentDate}/zzz.json`)
-  await load(`spider/data/${currentDate}/sr.json`)
-  await load(`spider/data/${currentDate}/ww.json`)
+  meta = await fetchData(`spider/data/meta.json`)
+
+  await load(`spider/${meta.zzz}`)
+  await load(`spider/${meta.sr}`)
+  await load(`spider/${meta.ww}`)
 };
 
 async function fetchData(url, options = {}) {

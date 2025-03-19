@@ -39,11 +39,14 @@ class WwSpider(scrapy.Spider):
                         'title': title,
                         'img': img['img']
                     })
-                    
+                
+
+                raw_timer = self.safe_get(tab, 'countDown', 'dateRange', default=[])
+                timer= [raw_timer[0] + ':00', raw_timer[1]+":59"]
                 item = SpiderItem()
                 item["title"] = tab['name']
                 item["type"] =  '角色' if '角色' in title else '武器'
-                item["timer"] = self.safe_get(tab, 'countDown', 'dateRange', default=[])
+                item["timer"] = timer
                 item["gachas"] = g
                 yield item
             
