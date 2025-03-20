@@ -1,79 +1,77 @@
-import { Card, CardFooter, Image, Button, CardBody } from "@heroui/react";
+/* eslint-disable no-console */
 import DefaultLayout from "@/layouts/default";
+import {
+  Accordion,
+  AccordionItem,
+  Card,
+  CardBody,
+  CardFooter,
+  Image,
+} from "@heroui/react";
+import { useEffect, useState } from "react";
 
 export default function IndexPage() {
-  const list = [
-    {
-      title: "Orange",
-      img: "https://heroui.com/images/hero-card.jpeg",
-      price: "$5.50",
-    },
-    {
-      title: "Tangerine",
-      img: "https://heroui.com/images/hero-card.jpeg",
-      price: "$3.00",
-    },
-    {
-      title: "Raspberry",
-      img: "https://heroui.com/images/hero-card.jpeg",
-      price: "$10.00",
-    },
-    {
-      title: "Lemon",
-      img: "https://heroui.com/images/hero-card.jpeg",
-      price: "$5.30",
-    },
-    {
-      title: "Avocado",
-      img: "https://heroui.com/images/hero-card.jpeg",
-      price: "$15.70",
-    },
-    {
-      title: "Lemon 2",
-      img: "https://heroui.com/images/hero-card.jpeg",
-      price: "$8.00",
-    },
-    {
-      title: "Banana",
-      img: "https://heroui.com/images/hero-card.jpeg",
-      price: "$7.50",
-    },
-    {
-      title: "Watermelon",
-      img: "https://heroui.com/images/hero-card.jpeg",
-      price: "$12.20",
-    },
-  ];
+  const [map, setMap] = useState<any>();
+
+  useEffect(() => {
+    fetch("https://gclock.yffjglcms.com/spider/data/meta.json")
+      .then((res) => res.json())
+      .then((data) => {
+        console.log("meta:::", data);
+        Object.entries(data).forEach(([k, v]) => {
+          fetch("https://gclock.yffjglcms.com/spider/" + v)
+            .then((res1) => res1.json())
+            .then((data1) => {
+              setMap((prev: any) => ({ ...prev, [k]: data1 }));
+            });
+        });
+      });
+  }, []);
+
+  console.log("map:::", map);
 
   return (
     <DefaultLayout>
-      <div className="gap-2 grid grid-cols-2 sm:grid-cols-5">
-        {list.map((item, index) => (
-          /* eslint-disable no-console */
-          <Card
-            key={index}
-            isPressable
-            isFooterBlurred
-            shadow="sm"
-            onPress={() => console.log("item pressed")}
-          >
-            <CardBody className="overflow-visible p-0">
-              <Image
-                alt={item.title}
-                className="w-full object-cover "
-                radius="lg"
-                shadow="sm"
-                src={item.img}
-                width="100%"
-              />
-            </CardBody>
-            <CardFooter className="shadow-large justify-center before:bg-white/10 border-white/20 border-1 overflow-hidden py-1 absolute before:rounded-xl rounded-large bottom-1 w-[calc(100%_-_8px)] ml-1 z-10">
-              <p className="text-tiny text-white/80">{item.title}</p>
-              {/* <p className="text-default-500">{item.price}</p> */}
-            </CardFooter>
-          </Card>
-        ))}
+      <div>
+        <Accordion selectionMode="multiple" variant="splitted">
+          {map &&
+            Object.entries(map).map(([k, v]) => (
+              <AccordionItem key={k} aria-label={k} title={k}>
+                {v && v.map((item: any) => renderCard(item))}
+              </AccordionItem>
+            ))}
+        </Accordion>
       </div>
     </DefaultLayout>
+  );
+}
+
+function renderCard(data: any) {
+  return (
+    <div className="gap-4 grid grid-cols-2 sm:grid-cols-5 mt-1">
+      {data.gachas.map((item: any, index: number) => (
+        <Card
+          key={index}
+          isFooterBlurred
+          isPressable
+          shadow="sm"
+          onPress={() => console.log("item pressed")}
+        >
+          <CardBody className="overflow-visible p-0">
+            <Image
+              alt={item.title}
+              className="w-[230px] h-[230px] object-cover img-fit"
+              radius="lg"
+              shadow="sm"
+              src={item.img}
+            />
+          </CardBody>
+          <CardFooter className="shadow-large justify-center before:bg-white/10 border-white/20 border-1 overflow-hidden py-1 absolute before:rounded-xl rounded-large bottom-1 w-[calc(100%_-_8px)] ml-1 z-10">
+            <p className="text-tiny text-white/80">{item.title}</p>
+            {/* <p className="text-default-500">{item.price}</p> */}
+          </CardFooter>
+        </Card>
+      ))}
+    </div>
   );
 }
