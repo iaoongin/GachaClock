@@ -7,7 +7,11 @@ class SrSpider(scrapy.Spider):
     name = "sr"
     allowed_domains = ["wiki.biligame.com"]
     start_urls = ["https://wiki.biligame.com/sr/%E9%A6%96%E9%A1%B5"]
-
+    custom_settings = {
+        "ITEM_PIPELINES": {
+            "spider.pipelines.SpiderPipeline": 300,
+        },
+    }
     def parse(self, response):
         raw_gacha_list = response.xpath('//*[@id="mw-content-text"]/div/div[2]/div[3]/div[1]/div/div')
 

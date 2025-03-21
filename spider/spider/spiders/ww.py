@@ -7,6 +7,11 @@ from spider.items import SpiderItem
 class WwSpider(scrapy.Spider):
     name = "ww"
     allowed_domains = ["api.kurobbs.com"]
+    custom_settings = {
+        "ITEM_PIPELINES": {
+            "spider.pipelines.SpiderPipeline": 300,
+        },
+    }
     headers = {
         'wiki_type': '9',
         'source': 'h5',

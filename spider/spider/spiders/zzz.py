@@ -5,6 +5,11 @@ from spider.items import SpiderItem
 
 class ZzzSpider(scrapy.Spider):
     name = "zzz"
+    custom_settings = {
+        "ITEM_PIPELINES": {
+            "spider.pipelines.SpiderPipeline": 300,
+        },
+    }
     allowed_domains = ["wiki.biligame.com"]
     start_urls = ["https://wiki.biligame.com/zzz/%E9%A6%96%E9%A1%B5"]
 
