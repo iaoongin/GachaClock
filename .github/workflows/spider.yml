@@ -35,6 +35,12 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
+      # 加载缓存
+      - name: Load cache
+        run: |
+          git fetch origin gh-pages:gh-pages
+          git archive --format=tar gh-pages | tar -x -C spider
+
       # 执行脚本
       - name: Run spider script
         working-directory: spider
