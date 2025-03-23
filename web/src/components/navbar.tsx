@@ -1,29 +1,21 @@
-import { Button } from "@heroui/button";
+import { Input } from "@heroui/input";
 import { Kbd } from "@heroui/kbd";
 import { Link } from "@heroui/link";
-import { Input } from "@heroui/input";
 import {
   Navbar as HeroUINavbar,
   NavbarBrand,
   NavbarContent,
   NavbarItem,
-  NavbarMenuToggle,
   NavbarMenu,
   NavbarMenuItem,
+  NavbarMenuToggle,
 } from "@heroui/navbar";
-import { link as linkStyles } from "@heroui/theme";
-import clsx from "clsx";
+// import { link as linkStyles } from "@heroui/theme";
+// import clsx from "clsx";
 
-import { siteConfig } from "@/config/site";
+import { GithubIcon, SearchIcon } from "@/components/icons";
 import { ThemeSwitch } from "@/components/theme-switch";
-import {
-  TwitterIcon,
-  GithubIcon,
-  DiscordIcon,
-  HeartFilledIcon,
-  SearchIcon,
-} from "@/components/icons";
-import { Logo } from "@/components/icons";
+import { siteConfig } from "@/config/site";
 
 export const Navbar = () => {
   const searchInput = (
@@ -61,7 +53,7 @@ export const Navbar = () => {
           </Link>
         </NavbarBrand>
         <div className="hidden lg:flex gap-4 justify-start ml-2">
-          {siteConfig.navItems.map((item) => (
+          {/* {siteConfig.navItems.map((item) => (
             <NavbarItem key={item.href}>
               <Link
                 className={clsx(
@@ -74,7 +66,7 @@ export const Navbar = () => {
                 {item.label}
               </Link>
             </NavbarItem>
-          ))}
+          ))} */}
         </div>
       </NavbarContent>
 

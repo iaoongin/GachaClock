@@ -1,5 +1,5 @@
 {
-  "name": "vite-template",
+  "name": "gclock-web",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -31,6 +31,7 @@
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-router-dom": "6.23.0",
+    "serve-static": "^1.16.2",
     "tailwind-variants": "0.3.0",
     "tailwindcss": "3.4.16"
   },
@@ -52,9 +53,10 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-unused-imports": "4.1.4",
     "postcss": "8.4.38",
-    "prettier": "3.3.3",
+    "prettier": "^3.3.3",
     "typescript": "5.6.3",
     "vite": "^5.2.0",
+    "vite-plugin-static-copy": "^2.3.0",
     "vite-tsconfig-paths": "^4.3.2"
   }
 }
