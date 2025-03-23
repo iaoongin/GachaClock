@@ -48,8 +48,8 @@ export const Navbar = () => {
             color="foreground"
             href="/"
           >
-            {/* <Logo /> */}
-            <p className="font-bold text-inherit">gClock</p>
+            <img alt="Logo" className="w-8 h-8" src="./favicon.ico" />
+            <p className="font-bold text-inherit">gclock</p>
           </Link>
         </NavbarBrand>
         <div className="hidden lg:flex gap-4 justify-start ml-2">
