@@ -21,7 +21,3 @@ Thumbs.db
 # 忽略python
 __pycache__/
 .scrapy/
-
-# 
-img/
-data/
