@@ -1,11 +1,18 @@
-/* eslint-disable no-console */
-import { Accordion, AccordionItem, Card, CardBody, Image } from "@heroui/react";
+import {
+  Accordion,
+  AccordionItem,
+  Card,
+  CardBody,
+  CardFooter,
+  Image,
+} from "@heroui/react";
 import { useEffect, useState } from "react";
 
 import DefaultLayout from "@/layouts/default";
 
 export default function IndexPage() {
   const [cardGroup, setCardGroup] = useState<any>({});
+  const [selectedKeys, setSelectedKeys] = useState<any>([]);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -22,13 +29,7 @@ export default function IndexPage() {
       Object.keys(meta).forEach((key) => {
         console.log("key:::", key);
         fetch(`data/${key}/history.json`)
-          .then((res) => {
-            if (res.ok) {
-              return res.json();
-            } else {
-              return [];
-            }
-          })
+          .then((res) => res.json())
           .then((data) => {
             console.log("data:::", data);
             const currentVersion = data[0].version;
@@ -56,6 +57,26 @@ export default function IndexPage() {
             }));
           });
       });
+
+      // 加载ww
+      fetch(meta["ww"])
+        .then((res) => res.json())
+        .then((data) => {
+          console.log("res::", data);
+          const historyList = data.map((item: any) => item.gachas[0]);
+
+          console.log("historyList::", historyList);
+
+          // 设置group
+          setCardGroup((prev: any) => ({
+            ...prev,
+            ww: {
+              currentVersion: data[0].timer,
+              currentTimer: data[0].timer.join("~"),
+              historyList: historyList,
+            },
+          }));
+        });
     };
 
     fetchData();
@@ -63,13 +84,18 @@ export default function IndexPage() {
 
   console.log("cardGroup:::", cardGroup);
 
+  useEffect(() => {
+    setSelectedKeys(Object.keys(cardGroup));
+  }, [cardGroup]);
+
   return (
     <DefaultLayout>
       <div>
         <Accordion
-          selectedKeys={Object.keys(cardGroup)}
+          selectedKeys={selectedKeys}
           selectionMode="multiple"
           variant="splitted"
+          onSelectionChange={setSelectedKeys}
         >
           {renderAccordionItem(cardGroup)}
         </Accordion>
@@ -128,7 +154,7 @@ function renderAccordionItem(cardGroup: any) {
       aria-label={cardGroup[key].currentVersion}
       title={
         <CountdownTimer
-          prefix={`【${key}】`}
+          prefix={`【${key.toUpperCase()}】`}
           className={"text-lg"}
           date={cardGroup[key].currentTimer.split("~")[1]}
         />
@@ -141,9 +167,10 @@ function renderAccordionItem(cardGroup: any) {
 
 function renderCard(data: any) {
   return (
-    <div className="gap-4 grid grid-cols-1 sm:grid-cols-2 mt-1">
+    <div className="gap-4 grid grid-cols-1 sm:grid-cols-[repeat(auto-fit,minmax(400px,1fr))] mt-1">
       {data.map((item: any, index: number) => (
         <Card
+          className="mx-auto"
           key={index}
           isFooterBlurred
           isPressable
@@ -159,10 +186,10 @@ function renderCard(data: any) {
               src={item.img_path}
             />
           </CardBody>
-          {/* <CardFooter className="shadow-large justify-center before:bg-white/10 border-white/20 border-1 overflow-hidden py-1 absolute before:rounded-xl rounded-large bottom-1 w-[calc(100%_-_8px)] ml-1 z-10"> */}
-          {/* <p className="text-base text-white/80">{item.title}</p> */}
-          {/* <p className="text-default-500">{item.price}</p> */}
-          {/* </CardFooter> */}
+          <CardFooter className="shadow-large justify-center before:bg-white/10 border-white/20 border-1 overflow-hidden py-1 absolute before:rounded-xl rounded-large bottom-1 w-[calc(100%_-_8px)] ml-1 z-10">
+            <p className="text-base text-white/80">{item.title}</p>
+            {/* <p className="text-default-500">{item.price}</p> */}
+          </CardFooter>
         </Card>
       ))}
     </div>
