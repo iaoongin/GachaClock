@@ -20,3 +20,13 @@ class GachaItem(TypedDict):
     title: str
     img: str
     img_path: str
+    
+class HistoryItem(scrapy.Item):
+    title = scrapy.Field()
+    img = scrapy.Field()
+    img_path = scrapy.Field()
+    version = scrapy.Field()
+    timer = scrapy.Field()
+    s = scrapy.Field()
+    a = scrapy.Field()
+    pass
