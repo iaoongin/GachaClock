@@ -4,7 +4,7 @@ name: Spider Build Deploy
 on:
   # 每天凌晨 0 点执行，仅在 dev 分支触发
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   # 手动触发，仅在 dev 分支触发
   workflow_dispatch:
   # 当 push 到 dev 分支时触发
@@ -16,11 +16,12 @@ on:
 permissions:
   id-token: write
   pages: write
-  contents: write  # 允许 GitHub Actions 修改代码（如 push）
+  contents: write # 允许 GitHub Actions 修改代码（如 push）
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 5 # 任务最大执行时间 5 分钟
 
     steps:
       # 检出代码
@@ -68,7 +69,7 @@ jobs:
       - name: Set up Node.js environment
         uses: actions/setup-node@v3
         with:
-          node-version: '20'
+          node-version: "20"
 
       # 安装依赖、构建网站
       - name: Build website
@@ -92,4 +93,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4  
+        uses: actions/deploy-pages@v4
