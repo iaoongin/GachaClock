@@ -1,8 +1,8 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "Vite + HeroUI",
-  description: "Make beautiful websites regardless of your design experience.",
+  name: 'Vite + HeroUI',
+  description: 'Make beautiful websites regardless of your design experience.',
   navItems: [
     // {
     //   label: "Home",
@@ -27,43 +27,43 @@ export const siteConfig = {
   ],
   navMenuItems: [
     {
-      label: "Profile",
-      href: "/profile",
+      label: 'Profile',
+      href: '/profile',
     },
     {
-      label: "Dashboard",
-      href: "/dashboard",
+      label: 'Dashboard',
+      href: '/dashboard',
     },
     {
-      label: "Projects",
-      href: "/projects",
+      label: 'Projects',
+      href: '/projects',
     },
     {
-      label: "Team",
-      href: "/team",
+      label: 'Team',
+      href: '/team',
     },
     {
-      label: "Calendar",
-      href: "/calendar",
+      label: 'Calendar',
+      href: '/calendar',
     },
     {
-      label: "Settings",
-      href: "/settings",
+      label: 'Settings',
+      href: '/settings',
     },
     {
-      label: "Help & Feedback",
-      href: "/help-feedback",
+      label: 'Help & Feedback',
+      href: '/help-feedback',
     },
     {
-      label: "Logout",
-      href: "/logout",
+      label: 'Logout',
+      href: '/logout',
     },
   ],
   links: {
-    github: "https://github.com/iaoongin/GachaClock",
-    twitter: "",
-    docs: "",
-    discord: "",
-    sponsor: "",
+    github: 'https://github.com/iaoongin/GachaClock',
+    twitter: '',
+    docs: '',
+    discord: '',
+    sponsor: '',
   },
 };

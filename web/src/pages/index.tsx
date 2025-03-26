@@ -1,14 +1,7 @@
-import {
-  Accordion,
-  AccordionItem,
-  Card,
-  CardBody,
-  CardFooter,
-  Image,
-} from "@heroui/react";
-import { useEffect, useState } from "react";
+import { Accordion, AccordionItem, Card, CardBody, CardFooter, Image } from '@heroui/react';
+import { useEffect, useState } from 'react';
 
-import DefaultLayout from "@/layouts/default";
+import DefaultLayout from '@/layouts/default';
 
 export default function IndexPage() {
   const [cardGroup, setCardGroup] = useState<any>({});
@@ -16,7 +9,7 @@ export default function IndexPage() {
 
   useEffect(() => {
     const fetchData = async () => {
-      const meta = await fetch("data/meta.json").then((res) => {
+      const meta = await fetch('data/meta.json').then((res) => {
         if (res.ok) {
           return res.json();
         } else {
@@ -24,24 +17,21 @@ export default function IndexPage() {
         }
       });
 
-      console.log("meta:::", meta);
+      console.log('meta:::', meta);
 
       Object.keys(meta).forEach((key) => {
-        console.log("key:::", key);
+        console.log('key:::', key);
         fetch(`data/${key}/history.json`)
           .then((res) => res.json())
           .then((data) => {
-            console.log("data:::", data);
+            console.log('data:::', data);
             const currentVersion = data[0].version;
             const historyList = data
               .filter((item: any) => item.version === currentVersion)
               .map((item: any) => {
                 let copy = { ...item };
 
-                copy.title = item.title.substring(
-                  0,
-                  item.title.indexOf("」") + 1
-                );
+                copy.title = item.title.substring(0, item.title.indexOf('」') + 1);
 
                 return copy;
               });
@@ -59,20 +49,20 @@ export default function IndexPage() {
       });
 
       // 加载ww
-      fetch(meta["ww"])
+      fetch(meta['ww'])
         .then((res) => res.json())
         .then((data) => {
-          console.log("res::", data);
+          console.log('res::', data);
           const historyList = data.map((item: any) => item.gachas[0]);
 
-          console.log("historyList::", historyList);
+          console.log('historyList::', historyList);
 
           // 设置group
           setCardGroup((prev: any) => ({
             ...prev,
             ww: {
               currentVersion: data[0].timer,
-              currentTimer: data[0].timer.join("~"),
+              currentTimer: data[0].timer.join('~'),
               historyList: historyList,
             },
           }));
@@ -82,7 +72,7 @@ export default function IndexPage() {
     fetchData();
   }, []);
 
-  console.log("cardGroup:::", cardGroup);
+  console.log('cardGroup:::', cardGroup);
 
   useEffect(() => {
     setSelectedKeys(Object.keys(cardGroup));
@@ -107,7 +97,7 @@ export default function IndexPage() {
 // 时间格式化函数
 const formatTime = (seconds: number) => {
   if (seconds <= 0) {
-    return "已结束";
+    return '已结束';
   }
 
   const days = Math.floor(seconds / (24 * 3600)); // 计算天数
@@ -162,8 +152,8 @@ function renderAccordionItem(cardGroup: any) {
         title={
           <CountdownTimer
             prefix={`【${key.toUpperCase()}】`}
-            className={"text-lg"}
-            date={cardGroup[key].currentTimer.split("~")[1]}
+            className={'text-lg'}
+            date={cardGroup[key].currentTimer.split('~')[1]}
           />
         }
       >
@@ -182,7 +172,7 @@ function renderCard(data: any) {
           isFooterBlurred
           isPressable
           shadow="sm"
-          onPress={() => console.log("item pressed")}
+          onPress={() => console.log('item pressed')}
         >
           <CardBody className="overflow-visible p-0">
             <Image
