@@ -40,5 +40,5 @@ class WwHistorySpider(scrapy.Spider):
                 item["version"] = version
                 item["timer"] = timer
                 item["s"] = s
-                item["a"] = list(set(a))
+                item["a"] = sorted(set(a))
                 yield item
