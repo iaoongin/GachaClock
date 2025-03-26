@@ -43,8 +43,13 @@ jobs:
 
       # 执行脚本
       - name: Run spider script
-        working-directory: spider
-        run: python run_spider.py
+        uses: nick-fields/retry@v2
+        with:
+          timeout_minutes: 5
+          max_attempts: 3
+          command: |
+            cd spider
+            python run_spider.py
 
       # 提交更改
       - name: Commit and push changes
