@@ -106,6 +106,10 @@ export default function IndexPage() {
 
 // 时间格式化函数
 const formatTime = (seconds: number) => {
+  if (seconds <= 0) {
+    return "已结束";
+  }
+
   const days = Math.floor(seconds / (24 * 3600)); // 计算天数
   const hours = Math.floor((seconds % (24 * 3600)) / 3600); // 计算小时
   const minutes = Math.floor((seconds % 3600) / 60); // 计算分钟
@@ -123,6 +127,7 @@ interface CountdownTimerProps {
 // 倒计时组件
 const CountdownTimer = ({ date, className, prefix }: CountdownTimerProps) => {
   // console.log("date:::", date);
+
   const initialTime = new Date(date).getTime() - new Date().getTime();
   const [timeLeft, setTimeLeft] = useState(initialTime / 1000);
 
@@ -148,21 +153,23 @@ function renderAccordionItem(cardGroup: any) {
     return <AccordionItem>Loading...</AccordionItem>;
   }
 
-  return Object.keys(cardGroup).map((key) => (
-    <AccordionItem
-      key={key}
-      aria-label={cardGroup[key].currentVersion}
-      title={
-        <CountdownTimer
-          prefix={`【${key.toUpperCase()}】`}
-          className={"text-lg"}
-          date={cardGroup[key].currentTimer.split("~")[1]}
-        />
-      }
-    >
-      {renderCard(cardGroup[key].historyList)}
-    </AccordionItem>
-  ));
+  return Object.keys(cardGroup)
+    .sort((a, b) => a.localeCompare(b))
+    .map((key) => (
+      <AccordionItem
+        key={key}
+        aria-label={cardGroup[key].currentVersion}
+        title={
+          <CountdownTimer
+            prefix={`【${key.toUpperCase()}】`}
+            className={"text-lg"}
+            date={cardGroup[key].currentTimer.split("~")[1]}
+          />
+        }
+      >
+        {renderCard(cardGroup[key].historyList)}
+      </AccordionItem>
+    ));
 }
 
 function renderCard(data: any) {
