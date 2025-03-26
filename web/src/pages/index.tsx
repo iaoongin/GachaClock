@@ -2,10 +2,11 @@ import { Accordion, AccordionItem, Card, CardBody, CardFooter, Image } from '@he
 import { useEffect, useState } from 'react';
 
 import DefaultLayout from '@/layouts/default';
+import { useLocalStorage } from 'react-use';
 
 export default function IndexPage() {
   const [cardGroup, setCardGroup] = useState<any>({});
-  const [selectedKeys, setSelectedKeys] = useState<any>([]);
+  const [expandedKeys, setExpandedKeys] = useLocalStorage('expandedKeys', null); // 初始值为空
 
   useEffect(() => {
     const fetchData = async () => {
@@ -75,17 +76,24 @@ export default function IndexPage() {
   console.log('cardGroup:::', cardGroup);
 
   useEffect(() => {
-    setSelectedKeys(Object.keys(cardGroup));
-  }, [cardGroup]);
+    if (expandedKeys) {
+      return;
+    }
+
+    setExpandedKeys(Object.keys(cardGroup));
+  }, [cardGroup, expandedKeys, setExpandedKeys]);
 
   return (
     <DefaultLayout>
       <div>
         <Accordion
-          selectedKeys={selectedKeys}
+          expandedKeys={expandedKeys}
+          defaultExpandedKeys={expandedKeys}
           selectionMode="multiple"
           variant="splitted"
-          onSelectionChange={setSelectedKeys}
+          onExpandedChange={(keys) => {
+            setExpandedKeys([...keys]);
+          }}
         >
           {renderAccordionItem(cardGroup)}
         </Accordion>
