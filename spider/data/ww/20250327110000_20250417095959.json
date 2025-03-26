@@ -1,0 +1,122 @@
+[
+    {
+        "title": "映海之梦",
+        "type": "武器",
+        "timer": [
+            "2025-03-27 11:00:00",
+            "2025-04-17 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "坎特蕾拉",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/5f8da721dffe4bd4aa91e4c512056b7420250326.png",
+                "img_path": "img/ww/坎特蕾拉.png"
+            },
+            {
+                "title": "丹瑾",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/e2a527d34f884e0a85803dc4eefe578820250326.png",
+                "img_path": "img/ww/丹瑾.png"
+            },
+            {
+                "title": "炽霞",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/6986cbcb1e8a4e718497c95f6e04a44a20250326.png",
+                "img_path": "img/ww/炽霞.png"
+            },
+            {
+                "title": "渊武",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/9af9bcb8cd4642c3b94019c96e162ba920250326.png",
+                "img_path": "img/ww/渊武.png"
+            }
+        ]
+    },
+    {
+        "title": "徘徊迷宫尽处",
+        "type": "武器",
+        "timer": [
+            "2025-03-27 11:00:00",
+            "2025-04-17 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "椿",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/79b4f090f6b34862b748e67309dfd63120250326.jpg",
+                "img_path": "img/ww/椿.png"
+            },
+            {
+                "title": "丹瑾",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/1a5f083bb9204079b730a6ccfe90a90b20250326.png",
+                "img_path": "img/ww/丹瑾.png"
+            },
+            {
+                "title": "炽霞",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/21f02268d3d84beeb8d5f90ebedb909120250326.png",
+                "img_path": "img/ww/炽霞.png"
+            },
+            {
+                "title": "渊武",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/6775396077a442e4a7f9a2ae85d74b6220250326.png",
+                "img_path": "img/ww/渊武.png"
+            }
+        ]
+    },
+    {
+        "title": "海的呢喃",
+        "type": "武器",
+        "timer": [
+            "2025-03-27 11:00:00",
+            "2025-04-17 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "不灭航路",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/6cb647673bc4416e8849c477629409ba20250326.png",
+                "img_path": "img/ww/不灭航路.png"
+            },
+            {
+                "title": "核熔星盘",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/85ad7cfd3a5b4c4186a17ce005474e1a20250326.png",
+                "img_path": "img/ww/核熔星盘.png"
+            },
+            {
+                "title": "西升",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/6825c90dcddd42f0a54a3a1f3fe8f04d20250326.png",
+                "img_path": "img/ww/西升.png"
+            },
+            {
+                "title": "华彩乐段",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/6d8f585f0b0247379b4b1ba9ae0f3b1b20250326.png",
+                "img_path": "img/ww/华彩乐段.png"
+            }
+        ]
+    },
+    {
+        "title": "裁春",
+        "type": "武器",
+        "timer": [
+            "2025-03-27 11:00:00",
+            "2025-04-17 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "裁春",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/c31cb39fbcc34523852e6f092b29bf3320250326.png",
+                "img_path": "img/ww/裁春.png"
+            },
+            {
+                "title": "核熔星盘",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/60d19886197444718284cafa4f7387c020250326.png",
+                "img_path": "img/ww/核熔星盘.png"
+            },
+            {
+                "title": "西升",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/97fc70b98ae14a848474a18f18e4ab4820250326.png",
+                "img_path": "img/ww/西升.png"
+            },
+            {
+                "title": "华彩乐段",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/7301a113547d46e7892fa09bd3430bd220250326.png",
+                "img_path": "img/ww/华彩乐段.png"
+            }
+        ]
+    }
+]
