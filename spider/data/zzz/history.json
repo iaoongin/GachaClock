@@ -1,5 +1,53 @@
 [
     {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/f/f2/0i3obiw111srt1k76oa4kf1p0sik7gn.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5013-1%E6%9C%9F.png",
+        "title": "「冥目幽华」013-1期独家频段",
+        "version": "1.6下半",
+        "timer": "2025/04/02 12:00:00 ~ 2025/04/22 14:59:59",
+        "s": "「扳机」",
+        "a": [
+            "比利",
+            "露西"
+        ],
+        "img_path": "img/zzz/history/「冥目幽华」013-1期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/e/ee/r2ynxyz9u716f4peeu6vo2fum6xfk7t.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5013-1%E6%9C%9F.png",
+        "title": "「灿烂和声」013-1期音擎频段",
+        "version": "1.6下半",
+        "timer": "2025/04/02 12:00:00 ~ 2025/04/22 14:59:59",
+        "s": "索魂影眸",
+        "a": [
+            "仿制星徽引擎",
+            "好斗的阿炮"
+        ],
+        "img_path": "img/zzz/history/「灿烂和声」013-1期音擎频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/0/02/e32i1pzkzznjq15wckfn6oup1zazmjj.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5013-2%E6%9C%9F.png",
+        "title": "「直如朱丝绳」013-2期独家频段",
+        "version": "1.6下半",
+        "timer": "2025/04/02 12:00:00 ~ 2025/04/22 14:59:59",
+        "s": "朱鸢",
+        "a": [
+            "比利",
+            "露西"
+        ],
+        "img_path": "img/zzz/history/「直如朱丝绳」013-2期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/9/92/5h5wvlzvflkr0kklxudu37049debblg.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5013-2%E6%9C%9F.png",
+        "title": "「璀璨韵律」013-2期音擎频段",
+        "version": "1.6下半",
+        "timer": "2025/04/02 12:00:00 ~ 2025/04/22 14:59:59",
+        "s": "防暴者Ⅵ型",
+        "a": [
+            "仿制星徽引擎",
+            "好斗的阿炮"
+        ],
+        "img_path": "img/zzz/history/「璀璨韵律」013-2期音擎频段.png"
+    },
+    {
         "img": "https://patchwiki.biligame.com/images/zzz/thumb/6/6d/c4i5wlnsl8zw5j62fbgcy14ty65wvz4.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5012-1%E6%9C%9F.png",
         "title": "「露电倒影」012-1期独家频段",
         "version": "1.6上半",
@@ -85,7 +133,7 @@
     },
     {
         "img": "https://patchwiki.biligame.com/images/zzz/thumb/9/9c/at1kardk5dvcmjjsa7pbzl8gowr3hab.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5011-2%E6%9C%9F.png",
-        "title": "「灿烂和声」011-2期音擎频段",
+        "title": "「2」011-2期音擎频段",
         "version": "1.5下半",
         "timer": "2025/02/12 12:00:00 ~ 2025/03/11 14:59:59",
         "s": "玉壶青冰",
@@ -93,7 +141,7 @@
             "旋钻机-赤轴",
             "聚宝箱"
         ],
-        "img_path": "img/zzz/history/「灿烂和声」011-2期音擎频段.png"
+        "img_path": "img/zzz/history/「2」011-2期音擎频段.png"
     },
     {
         "img": "https://patchwiki.biligame.com/images/zzz/thumb/c/c5/fqf666cqz1fcogqqkczowg994qkzij8.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5010-1%E6%9C%9F.png",
@@ -133,7 +181,7 @@
     },
     {
         "img": "https://patchwiki.biligame.com/images/zzz/thumb/f/f5/pee96wd6u1u0hadbdqg3qh3k3nwrxgb.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5010-2%E6%9C%9F.png",
-        "title": "「灿烂和声」010-2期音擎频段",
+        "title": "「2」010-2期音擎频段",
         "version": "1.5上半",
         "timer": "1.5版本更新后 ~ 2025/02/12 11:59:59",
         "s": "深海访客",
@@ -141,7 +189,7 @@
             "家政员",
             "德玛拉电池Ⅱ型"
         ],
-        "img_path": "img/zzz/history/「灿烂和声」010-2期音擎频段.png"
+        "img_path": "img/zzz/history/「2」010-2期音擎频段.png"
     },
     {
         "img": "https://patchwiki.biligame.com/images/zzz/thumb/f/f0/oh6y0c8o07bl8xhz77svpibu4w6jiuo.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5009-1%E6%9C%9F.png",
