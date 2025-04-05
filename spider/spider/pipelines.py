@@ -166,6 +166,11 @@ class HistoryPipeline:
 
     def close_spider(self, spider):
         try:
+            
+            if len(self.items) == 0:
+                print("没有数据")
+                return
+            
             # 生成文件名
             file_name = f"{data_dir}/{spider.name}.{ext}"
             print(f"目标文件路径： {file_name}")
