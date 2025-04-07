@@ -83,6 +83,26 @@ jobs:
           npm install
           npm run build
 
+      - name: Generate 404 Page # This example project is built using npm and outputs the result to the 'build' folder. Replace with the commands required to build your project, or remove this step entirely if your site is pre-built.
+        run: |
+          echo "<!DOCTYPE html>" > dist/404.html
+          echo "<html>" >> dist/404.html
+          echo "  <head>" >> dist/404.html
+          echo "    <title>Redirecting...</title>" >> dist/404.html
+          echo "    <script>" >> dist/404.html
+          echo "      const path = location.pathname;" >> dist/404.html
+          echo "      const pos = path.indexOf('\/', 1);" >> dist/404.html
+          echo "      const repo = path.substring(0, pos);" >> dist/404.html
+          echo "      const ghpage = path.substring(pos);" >> dist/404.html
+          echo "      const redirectUrl = location.origin+repo+'/?ghpage='+encodeURIComponent(ghpage+location.search);" >> dist/404.html
+          echo "      window.location.replace(redirectUrl);" >> dist/404.html
+          echo "    </script>" >> dist/404.html
+          echo "  </head>" >> dist/404.html
+          echo "  <body>" >> dist/404.html
+          echo "    Redirecting..." >> dist/404.html
+          echo "  </body>" >> dist/404.html
+          echo "</html>" >> dist/404.html
+
       - name: Upload static files as artifact
         id: deployment
         uses: actions/upload-pages-artifact@v3 # or specific "vX.X.X" version tag for this action
