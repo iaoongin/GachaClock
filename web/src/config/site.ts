@@ -4,13 +4,13 @@ export const siteConfig = {
   name: 'Vite + HeroUI',
   description: 'Make beautiful websites regardless of your design experience.',
   navItems: [
+    {
+      label: "Home",
+      href: "/",
+    },
     // {
-    //   label: "Home",
-    //   href: "/",
-    // },
-    // {
-    //   label: "Docs",
-    //   href: "/docs",
+    //   label: "History",
+    //   href: "/history",
     // },
     // {
     //   label: "Pricing",
@@ -27,37 +27,13 @@ export const siteConfig = {
   ],
   navMenuItems: [
     {
-      label: 'Profile',
-      href: '/profile',
+      label: "Home",
+      href: "/",
     },
-    {
-      label: 'Dashboard',
-      href: '/dashboard',
-    },
-    {
-      label: 'Projects',
-      href: '/projects',
-    },
-    {
-      label: 'Team',
-      href: '/team',
-    },
-    {
-      label: 'Calendar',
-      href: '/calendar',
-    },
-    {
-      label: 'Settings',
-      href: '/settings',
-    },
-    {
-      label: 'Help & Feedback',
-      href: '/help-feedback',
-    },
-    {
-      label: 'Logout',
-      href: '/logout',
-    },
+    // {
+    //   label: "History",
+    //   href: "/history",
+    // },
   ],
   links: {
     github: 'https://github.com/iaoongin/GachaClock',
