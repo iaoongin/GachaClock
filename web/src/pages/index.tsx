@@ -1,10 +1,10 @@
-import { Accordion, AccordionItem, Card, CardBody, CardFooter, Image } from '@heroui/react';
+import { Accordion, AccordionItem } from '@heroui/react';
 import { useEffect, useState } from 'react';
 
-import DefaultLayout from '@/layouts/default';
-import { useLocalStorage } from 'react-use';
 import { CardPool, CardPoolProps, CountdownTimer } from '@/components/card-pool';
+import DefaultLayout from '@/layouts/default';
 import { Link } from '@heroui/link';
+import { useLocalStorage } from 'react-use';
 
 export default function IndexPage() {
   const [cardGroup, setCardGroup] = useState<CardPoolProps>();
@@ -22,54 +22,10 @@ export default function IndexPage() {
 
       console.log('meta:::', meta);
 
-      Object.keys(meta).forEach((key) => {
-        console.log('key:::', key);
-        fetch(`data/${key}/history.json`)
-          .then((res) => res.json())
-          .then((data) => {
-            console.log('data:::', data);
-            const currentVersion = data[0].version;
-            const historyList = data
-              .filter((item: any) => item.version === currentVersion)
-              .map((item: any) => {
-                let copy = { ...item };
-
-                copy.title = item.title.substring(0, item.title.indexOf('」') + 1);
-
-                return copy;
-              });
-
-            // 设置group
-            setCardGroup((prev: any) => ({
-              ...prev,
-              [key]: {
-                currentVersion: historyList[0].version,
-                currentTimer: historyList[0].timer,
-                historyList: historyList,
-              },
-            }));
-          });
+      Object.keys(meta).forEach((game) => {
+        console.log('game:::', game);
+        fetchEachGame(game, meta[game]);
       });
-
-      // 加载ww
-      fetch(meta['ww'])
-        .then((res) => res.json())
-        .then((data) => {
-          console.log('res::', data);
-          const historyList = data.map((item: any) => item.gachas[0]);
-
-          console.log('historyList::', historyList);
-
-          // 设置group
-          setCardGroup((prev: any) => ({
-            ...prev,
-            ww: {
-              currentVersion: data[0].timer,
-              currentTimer: data[0].timer.join('~'),
-              historyList: historyList,
-            },
-          }));
-        });
     };
 
     fetchData();
@@ -127,4 +83,71 @@ export default function IndexPage() {
       </div>
     </DefaultLayout>
   );
+
+  function fetchEachGame(key: string, lastPoolUrl: string) {
+    fetch(`data/${key}/history.json`)
+      .then((res) => res.json())
+      .then(async (data) => {
+        console.log('data:::', data);
+        const currentVersion = data[0].version;
+        const historyList = data
+          .filter((item: any) => item.version === currentVersion)
+          .map((item: any) => {
+            let copy = { ...item };
+
+            copy.title = item.title.substring(0, item.title.indexOf('」') + 1);
+
+            return copy;
+          });
+
+        const currentEndTimer = historyList[0].timer.split('~')[1];
+        if (new Date(currentEndTimer).getTime() < new Date().getTime()) {
+          // 当前版本已过期, 从最新卡池信息获取
+          console.log(`${key} 当前版本已过期(${currentEndTimer}), 从最新卡池信息获取`);
+          return await fallbackFetch(key, lastPoolUrl);
+        }
+
+        // 设置group
+        setCardGroup((prev: any) => ({
+          ...prev,
+          [key]: {
+            currentVersion: historyList[0].version,
+            currentTimer: historyList[0].timer,
+            historyList: historyList,
+          },
+        }));
+      })
+      .catch(async (err) => {
+        console.log('err:::', err);
+        // 无法获取历史卡池信息，从最新卡池信息获取
+        console.log(`${key} 无法获取历史卡池信息，从最新卡池信息获取`);
+        return await fallbackFetch(key, lastPoolUrl);
+      });
+  }
+
+  async function fallbackFetch(key: string, lastPoolUrl: string) {
+    fetch(lastPoolUrl)
+      .then((res) => res.json())
+      .then((data) => {
+        console.log('data::', data);
+        const historyList = data.map((item: any) => item.gachas[0]);
+
+        console.log('historyList::', historyList);
+
+        let cardGroup = {
+          [key]: {
+            currentVersion: data[0].timer,
+            currentTimer: data[0].timer.join('~'),
+            historyList: historyList,
+          },
+        };
+
+        // 设置group
+        setCardGroup((prev: any) => ({
+          ...prev,
+          ...cardGroup,
+        }));
+        return;
+      });
+  }
 }
