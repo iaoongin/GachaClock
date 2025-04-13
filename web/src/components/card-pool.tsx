@@ -55,7 +55,7 @@ export const CardPool: React.FC<CardPoolProps> = ({ historyList }: CardPoolProps
     console.log('validDimensions:::', validDimensions);
 
     // 计算平均宽度和最大列数
-    const maxWidth = Math.max(...validDimensions.map((img) => img.width));
+    const maxWidth = Math.max(...validDimensions.map((img: any) => img?.width));
 
     let calcItemWidth = maxWidth;
     if (calcItemWidth > containerWidth) {
