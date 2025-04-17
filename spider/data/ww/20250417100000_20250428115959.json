@@ -1,0 +1,62 @@
+[
+    {
+        "title": "直至海水褪色",
+        "type": "武器",
+        "timer": [
+            "2025-04-17 10:00:00",
+            "2025-04-28 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "守岸人",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/fcec4f5dd1294df696660611d29017f220250416.png",
+                "img_path": "img/ww/守岸人.png"
+            },
+            {
+                "title": "白芷",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/ef5ee60b88db452da7fc4922fdce1b8720250416.png",
+                "img_path": "img/ww/白芷.png"
+            },
+            {
+                "title": "散华",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/c21dfb1395da40d5995320edf7ceafe320250416.png",
+                "img_path": "img/ww/散华.png"
+            },
+            {
+                "title": "秋水",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/526166ac1aa3464cb3eaad9da75dfd6320250416.png",
+                "img_path": "img/ww/秋水.png"
+            }
+        ]
+    },
+    {
+        "title": "星序协响",
+        "type": "武器",
+        "timer": [
+            "2025-04-17 10:00:00",
+            "2025-04-28 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "星序协响",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/53616b71adb040caa9254019e1ace3db20250416.png",
+                "img_path": "img/ww/星序协响.png"
+            },
+            {
+                "title": "永续坍缩",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/9408141196384eaab26d64d862ffba1c20250416.png",
+                "img_path": "img/ww/永续坍缩.png"
+            },
+            {
+                "title": "异度",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/205d839f7c524f0ca8d6f6eb7e3b107f20250416.png",
+                "img_path": "img/ww/异度.png"
+            },
+            {
+                "title": "无眠烈火",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/d567918280d246019237b95e280790e620250416.png",
+                "img_path": "img/ww/无眠烈火.png"
+            }
+        ]
+    }
+]
