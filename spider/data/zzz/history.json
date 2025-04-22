@@ -1,5 +1,53 @@
 [
     {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/c/ce/itx36xi9szh7yuz5kv2jcdr9s7y0xr0.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5014-1%E6%9C%9F.png",
+        "title": "「飞鸟坠入良夜」014-1期独家频段",
+        "version": "1.7上半",
+        "timer": "1.7版本更新后 ~ 2025/05/14 11:59:59",
+        "s": "薇薇安",
+        "a": [
+            "派派",
+            "赛斯"
+        ],
+        "img_path": "img/zzz/history/「飞鸟坠入良夜」014-1期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/d/df/jkuk5v8wscu5mftsilv3yhkdfk74l8i.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5014-1%E6%9C%9F.png",
+        "title": "「喧哗奏鸣」014-1期音擎频段",
+        "version": "1.7上半",
+        "timer": "1.7版本更新后 ~ 2025/05/14 11:59:59",
+        "s": "飞鸟星梦",
+        "a": [
+            "维序者-特化型",
+            "轰鸣座驾"
+        ],
+        "img_path": "img/zzz/history/「喧哗奏鸣」014-1期音擎频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/c/c2/0rnioi98edl637ujusp5pkyf9p3cydw.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5014-2%E6%9C%9F.png",
+        "title": "「『查无此人』」014-2期独家频段",
+        "version": "1.7上半",
+        "timer": "1.7版本更新后 ~ 2025/05/14 11:59:59",
+        "s": "简",
+        "a": [
+            "派派",
+            "赛斯"
+        ],
+        "img_path": "img/zzz/history/「『查无此人』」014-2期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/7/7d/0byea1yplxupt9wjgt22ib6jfaeetgw.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5014-2%E6%9C%9F.png",
+        "title": "「激荡谐振」014-2期音擎频段",
+        "version": "1.7上半",
+        "timer": "1.7版本更新后 ~ 2025/05/14 11:59:59",
+        "s": "淬锋钳刺",
+        "a": [
+            "维序者-特化型",
+            "轰鸣座驾"
+        ],
+        "img_path": "img/zzz/history/「激荡谐振」014-2期音擎频段.png"
+    },
+    {
         "img": "https://patchwiki.biligame.com/images/zzz/thumb/f/f2/0i3obiw111srt1k76oa4kf1p0sik7gn.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5013-1%E6%9C%9F.png",
         "title": "「冥目幽华」013-1期独家频段",
         "version": "1.6下半",
