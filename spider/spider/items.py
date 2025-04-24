@@ -30,3 +30,9 @@ class HistoryItem(scrapy.Item):
     s = scrapy.Field()
     a = scrapy.Field()
     pass
+
+class RoleItem(scrapy.Item):
+    title = scrapy.Field()
+    simple_img = scrapy.Field()
+    promotion_img = scrapy.Field()
+    pass

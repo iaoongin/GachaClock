@@ -5,6 +5,7 @@ from spider.spiders.sr import SrSpider
 from spider.spiders.ww import WwSpider
 from spider.spiders.sr_history import SrHistorySpider
 from spider.spiders.zzz_history import ZzzHistorySpider
+from spider.spiders.sr_role import SrRoleSpider
 
 # 获取项目的配置
 settings = get_project_settings()
@@ -15,4 +16,5 @@ process.crawl(SrSpider)
 process.crawl(WwSpider)
 process.crawl(SrHistorySpider)
 process.crawl(ZzzHistorySpider)
+process.crawl(SrRoleSpider)
 process.start()
