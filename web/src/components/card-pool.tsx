@@ -107,7 +107,8 @@ export const CardPool: React.FC<CardPoolProps> = ({ historyList }: CardPoolProps
               width={maxItemWidth}
               radius="lg"
               shadow="sm"
-              src={item.img_path}
+              src={item.img}
+              fallbackSrc={item.img_path}
               onLoad={(e) => handleImageLoad(e, item.title)}
             />
           </CardBody>
