@@ -1,0 +1,102 @@
+[
+    {
+        "title": "「飞鸟坠入良夜」独家频段",
+        "type": "角色",
+        "timer": [
+            "2025/04/23 11:00:00",
+            "2025/05/14 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "薇薇安",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/7/79/bvjii4ks3f3azw21ablr42xk1f13n7t.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E8%96%87%E8%96%87%E5%AE%89.png",
+                "img_path": "img/zzz/薇薇安.png"
+            },
+            {
+                "title": "派派",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/9/97/pfu4zzfl1h0cwia744at26rwtzi0997.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E6%B4%BE%E6%B4%BE.png",
+                "img_path": "img/zzz/派派.png"
+            },
+            {
+                "title": "赛斯",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/a/a5/h30yvx8psx74cu0l64asyml4in4othp.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E8%B5%9B%E6%96%AF.png",
+                "img_path": "img/zzz/赛斯.png"
+            }
+        ]
+    },
+    {
+        "title": "「『查无此人』」独家频段",
+        "type": "角色",
+        "timer": [
+            "2025/04/23 11:00:00",
+            "2025/05/14 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "简",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/0/0b/68nwr179hb7ueguv7fu27eum3pnrjs5.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E7%AE%80.png",
+                "img_path": "img/zzz/简.png"
+            },
+            {
+                "title": "派派",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/9/97/pfu4zzfl1h0cwia744at26rwtzi0997.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E6%B4%BE%E6%B4%BE.png",
+                "img_path": "img/zzz/派派.png"
+            },
+            {
+                "title": "赛斯",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/a/a5/h30yvx8psx74cu0l64asyml4in4othp.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E8%B5%9B%E6%96%AF.png",
+                "img_path": "img/zzz/赛斯.png"
+            }
+        ]
+    },
+    {
+        "title": "「喧哗奏鸣」音擎频段",
+        "type": "武器",
+        "timer": [
+            "2025/04/23 11:00:00",
+            "2025/05/14 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "飞鸟星梦",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/1/19/ru4qwi5a587kmric6sx03sqxrf50l2a.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E9%A3%9E%E9%B8%9F%E6%98%9F%E6%A2%A6.png",
+                "img_path": "img/zzz/飞鸟星梦.png"
+            },
+            {
+                "title": "轰鸣座驾",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/c/cc/d3td2ztk9yzd7kn1nke9728qpy8adth.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E8%BD%B0%E9%B8%A3%E5%BA%A7%E9%A9%BE.png",
+                "img_path": "img/zzz/轰鸣座驾.png"
+            },
+            {
+                "title": "维序者-特化型",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/4/42/eczijuoll659lemk3wyeauhw7v0sw2b.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E7%BB%B4%E5%BA%8F%E8%80%85-%E7%89%B9%E5%8C%96%E5%9E%8B.png",
+                "img_path": "img/zzz/维序者-特化型.png"
+            }
+        ]
+    },
+    {
+        "title": "「激荡谐振」音擎频段",
+        "type": "武器",
+        "timer": [
+            "2025/04/23 11:00:00",
+            "2025/05/14 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "淬锋钳刺",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/6/63/6wqy6bws98wnk6q3hyb4jri72kaqmva.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E6%B7%AC%E9%94%8B%E9%92%B3%E5%88%BA.png",
+                "img_path": "img/zzz/淬锋钳刺.png"
+            },
+            {
+                "title": "轰鸣座驾",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/c/cc/d3td2ztk9yzd7kn1nke9728qpy8adth.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E8%BD%B0%E9%B8%A3%E5%BA%A7%E9%A9%BE.png",
+                "img_path": "img/zzz/轰鸣座驾.png"
+            },
+            {
+                "title": "维序者-特化型",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/4/42/eczijuoll659lemk3wyeauhw7v0sw2b.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E7%BB%B4%E5%BA%8F%E8%80%85-%E7%89%B9%E5%8C%96%E5%9E%8B.png",
+                "img_path": "img/zzz/维序者-特化型.png"
+            }
+        ]
+    }
+]
