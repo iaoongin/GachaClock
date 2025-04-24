@@ -39,9 +39,9 @@ class WwSpider(scrapy.Spider):
                 for img in tab['imgs']:
                     # title 
                     entryId = self.safe_get(img, 'linkConfig', 'entryId', default='')
-                    title = self.get_title(entryId)
+                    sub_title = self.get_title(entryId)
                     g.append({
-                        'title': title,
+                        'title': sub_title,
                         'img': img['img']
                     })
                 
