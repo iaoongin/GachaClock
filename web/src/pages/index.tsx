@@ -92,6 +92,7 @@ export default function IndexPage() {
         const currentVersion = data[0].version;
         const historyList = data
           .filter((item: any) => item.version === currentVersion)
+          .filter((item: any) => item.type === '角色')
           .map((item: any) => {
             let copy = { ...item };
 
@@ -133,7 +134,10 @@ export default function IndexPage() {
       .then((res) => res.json())
       .then((data) => {
         console.log('data::', data);
-        const historyList = data.map((item: any) => item.gachas[0]);
+        const historyList = data
+          .filter((item: any) => item.type === '角色')
+
+          .map((item: any) => item.gachas[0]);
         historyList.forEach((item) => {
           item['img'] = role?.[item['title']]?.['promotion_img'][1] ?? item['img'];
           item['img_path'] = role?.[item['title']]?.['simple_img'] ?? item['img_path'];

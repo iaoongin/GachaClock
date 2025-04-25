@@ -34,6 +34,7 @@ class SrHistorySpider(scrapy.Spider):
                     item = HistoryItem()
                     item["img"] = img.split(' ', 1)[0]
                     item["title"] = title
+                    item["type"] =  '角色' if '角色' in title else '武器'
                     item["version"] = version
                     item["timer"] = timer
                     item["s"] = s
