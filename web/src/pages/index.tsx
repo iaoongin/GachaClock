@@ -126,13 +126,20 @@ export default function IndexPage() {
   }
 
   async function fallbackFetch(key: string, lastPoolUrl: string) {
+    let role = await fetchEachGameRole(key);
+    console.log(`${key} role`, role);
+
     fetch(lastPoolUrl)
       .then((res) => res.json())
       .then((data) => {
         console.log('data::', data);
         const historyList = data.map((item: any) => item.gachas[0]);
+        historyList.forEach((item) => {
+          item['img'] = role?.[item['title']]?.['promotion_img'][1] ?? item['img'];
+          item['img_path'] = role?.[item['title']]?.['simple_img'] ?? item['img_path'];
+        });
 
-        console.log('historyList::', historyList);
+        console.log(`${key} historyList::`, historyList);
 
         let cardGroup = {
           [key]: {
@@ -148,6 +155,25 @@ export default function IndexPage() {
           ...cardGroup,
         }));
         return;
+      });
+  }
+
+  function fetchEachGameRole(key) {
+    return fetch(`data/${key}/role.json`)
+      .then((res) => res.json())
+      .then(async (data) => {
+        console.log('role data:::', data);
+        let tmp_role = data.reduce((acc, item) => {
+          acc[item.title] = item;
+          return acc;
+        }, {});
+        return tmp_role;
+      })
+      .catch(async (err) => {
+        console.log('err:::', err);
+        // 无法获取历史卡池信息，从最新卡池信息获取
+        console.log(`${key} 无法获取角色信息，返回空.`);
+        return await {};
       });
   }
 }
