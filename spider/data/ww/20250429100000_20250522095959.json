@@ -1,0 +1,122 @@
+[
+    {
+        "title": "行于光影之间",
+        "type": "角色",
+        "timer": [
+            "2025-04-29 10:00:00",
+            "2025-05-22 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "赞妮",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/060b9fa3073046c8b6c460b0397cd44e20250427.png",
+                "img_path": "img/ww/赞妮.png"
+            },
+            {
+                "title": "灯灯",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/d5f188b5a31d4f88a035a62a078dd9b220250427.png",
+                "img_path": "img/ww/灯灯.png"
+            },
+            {
+                "title": "桃祈",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/bbf001896c594505a8a8ab561fd5359720250427.png",
+                "img_path": "img/ww/桃祈.png"
+            },
+            {
+                "title": "渊武",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/0307875cee0545ee9dd10b877475e2ac20250427.png",
+                "img_path": "img/ww/渊武.png"
+            }
+        ]
+    },
+    {
+        "title": "周年角色活动唤取",
+        "type": "角色",
+        "timer": [
+            "2025-04-29 10:00:00",
+            "2025-05-22 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/26d3006c8577419bbcd479a6efcccb1720250427.jpg",
+                "img_path": "img/ww/.png"
+            },
+            {
+                "title": "",
+                "img": "",
+                "img_path": "img/ww/.png"
+            },
+            {
+                "title": "",
+                "img": "",
+                "img_path": "img/ww/.png"
+            },
+            {
+                "title": "",
+                "img": "",
+                "img_path": "img/ww/.png"
+            }
+        ]
+    },
+    {
+        "title": "焰光裁定",
+        "type": "武器",
+        "timer": [
+            "2025-04-29 10:00:00",
+            "2025-05-22 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "焰光裁定",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/bfb4738dd97d4179b8ea3bf2efda99f320250427.png",
+                "img_path": "img/ww/焰光裁定.png"
+            },
+            {
+                "title": "永夜长明",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/b9af59e8381240f7a874733f5bc4fd9b20250427.png",
+                "img_path": "img/ww/永夜长明.png"
+            },
+            {
+                "title": "行进序曲",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/b4de95815c9a45afaf5dca1d6f7bf4a420250427.png",
+                "img_path": "img/ww/行进序曲.png"
+            },
+            {
+                "title": "骇行",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/eb82a83b07ea413d8830bcb72e24039b20250427.png",
+                "img_path": "img/ww/骇行.png"
+            }
+        ]
+    },
+    {
+        "title": "周年武器活动唤取",
+        "type": "武器",
+        "timer": [
+            "2025-04-29 10:00:00",
+            "2025-05-22 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/fb6013e176c9449c85d3e1f7c80a3fea20250427.jpg",
+                "img_path": "img/ww/.png"
+            },
+            {
+                "title": "",
+                "img": "",
+                "img_path": "img/ww/.png"
+            },
+            {
+                "title": "",
+                "img": "",
+                "img_path": "img/ww/.png"
+            },
+            {
+                "title": "",
+                "img": "",
+                "img_path": "img/ww/.png"
+            }
+        ]
+    }
+]
