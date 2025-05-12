@@ -1,5 +1,57 @@
 [
     {
+        "img": "https://patchwiki.biligame.com/images/zzz/7/78/gz07r6947qjxzp7p2c27rk31qob6yl4.png",
+        "title": "「譬如昨日死」015-1期独家频段",
+        "type": "角色",
+        "version": "1.7下半",
+        "timer": "2025/05/14 12:00:00 ~ 2025/06/05 14:59:59",
+        "s": "雨果",
+        "a": [
+            "安东",
+            "苍角"
+        ],
+        "img_path": "img/zzz/history/「譬如昨日死」015-1期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/0/0c/bo955w2ls1hims6ql65liatnubsh5jq.png",
+        "title": "「灿烂和声」015-1期音擎频段",
+        "type": "武器",
+        "version": "1.7下半",
+        "timer": "2025/05/14 12:00:00 ~ 2025/06/05 14:59:59",
+        "s": "千面日陨",
+        "a": [
+            "含羞恶面",
+            "旋钻机-赤轴"
+        ],
+        "img_path": "img/zzz/history/「灿烂和声」015-1期音擎频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/4/4d/rzm5z1avgnirc15dymcr8tp5l0bkn9j.png",
+        "title": "「余烬之冕」015-2期独家频段",
+        "type": "角色",
+        "version": "1.7下半",
+        "timer": "2025/05/14 12:00:00 ~ 2025/06/05 14:59:59",
+        "s": "莱特",
+        "a": [
+            "安东",
+            "苍角"
+        ],
+        "img_path": "img/zzz/history/「余烬之冕」015-2期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/a/af/4gah6v9ldh7pqj899rddycvdx61olnk.png",
+        "title": "「璀璨韵律」015-2期音擎频段",
+        "type": "武器",
+        "version": "1.7下半",
+        "timer": "2025/05/14 12:00:00 ~ 2025/06/05 14:59:59",
+        "s": "焰心桂冠",
+        "a": [
+            "含羞恶面",
+            "旋钻机-赤轴"
+        ],
+        "img_path": "img/zzz/history/「璀璨韵律」015-2期音擎频段.png"
+    },
+    {
         "img": "https://patchwiki.biligame.com/images/zzz/thumb/c/ce/itx36xi9szh7yuz5kv2jcdr9s7y0xr0.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5014-1%E6%9C%9F.png",
         "title": "「飞鸟坠入良夜」014-1期独家频段",
         "type": "角色",
