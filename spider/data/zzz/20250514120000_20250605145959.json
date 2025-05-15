@@ -1,0 +1,102 @@
+[
+    {
+        "title": "「譬如昨日死」独家频段",
+        "type": "角色",
+        "timer": [
+            "2025/05/14 12:00:00",
+            "2025/06/05 14:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "雨果",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/7/73/hifxwv8qhq376yck21r9fzao66e70zr.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E9%9B%A8%E6%9E%9C.png",
+                "img_path": "img/zzz/雨果.png"
+            },
+            {
+                "title": "苍角",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/1/17/co1tz6xt4fuspz27d1dp4a29mla8i8x.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E8%8B%8D%E8%A7%92.png",
+                "img_path": "img/zzz/苍角.png"
+            },
+            {
+                "title": "安东",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/d/d6/8zfp36j8pjwrxadhpwtqeqqa1szmrk1.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E5%AE%89%E4%B8%9C.png",
+                "img_path": "img/zzz/安东.png"
+            }
+        ]
+    },
+    {
+        "title": "「余烬之冕」独家频段",
+        "type": "角色",
+        "timer": [
+            "2025/05/14 12:00:00",
+            "2025/06/05 14:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "莱特",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/1/1f/khvnv6fg8rauu0np5lal4n2n811lvwe.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E8%8E%B1%E7%89%B9.png",
+                "img_path": "img/zzz/莱特.png"
+            },
+            {
+                "title": "苍角",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/1/17/co1tz6xt4fuspz27d1dp4a29mla8i8x.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E8%8B%8D%E8%A7%92.png",
+                "img_path": "img/zzz/苍角.png"
+            },
+            {
+                "title": "安东",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/d/d6/8zfp36j8pjwrxadhpwtqeqqa1szmrk1.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E5%AE%89%E4%B8%9C.png",
+                "img_path": "img/zzz/安东.png"
+            }
+        ]
+    },
+    {
+        "title": "「灿烂和声」音擎频段",
+        "type": "武器",
+        "timer": [
+            "2025/05/14 12:00:00",
+            "2025/06/05 14:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "千面日陨",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/6/69/m0kmp7sohn2aty2sm0j0kew28t98dp6.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E5%8D%83%E9%9D%A2%E6%97%A5%E9%99%A8.png",
+                "img_path": "img/zzz/千面日陨.png"
+            },
+            {
+                "title": "含羞恶面",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/6/62/ouajdbdljo7a1rvre757fw0ght4wic6.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E5%90%AB%E7%BE%9E%E6%81%B6%E9%9D%A2.png",
+                "img_path": "img/zzz/含羞恶面.png"
+            },
+            {
+                "title": "旋钻机-赤轴",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/3/3d/silkyjce8viw01gklzz5lm6x327f605.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E6%97%8B%E9%92%BB%E6%9C%BA-%E8%B5%A4%E8%BD%B4.png",
+                "img_path": "img/zzz/旋钻机-赤轴.png"
+            }
+        ]
+    },
+    {
+        "title": "「璀璨韵律」音擎频段",
+        "type": "武器",
+        "timer": [
+            "2025/05/14 12:00:00",
+            "2025/06/05 14:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "焰心桂冠",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/4/40/m1hoiaggpru35qmuu8sqdhqo9toaoxu.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E7%84%B0%E5%BF%83%E6%A1%82%E5%86%A0.png",
+                "img_path": "img/zzz/焰心桂冠.png"
+            },
+            {
+                "title": "含羞恶面",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/6/62/ouajdbdljo7a1rvre757fw0ght4wic6.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E5%90%AB%E7%BE%9E%E6%81%B6%E9%9D%A2.png",
+                "img_path": "img/zzz/含羞恶面.png"
+            },
+            {
+                "title": "旋钻机-赤轴",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/3/3d/silkyjce8viw01gklzz5lm6x327f605.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E6%97%8B%E9%92%BB%E6%9C%BA-%E8%B5%A4%E8%BD%B4.png",
+                "img_path": "img/zzz/旋钻机-赤轴.png"
+            }
+        ]
+    }
+]
