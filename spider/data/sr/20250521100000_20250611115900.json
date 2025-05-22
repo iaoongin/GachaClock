@@ -1,0 +1,122 @@
+[
+    {
+        "title": "「虹隽晨昏」角色活动跃迁",
+        "type": "角色",
+        "timer": [
+            "2025/05/21 10:00:00",
+            "2025/06/11 11:59:00"
+        ],
+        "gachas": [
+            {
+                "title": "风堇",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/f/fe/btad3oegk6v46b3xswvvtl370ib8zbm.png/112px-%E9%A3%8E%E5%A0%87.png",
+                "img_path": "img/sr/风堇.png"
+            },
+            {
+                "title": "米沙",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/b/b4/kdjdbpwwvnyrrtap9bv06svosz0z4a3.png/112px-%E7%B1%B3%E6%B2%99.png",
+                "img_path": "img/sr/米沙.png"
+            },
+            {
+                "title": "希露瓦",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/1/19/algq66demezhksajce9t8s6df8f6qv0.png/112px-%E5%B8%8C%E9%9C%B2%E7%93%A6.png",
+                "img_path": "img/sr/希露瓦.png"
+            },
+            {
+                "title": "娜塔莎",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/c/c7/3hdrg1xfrx3rn18f1ynh6rxha3smmyc.png/112px-%E5%A8%9C%E5%A1%94%E8%8E%8E.png",
+                "img_path": "img/sr/娜塔莎.png"
+            }
+        ]
+    },
+    {
+        "title": "「视界来信」角色活动跃迁",
+        "type": "角色",
+        "timer": [
+            "2025/05/21 10:00:00",
+            "2025/06/11 11:59:00"
+        ],
+        "gachas": [
+            {
+                "title": "大黑塔",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/0/0f/k7y0cams5glai70zx3zq20dy4nvzcbp.png/112px-%E5%A4%A7%E9%BB%91%E5%A1%94.png",
+                "img_path": "img/sr/大黑塔.png"
+            },
+            {
+                "title": "米沙",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/b/b4/kdjdbpwwvnyrrtap9bv06svosz0z4a3.png/112px-%E7%B1%B3%E6%B2%99.png",
+                "img_path": "img/sr/米沙.png"
+            },
+            {
+                "title": "希露瓦",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/1/19/algq66demezhksajce9t8s6df8f6qv0.png/112px-%E5%B8%8C%E9%9C%B2%E7%93%A6.png",
+                "img_path": "img/sr/希露瓦.png"
+            },
+            {
+                "title": "娜塔莎",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/c/c7/3hdrg1xfrx3rn18f1ynh6rxha3smmyc.png/112px-%E5%A8%9C%E5%A1%94%E8%8E%8E.png",
+                "img_path": "img/sr/娜塔莎.png"
+            }
+        ]
+    },
+    {
+        "title": "「流光定影」光锥活动跃迁",
+        "type": "武器",
+        "timer": [
+            "2025/05/21 10:00:00",
+            "2025/06/11 11:59:00"
+        ],
+        "gachas": [
+            {
+                "title": "愿虹光永驻天空",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/c/c2/3ntgy78x59gaxaaerxxm4ud0t179dxu.png/112px-%E6%84%BF%E8%99%B9%E5%85%89%E6%B0%B8%E9%A9%BB%E5%A4%A9%E7%A9%BA.png",
+                "img_path": "img/sr/愿虹光永驻天空.png"
+            },
+            {
+                "title": "别让世界静下来",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/7/77/mhy5r1wuw1t7afrq79839ltm8h49uhn.png/112px-%E5%88%AB%E8%AE%A9%E4%B8%96%E7%95%8C%E9%9D%99%E4%B8%8B%E6%9D%A5.png",
+                "img_path": "img/sr/别让世界静下来.png"
+            },
+            {
+                "title": "黑夜如影随行",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/6/62/s0xr2i4njbtkpzbgl16vkg26kb5c47l.png/112px-%E9%BB%91%E5%A4%9C%E5%A6%82%E5%BD%B1%E9%9A%8F%E8%A1%8C.png",
+                "img_path": "img/sr/黑夜如影随行.png"
+            },
+            {
+                "title": "余生的第一天",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/8/8c/q4vuvube552usoxpi0y40lsoqllxajd.png/112px-%E4%BD%99%E7%94%9F%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9.png",
+                "img_path": "img/sr/余生的第一天.png"
+            }
+        ]
+    },
+    {
+        "title": "「溯回忆象」光锥活动跃迁",
+        "type": "武器",
+        "timer": [
+            "2025/05/21 10:00:00",
+            "2025/06/11 11:59:00"
+        ],
+        "gachas": [
+            {
+                "title": "向着不可追问处",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/0/04/mm29v1nfj90ddbr9y3vbvcol4kn992m.png/112px-%E5%90%91%E7%9D%80%E4%B8%8D%E5%8F%AF%E8%BF%BD%E9%97%AE%E5%A4%84.png",
+                "img_path": "img/sr/向着不可追问处.png"
+            },
+            {
+                "title": "别让世界静下来",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/7/77/mhy5r1wuw1t7afrq79839ltm8h49uhn.png/112px-%E5%88%AB%E8%AE%A9%E4%B8%96%E7%95%8C%E9%9D%99%E4%B8%8B%E6%9D%A5.png",
+                "img_path": "img/sr/别让世界静下来.png"
+            },
+            {
+                "title": "黑夜如影随行",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/6/62/s0xr2i4njbtkpzbgl16vkg26kb5c47l.png/112px-%E9%BB%91%E5%A4%9C%E5%A6%82%E5%BD%B1%E9%9A%8F%E8%A1%8C.png",
+                "img_path": "img/sr/黑夜如影随行.png"
+            },
+            {
+                "title": "余生的第一天",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/8/8c/q4vuvube552usoxpi0y40lsoqllxajd.png/112px-%E4%BD%99%E7%94%9F%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9.png",
+                "img_path": "img/sr/余生的第一天.png"
+            }
+        ]
+    }
+]
