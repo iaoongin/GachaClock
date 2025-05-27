@@ -45,7 +45,7 @@ export const Navbar = () => {
       <NavbarContent className="basis-1/5 sm:basis-full" justify="start">
         <NavbarBrand className="gap-3 max-w-fit">
           <Link className="flex justify-start items-center gap-1" color="foreground" href="/">
-            <img alt="Logo" className="w-8 h-8" src="/favicon.ico" />
+            <img alt="Logo" className="w-8 h-8" src="/favicon.svg" />
             <p className="font-bold text-inherit">gclock</p>
           </Link>
         </NavbarBrand>
