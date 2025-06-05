@@ -1,5 +1,57 @@
 [
     {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/6/64/ij63av7w6ceqlsm8cxvzitv2han97nz.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5016-1%E6%9C%9F.png",
+        "title": "「独步沧溟」016-1期独家频段",
+        "type": "角色",
+        "version": "2.0上半",
+        "timer": "2.0版本更新后 ~ 2025/06/25 11:59:59",
+        "s": "仪玄",
+        "a": [
+            "波可娜",
+            "潘引壶"
+        ],
+        "img_path": "img/zzz/history/「独步沧溟」016-1期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/b/b5/buizvcvrwmzmumuomaxltxbsry2atn0.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5016-1%E6%9C%9F.png",
+        "title": "「喧哗奏鸣」016-1期音擎频段",
+        "type": "武器",
+        "version": "2.0上半",
+        "timer": "2.0版本更新后 ~ 2025/06/25 11:59:59",
+        "s": "青溟笼舍",
+        "a": [
+            "裁纸刀",
+            "震元奇枢"
+        ],
+        "img_path": "img/zzz/history/「喧哗奏鸣」016-1期音擎频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/7/73/8s4zipgga64akzygk7qkmc4fu5tpww0.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5016-2%E6%9C%9F.png",
+        "title": "「千千阙音」016-2期独家频段",
+        "type": "角色",
+        "version": "2.0上半",
+        "timer": "2.0版本更新后 ~ 2025/06/25 11:59:59",
+        "s": "耀嘉音",
+        "a": [
+            "波可娜",
+            "潘引壶"
+        ],
+        "img_path": "img/zzz/history/「千千阙音」016-2期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/7/7d/4njizrigirx37hsy1j10onuhz04gw2d.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5016-2%E6%9C%9F.png",
+        "title": "「激荡谐振」016-2期音擎频段",
+        "type": "武器",
+        "version": "2.0上半",
+        "timer": "2.0版本更新后 ~ 2025/06/25 11:59:59",
+        "s": "玲珑妆匣",
+        "a": [
+            "裁纸刀",
+            "震元奇枢"
+        ],
+        "img_path": "img/zzz/history/「激荡谐振」016-2期音擎频段.png"
+    },
+    {
         "img": "https://patchwiki.biligame.com/images/zzz/7/78/gz07r6947qjxzp7p2c27rk31qob6yl4.png",
         "title": "「譬如昨日死」015-1期独家频段",
         "type": "角色",
