@@ -1,0 +1,62 @@
+[
+    {
+        "title": "却也在风潮后轻舞",
+        "type": "角色",
+        "timer": [
+            "2025-06-12 10:00:00",
+            "2025-07-03 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "卡提希娅",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/24f329db74c04c25879dc02b7143a72f20250611.png",
+                "img_path": "img/ww/卡提希娅.png"
+            },
+            {
+                "title": "秋水",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/f8bffdd824bc45bba669d935eecd8c5c20250611.png",
+                "img_path": "img/ww/秋水.png"
+            },
+            {
+                "title": "白芷",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/111e91bb16dd45fcab36e3136825adb420250611.png",
+                "img_path": "img/ww/白芷.png"
+            },
+            {
+                "title": "釉瑚",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/2c27d1b6712c42f29968302516b7b08d20250611.png",
+                "img_path": "img/ww/釉瑚.png"
+            }
+        ]
+    },
+    {
+        "title": "不屈命定之冠",
+        "type": "武器",
+        "timer": [
+            "2025-06-12 10:00:00",
+            "2025-07-03 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "不屈命定之冠",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/3ee7c768bf6b453398d43e35e581fc6d20250611.png",
+                "img_path": "img/ww/不屈命定之冠.png"
+            },
+            {
+                "title": "永续坍缩",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/a49a55f85cbd4508beddb5499cd6683420250611.png",
+                "img_path": "img/ww/永续坍缩.png"
+            },
+            {
+                "title": "呼啸重音",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/f5848b7db0864a9fa2304b7fa8e6f46a20250611.png",
+                "img_path": "img/ww/呼啸重音.png"
+            },
+            {
+                "title": "袍泽之固",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/b99e31b676684b6aad9572f41a0b1afe20250611.png",
+                "img_path": "img/ww/袍泽之固.png"
+            }
+        ]
+    }
+]
