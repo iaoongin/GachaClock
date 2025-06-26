@@ -1,0 +1,102 @@
+[
+    {
+        "title": "「福福生威」独家频段",
+        "type": "角色",
+        "timer": [
+            "2025/06/25 12:00:00",
+            "2025/07/15 14:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "橘福福",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/a/a8/qkkknw4clwwy66i1zvnb9zv5cw1dfug.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E6%A9%98%E7%A6%8F%E7%A6%8F.png",
+                "img_path": "img/zzz/橘福福.png"
+            },
+            {
+                "title": "本",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/6/69/ig9c0meb9fpwpvk8ivu9figyf7ei2rn.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E6%9C%AC.png",
+                "img_path": "img/zzz/本.png"
+            },
+            {
+                "title": "可琳",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/3/33/6uqxh23spl0wtgfk2qidooabodv0u2d.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E5%8F%AF%E7%90%B3.png",
+                "img_path": "img/zzz/可琳.png"
+            }
+        ]
+    },
+    {
+        "title": "「荣焰桂冠」独家频段",
+        "type": "角色",
+        "timer": [
+            "2025/06/25 12:00:00",
+            "2025/07/15 14:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "凯撒",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/e/ee/7udos7ucca30nreqerjkrna785fvyo5.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E5%87%AF%E6%92%92.png",
+                "img_path": "img/zzz/凯撒.png"
+            },
+            {
+                "title": "本",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/6/69/ig9c0meb9fpwpvk8ivu9figyf7ei2rn.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E6%9C%AC.png",
+                "img_path": "img/zzz/本.png"
+            },
+            {
+                "title": "可琳",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/3/33/6uqxh23spl0wtgfk2qidooabodv0u2d.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E5%8F%AF%E7%90%B3.png",
+                "img_path": "img/zzz/可琳.png"
+            }
+        ]
+    },
+    {
+        "title": "「灿烂和声」音擎频段",
+        "type": "武器",
+        "timer": [
+            "2025/06/25 12:00:00",
+            "2025/07/15 14:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "福虓炉炉",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/0/04/tsbz09hir62cmkfcyznyqju8athy0ao.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E7%A6%8F%E8%99%93%E7%82%89%E7%82%89.png",
+                "img_path": "img/zzz/福虓炉炉.png"
+            },
+            {
+                "title": "比格气缸",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/c/cd/71610xki0opbhe8dyysp9pxx7cocj5p.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E6%AF%94%E6%A0%BC%E6%B0%94%E7%BC%B8.png",
+                "img_path": "img/zzz/比格气缸.png"
+            },
+            {
+                "title": "家政员",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/3/33/0ki9jcneiv9g2bslmb1w4p7dzoeb3h7.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E5%AE%B6%E6%94%BF%E5%91%98.png",
+                "img_path": "img/zzz/家政员.png"
+            }
+        ]
+    },
+    {
+        "title": "「璀璨韵律」音擎频段",
+        "type": "武器",
+        "timer": [
+            "2025/06/25 12:00:00",
+            "2025/07/15 14:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "奔袭獠牙",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/a/a3/dpa2vf48nkxbx76wj8sdxgq1mwi5hv7.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E5%A5%94%E8%A2%AD%E7%8D%A0%E7%89%99.png",
+                "img_path": "img/zzz/奔袭獠牙.png"
+            },
+            {
+                "title": "比格气缸",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/c/cd/71610xki0opbhe8dyysp9pxx7cocj5p.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E6%AF%94%E6%A0%BC%E6%B0%94%E7%BC%B8.png",
+                "img_path": "img/zzz/比格气缸.png"
+            },
+            {
+                "title": "家政员",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/3/33/0ki9jcneiv9g2bslmb1w4p7dzoeb3h7.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E5%AE%B6%E6%94%BF%E5%91%98.png",
+                "img_path": "img/zzz/家政员.png"
+            }
+        ]
+    }
+]

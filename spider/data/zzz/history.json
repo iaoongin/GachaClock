@@ -1,5 +1,57 @@
 [
     {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/a/a2/lr7l205udsa7zanw94xb8h7p5j9kvpk.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5017-1%E6%9C%9F.png",
+        "title": "「福福生威」017-1期独家频段",
+        "type": "角色",
+        "version": "2.0下半",
+        "timer": "2025/06/25 12:00:00 ~ 2025/07/15 14:59:59",
+        "s": "橘福福",
+        "a": [
+            "可琳",
+            "本"
+        ],
+        "img_path": "img/zzz/history/「福福生威」017-1期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/3/3a/3bb2uwgnn69trp8x6atki1csz55esir.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5017-1%E6%9C%9F.png",
+        "title": "「灿烂和声」017-1期音擎频段",
+        "type": "武器",
+        "version": "2.0下半",
+        "timer": "2025/06/25 12:00:00 ~ 2025/07/15 14:59:59",
+        "s": "福虓炉炉",
+        "a": [
+            "家政员",
+            "比格气缸"
+        ],
+        "img_path": "img/zzz/history/「灿烂和声」017-1期音擎频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/d/d7/k88m86vrqeftarw3i25dalomvzpuwdc.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5017-2%E6%9C%9F.png",
+        "title": "「荣焰桂冠」017-2期独家频段",
+        "type": "角色",
+        "version": "2.0下半",
+        "timer": "2025/06/25 12:00:00 ~ 2025/07/15 14:59:59",
+        "s": "凯撒",
+        "a": [
+            "可琳",
+            "本"
+        ],
+        "img_path": "img/zzz/history/「荣焰桂冠」017-2期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/7/7e/0vodoryoirmofhxmxz7qvo6tp5a1rax.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5017-2%E6%9C%9F.png",
+        "title": "「璀璨韵律」017-2期音擎频段",
+        "type": "武器",
+        "version": "2.0下半",
+        "timer": "2025/06/25 12:00:00 ~ 2025/07/15 14:59:59",
+        "s": "奔袭獠牙",
+        "a": [
+            "家政员",
+            "比格气缸"
+        ],
+        "img_path": "img/zzz/history/「璀璨韵律」017-2期音擎频段.png"
+    },
+    {
         "img": "https://patchwiki.biligame.com/images/zzz/thumb/6/64/ij63av7w6ceqlsm8cxvzitv2han97nz.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5016-1%E6%9C%9F.png",
         "title": "「独步沧溟」016-1期独家频段",
         "type": "角色",
