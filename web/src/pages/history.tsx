@@ -36,7 +36,10 @@ export default function HistoryPage() {
           setTitleMap((pre) => {
             return {
               ...pre,
-              [key]: `${versionGroup[key][0].timer}`,
+              [key]: `${versionGroup[key][0].timer} ${versionGroup[key]
+                .filter((item) => item.type === '角色')
+                .map((item) => item.s)
+                .join('、')}`,
             };
           });
         });
