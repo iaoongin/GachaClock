@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 
 import { CardPool, CardPoolProps, CountdownTimer } from '@/components/card-pool';
 import DefaultLayout from '@/layouts/default';
-import { Link } from '@heroui/link';
+import { Link, LinkIcon } from '@heroui/link';
 import { useLocalStorage } from 'react-use';
 
 export default function IndexPage() {
@@ -67,7 +67,13 @@ export default function IndexPage() {
               <AccordionItem
                 key={key}
                 aria-label={cardGroup[key].currentVersion}
-                startContent={`${key.toUpperCase()}`}
+                startContent={
+                  <img
+                    alt="Logo"
+                    className="w-10 h-10 rounded-full"
+                    src={`${key.toLocaleLowerCase()}.png`}
+                  />
+                }
                 subtitle={
                   <CountdownTimer
                     className={'text-lg'}
