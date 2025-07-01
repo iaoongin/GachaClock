@@ -21,7 +21,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5 # 任务最大执行时间 5 分钟
+    timeout-minutes: 30 # 任务最大执行时间（分钟）
 
     steps:
       # 检出代码
@@ -45,7 +45,7 @@ jobs:
       - name: Run spider script
         uses: nick-fields/retry@v2
         with:
-          timeout_minutes: 5
+          timeout_minutes: 30
           max_attempts: 3
           command: |
             cd spider
