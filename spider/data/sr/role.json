@@ -1,5 +1,21 @@
 [
     {
+        "title": "Archer",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/1/19/dovrwl5ycj23d0f23yf4ehdvxeu52z0.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/3/3e/qnb35j40bgv5zvowa1kh1vskvdo03wz.png",
+            "https://patchwiki.biligame.com/images/sr/f/fb/l6fpubfo1c0pu782rj7al55as0oeyz9.jpg"
+        ]
+    },
+    {
+        "title": "Saber",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/5/52/8h7t8yyh6sk9jox5rr1nqe46hadg1xa.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/e/e5/sldzbs688qte8vjs6b9ei1expaidfb3.png",
+            "https://patchwiki.biligame.com/images/sr/e/e5/7f036vccsp4d84t4wps3unssriu45jf.jpg"
+        ]
+    },
+    {
         "title": "万敌",
         "simple_img": "https://patchwiki.biligame.com/images/sr/4/42/ngk7edwa7fo7jyijm05qeisouw11zrn.png",
         "promotion_img": [
@@ -326,6 +342,15 @@
         "promotion_img": [
             "https://patchwiki.biligame.com/images/sr/thumb/2/23/fvhf6r7z5iecu1n0zs1qb6yeuqi2fds.png/700px-%E7%93%A6%E5%B0%94%E7%89%B9%E7%AB%8B%E7%BB%98.png",
             "https://patchwiki.biligame.com/images/sr/c/cf/pbqb1ox5vizg3klavrd41fdtawx2tk3.jpg"
+        ]
+    },
+    {
+        "title": "白厄",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/f/fd/9w42bdl4l38fsqm81820ojc79yft684.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/thumb/9/97/0kq3qo82g7sk73tg79wu068kuccr1bp.png/700px-%E7%99%BD%E5%8E%84%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/3/35/i7mtf7gn0a5m1ulwwr6p62du2dpn0uz.png",
+            "https://patchwiki.biligame.com/images/sr/f/fd/3uun60b8ems7tbas31h2g2n4tpfqk0v.jpg"
         ]
     },
     {
