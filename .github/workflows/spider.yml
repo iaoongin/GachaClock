@@ -2,9 +2,9 @@ name: Spider Build Deploy
 
 # 触发条件
 on:
-  # 每天凌晨 0 点执行，仅在 dev 分支触发
+  # 每 2 小时执行一次
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */2 * * *"
   # 手动触发，仅在 dev 分支触发
   workflow_dispatch:
   # 当 push 到 dev 分支时触发
