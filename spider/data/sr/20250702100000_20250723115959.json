@@ -1,0 +1,242 @@
+[
+    {
+        "title": "「永劫燔阳」角色活动跃迁",
+        "type": "角色",
+        "timer": [
+            "2025/07/02 10:00:00",
+            "2025/07/23 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "白厄",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/0/0f/71ifmfc3f77xp5mrsnww112mto2ul2qz.png/112px-%E7%99%BD%E5%8E%84.png",
+                "img_path": "img/sr/白厄.png"
+            },
+            {
+                "title": "停云",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/4e/mjwg8u69l0h798rk9hquglyl8vut9fr.png/112px-%E5%81%9C%E4%BA%91.png",
+                "img_path": "img/sr/停云.png"
+            },
+            {
+                "title": "三月七",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/6/62/bke5waazntxa8nmxz85ix881v4318fv.png/112px-%E4%B8%89%E6%9C%88%E4%B8%83.png",
+                "img_path": "img/sr/三月七.png"
+            },
+            {
+                "title": "驭空",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/44/3n1jlyek8fscf4peqpttg615pvamwj0.png/112px-%E9%A9%AD%E7%A9%BA.png",
+                "img_path": "img/sr/驭空.png"
+            }
+        ]
+    },
+    {
+        "title": "「铭心之萃•缇宝」角色活动跃迁",
+        "type": "角色",
+        "timer": [
+            "2025/07/02 10:00:00",
+            "2025/07/23 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "缇宝",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/1/16/s15opurtx1s67wf670orxm0ysqnr7nk.png/112px-%E7%BC%87%E5%AE%9D.png",
+                "img_path": "img/sr/缇宝.png"
+            },
+            {
+                "title": "停云",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/4e/mjwg8u69l0h798rk9hquglyl8vut9fr.png/112px-%E5%81%9C%E4%BA%91.png",
+                "img_path": "img/sr/停云.png"
+            },
+            {
+                "title": "三月七",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/6/62/bke5waazntxa8nmxz85ix881v4318fv.png/112px-%E4%B8%89%E6%9C%88%E4%B8%83.png",
+                "img_path": "img/sr/三月七.png"
+            },
+            {
+                "title": "驭空",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/44/3n1jlyek8fscf4peqpttg615pvamwj0.png/112px-%E9%A9%AD%E7%A9%BA.png",
+                "img_path": "img/sr/驭空.png"
+            }
+        ]
+    },
+    {
+        "title": "「铭心之萃•星期日」角色活动跃迁",
+        "type": "角色",
+        "timer": [
+            "2025/07/02 10:00:00",
+            "2025/07/23 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "星期日",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/8/8d/65lqy2112fqzq7jiaznl1bys2ito0oez.png/112px-%E6%98%9F%E6%9C%9F%E6%97%A5.png",
+                "img_path": "img/sr/星期日.png"
+            },
+            {
+                "title": "停云",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/4e/mjwg8u69l0h798rk9hquglyl8vut9fr.png/112px-%E5%81%9C%E4%BA%91.png",
+                "img_path": "img/sr/停云.png"
+            },
+            {
+                "title": "三月七",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/6/62/bke5waazntxa8nmxz85ix881v4318fv.png/112px-%E4%B8%89%E6%9C%88%E4%B8%83.png",
+                "img_path": "img/sr/三月七.png"
+            },
+            {
+                "title": "驭空",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/44/3n1jlyek8fscf4peqpttg615pvamwj0.png/112px-%E9%A9%AD%E7%A9%BA.png",
+                "img_path": "img/sr/驭空.png"
+            }
+        ]
+    },
+    {
+        "title": "「铭心之萃•花火」角色活动跃迁",
+        "type": "角色",
+        "timer": [
+            "2025/07/02 10:00:00",
+            "2025/07/23 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "花火",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/9/90/jf5yte1ote51iepifi8i75wifww5ybe.png/112px-%E8%8A%B1%E7%81%AB.png",
+                "img_path": "img/sr/花火.png"
+            },
+            {
+                "title": "停云",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/4e/mjwg8u69l0h798rk9hquglyl8vut9fr.png/112px-%E5%81%9C%E4%BA%91.png",
+                "img_path": "img/sr/停云.png"
+            },
+            {
+                "title": "三月七",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/6/62/bke5waazntxa8nmxz85ix881v4318fv.png/112px-%E4%B8%89%E6%9C%88%E4%B8%83.png",
+                "img_path": "img/sr/三月七.png"
+            },
+            {
+                "title": "驭空",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/44/3n1jlyek8fscf4peqpttg615pvamwj0.png/112px-%E9%A9%AD%E7%A9%BA.png",
+                "img_path": "img/sr/驭空.png"
+            }
+        ]
+    },
+    {
+        "title": "「流光定影」光锥活动跃迁",
+        "type": "武器",
+        "timer": [
+            "2025/07/02 10:00:00",
+            "2025/07/23 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "黎明恰如此燃烧",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/0/04/3gqlqkwbprln81uwjo4p0sqw8ychh7y.png/112px-%E9%BB%8E%E6%98%8E%E6%81%B0%E5%A6%82%E6%AD%A4%E7%87%83%E7%83%A7.png",
+                "img_path": "img/sr/黎明恰如此燃烧.png"
+            },
+            {
+                "title": "故事的下一页",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/8/85/g0icttfnclt0aek7irr63npsvrlgdl2.png/112px-%E6%95%85%E4%BA%8B%E7%9A%84%E4%B8%8B%E4%B8%80%E9%A1%B5.png",
+                "img_path": "img/sr/故事的下一页.png"
+            },
+            {
+                "title": "与行星相会",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/0/00/l66yszhlv3n1qhxpow938qguf557tc1.png/112px-%E4%B8%8E%E8%A1%8C%E6%98%9F%E7%9B%B8%E4%BC%9A.png",
+                "img_path": "img/sr/与行星相会.png"
+            },
+            {
+                "title": "在蓝天下",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/c/ce/arvbljps9qru3k4gcnj5wn39frbt169.png/112px-%E5%9C%A8%E8%93%9D%E5%A4%A9%E4%B8%8B.png",
+                "img_path": "img/sr/在蓝天下.png"
+            }
+        ]
+    },
+    {
+        "title": "「真意之汇」光锥活动跃迁",
+        "type": "武器",
+        "timer": [
+            "2025/07/02 10:00:00",
+            "2025/07/23 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "如果时间是一朵花",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/5/51/fj94fxdzp0nicnfsd5i0fagwq0vwslq.png/112px-%E5%A6%82%E6%9E%9C%E6%97%B6%E9%97%B4%E6%98%AF%E4%B8%80%E6%9C%B5%E8%8A%B1.png",
+                "img_path": "img/sr/如果时间是一朵花.png"
+            },
+            {
+                "title": "故事的下一页",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/8/85/g0icttfnclt0aek7irr63npsvrlgdl2.png/112px-%E6%95%85%E4%BA%8B%E7%9A%84%E4%B8%8B%E4%B8%80%E9%A1%B5.png",
+                "img_path": "img/sr/故事的下一页.png"
+            },
+            {
+                "title": "与行星相会",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/0/00/l66yszhlv3n1qhxpow938qguf557tc1.png/112px-%E4%B8%8E%E8%A1%8C%E6%98%9F%E7%9B%B8%E4%BC%9A.png",
+                "img_path": "img/sr/与行星相会.png"
+            },
+            {
+                "title": "在蓝天下",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/c/ce/arvbljps9qru3k4gcnj5wn39frbt169.png/112px-%E5%9C%A8%E8%93%9D%E5%A4%A9%E4%B8%8B.png",
+                "img_path": "img/sr/在蓝天下.png"
+            }
+        ]
+    },
+    {
+        "title": "「真意之汇」光锥活动跃迁",
+        "type": "武器",
+        "timer": [
+            "2025/07/02 10:00:00",
+            "2025/07/23 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "回到大地的飞行",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/6/6c/9u705gmkt4im18pajxkl8nspivu7x27.png/112px-%E5%9B%9E%E5%88%B0%E5%A4%A7%E5%9C%B0%E7%9A%84%E9%A3%9E%E8%A1%8C.png",
+                "img_path": "img/sr/回到大地的飞行.png"
+            },
+            {
+                "title": "故事的下一页",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/8/85/g0icttfnclt0aek7irr63npsvrlgdl2.png/112px-%E6%95%85%E4%BA%8B%E7%9A%84%E4%B8%8B%E4%B8%80%E9%A1%B5.png",
+                "img_path": "img/sr/故事的下一页.png"
+            },
+            {
+                "title": "与行星相会",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/0/00/l66yszhlv3n1qhxpow938qguf557tc1.png/112px-%E4%B8%8E%E8%A1%8C%E6%98%9F%E7%9B%B8%E4%BC%9A.png",
+                "img_path": "img/sr/与行星相会.png"
+            },
+            {
+                "title": "在蓝天下",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/c/ce/arvbljps9qru3k4gcnj5wn39frbt169.png/112px-%E5%9C%A8%E8%93%9D%E5%A4%A9%E4%B8%8B.png",
+                "img_path": "img/sr/在蓝天下.png"
+            }
+        ]
+    },
+    {
+        "title": "「真意之汇」光锥活动跃迁",
+        "type": "武器",
+        "timer": [
+            "2025/07/02 10:00:00",
+            "2025/07/23 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "游戏尘寰",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/40/cjkwkkdlpbyfu5rh292fgc5dl8c09wj.png/112px-%E6%B8%B8%E6%88%8F%E5%B0%98%E5%AF%B0.png",
+                "img_path": "img/sr/游戏尘寰.png"
+            },
+            {
+                "title": "故事的下一页",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/8/85/g0icttfnclt0aek7irr63npsvrlgdl2.png/112px-%E6%95%85%E4%BA%8B%E7%9A%84%E4%B8%8B%E4%B8%80%E9%A1%B5.png",
+                "img_path": "img/sr/故事的下一页.png"
+            },
+            {
+                "title": "与行星相会",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/0/00/l66yszhlv3n1qhxpow938qguf557tc1.png/112px-%E4%B8%8E%E8%A1%8C%E6%98%9F%E7%9B%B8%E4%BC%9A.png",
+                "img_path": "img/sr/与行星相会.png"
+            },
+            {
+                "title": "在蓝天下",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/c/ce/arvbljps9qru3k4gcnj5wn39frbt169.png/112px-%E5%9C%A8%E8%93%9D%E5%A4%A9%E4%B8%8B.png",
+                "img_path": "img/sr/在蓝天下.png"
+            }
+        ]
+    }
+]
