@@ -64,9 +64,14 @@ export const CountdownTimer = ({ date, className, prefix }: CountdownTimerProps)
   }, [timeLeft]);
 
   return (
-    <span className={className}>
-      {prefix} 剩余时间: {formatTime(timeLeft)}
-    </span>
+    <div>
+      <div className={`${className} hidden md:block`}>
+        {prefix} 剩余时间 {formatTime(timeLeft)}
+      </div>
+      <div className={`${className} md:hidden block`}>
+        {prefix} {formatTime(timeLeft)}
+      </div>
+    </div>
   );
 };
 
@@ -79,7 +84,12 @@ const formatTime = (seconds: number) => {
   const days = Math.floor(seconds / (24 * 3600)); // 计算天数
   const hours = Math.floor((seconds % (24 * 3600)) / 3600); // 计算小时
   const minutes = Math.floor((seconds % 3600) / 60); // 计算分钟
-  const secs = Math.floor(seconds % 60); // 计算秒
+  const secs = Math.floor(60 - ((new Date().getTime() / 1000) % 60)); // 根据当前时间计算秒
 
-  return `${days}天 ${hours}时 ${minutes}分 ${secs}秒`;
+  // 补零操作
+  const addZero = (num: number) => (num < 10 ? `0${num}` : num);
+  // 格式化输出
+  const format = (num: number, unit: string) => `${addZero(num)}${unit}`;
+
+  return `${format(days, ' 天')} ${format(hours, ' 时')} ${format(minutes, ' 分')} ${format(secs, ' 秒')}`;
 };
