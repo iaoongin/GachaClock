@@ -1,0 +1,62 @@
+[
+    {
+        "title": "胜利为我喝彩",
+        "type": "角色",
+        "timer": [
+            "2025-07-03 10:00:00",
+            "2025-07-23 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "露帕",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/1e8e5c015d964490aa81204d4c7f105320250702.png",
+                "img_path": "img/ww/露帕.png"
+            },
+            {
+                "title": "散华",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/7ee5bc852db14e4290de5061246d55b420250702.png",
+                "img_path": "img/ww/散华.png"
+            },
+            {
+                "title": "桃祈",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/e1d343851baf4a47879295418ff55aa620250702.png",
+                "img_path": "img/ww/桃祈.png"
+            },
+            {
+                "title": "炽霞",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/73c305ac37ef4bdb89696f1ebffc70ed20250702.png",
+                "img_path": "img/ww/炽霞.png"
+            }
+        ]
+    },
+    {
+        "title": "焰痕",
+        "type": "武器",
+        "timer": [
+            "2025-07-03 10:00:00",
+            "2025-07-23 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "焰痕",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/34730c5c1eb44f5f961f155524583a1120250702.png",
+                "img_path": "img/ww/焰痕.png"
+            },
+            {
+                "title": "东落",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/ccfee001dc6e47d0a74d37fba75e191d20250702.png",
+                "img_path": "img/ww/东落.png"
+            },
+            {
+                "title": "不归孤军",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/bc5c9870434845d8b45527da0efb56da20250702.png",
+                "img_path": "img/ww/不归孤军.png"
+            },
+            {
+                "title": "今州守望",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/5f968deb4cce471dab82177f55d2e7b020250702.png",
+                "img_path": "img/ww/今州守望.png"
+            }
+        ]
+    }
+]
