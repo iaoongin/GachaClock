@@ -1,5 +1,14 @@
 [
     {
+        "title": "Archer",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/1/19/dovrwl5ycj23d0f23yf4ehdvxeu52z0.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/thumb/9/90/p3or7te6zo2pfzjgsdwlv1hpo49fs7m.png/700px-Archer%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/3/3e/qnb35j40bgv5zvowa1kh1vskvdo03wz.png",
+            "https://patchwiki.biligame.com/images/sr/f/fb/l6fpubfo1c0pu782rj7al55as0oeyz9.jpg"
+        ]
+    },
+    {
         "title": "Saber",
         "simple_img": "https://patchwiki.biligame.com/images/sr/5/52/8h7t8yyh6sk9jox5rr1nqe46hadg1xa.png",
         "promotion_img": [
@@ -58,6 +67,15 @@
             "https://patchwiki.biligame.com/images/sr/thumb/1/16/royqtq8l5c7y08ymr4wydmk6jzx40tu.png/700px-%E4%B9%B1%E7%A0%B4%E7%AB%8B%E7%BB%98.png",
             "https://patchwiki.biligame.com/images/sr/4/4b/shvnixbxop34c6lewwybghgz2zajuxp.png",
             "https://patchwiki.biligame.com/images/sr/6/65/1msit5tdktjfjpjp07urqjubnbzom8v.jpg"
+        ]
+    },
+    {
+        "title": "云璃",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/5/57/cm3dcpfecx0c9irb6pvcra99aizcvoa.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/thumb/9/9b/lbcmqx6m2835kdfygh2q2kdn7fzcmg8.png/700px-%E4%BA%91%E7%92%83%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/a/a7/2bgqmjydahl3gfrvfezehh9q7ek1mrw.png",
+            "https://patchwiki.biligame.com/images/sr/3/3c/fyl2q7rbfwjyulqmyr32gugodbvv55t.jpg"
         ]
     },
     {
@@ -285,6 +303,24 @@
         ]
     },
     {
+        "title": "波提欧",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/c/ca/ecxvzqh55v4grwcfuypmgpf2szxs3y1.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/thumb/6/6b/1uf2xm1kea19xviupptch88hd9e1k3z.png/700px-%E6%B3%A2%E6%8F%90%E6%AC%A7%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/a/ad/huilqas2k0y697l8s6e0k1e1ctuzmdr.png",
+            "https://patchwiki.biligame.com/images/sr/6/6e/8a6lrj7gm9ffrhek3lrayz7hwdatkic.jpg"
+        ]
+    },
+    {
+        "title": "流萤",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/5/52/rpu07i97b95ppq9vzq819evnp5idtmk.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/thumb/d/d3/k7g0ja362py1shisgib2uxl5s5kzbfw.png/700px-%E6%B5%81%E8%90%A4%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/5/51/gpth5r6kd96nmu5goer4wv3i6kojxqc.png",
+            "https://patchwiki.biligame.com/images/sr/8/8e/dr9dca5ia1rsk3m8surqwa80ocpm4vs.jpg"
+        ]
+    },
+    {
         "title": "灵砂",
         "simple_img": "https://patchwiki.biligame.com/images/sr/e/e9/8xut1ehdahe74l9sllyq5s0292kc8a3.png",
         "promotion_img": [
@@ -311,6 +347,15 @@
         ]
     },
     {
+        "title": "白厄",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/f/fd/9w42bdl4l38fsqm81820ojc79yft684.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/thumb/9/97/0kq3qo82g7sk73tg79wu068kuccr1bp.png/700px-%E7%99%BD%E5%8E%84%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/3/35/i7mtf7gn0a5m1ulwwr6p62du2dpn0uz.png",
+            "https://patchwiki.biligame.com/images/sr/f/fd/3uun60b8ems7tbas31h2g2n4tpfqk0v.jpg"
+        ]
+    },
+    {
         "title": "白露",
         "simple_img": "https://patchwiki.biligame.com/images/sr/f/f8/5oknkpsrd4eehmrd77ohd14o08xpg0p.png",
         "promotion_img": [
@@ -325,6 +370,15 @@
             "https://patchwiki.biligame.com/images/sr/thumb/1/1d/925f4ivd1q8z4uxmwmrz11wjfpgxq7v.png/700px-%E7%9C%9F%E7%90%86%E5%8C%BB%E7%94%9F%E7%AB%8B%E7%BB%98.png",
             "https://patchwiki.biligame.com/images/sr/6/68/art8sao8fcbmil27hd874zjb2wlw9wx.png",
             "https://patchwiki.biligame.com/images/sr/4/47/on39aglim2lxrb766mxk46iwwn0tab3.jpg"
+        ]
+    },
+    {
+        "title": "知更鸟",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/0/0e/t1qy59mq19mtcpa4bhq1t7ucezliuve.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/thumb/b/b9/q7uxyiej5tg4p3ysts38oxcv23mt76p.png/700px-%E7%9F%A5%E6%9B%B4%E9%B8%9F%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/d/db/au23wjkibt90fxug7ney502r5z6tx50.png",
+            "https://patchwiki.biligame.com/images/sr/6/61/e5ngfrdvotsxei9yl7y1efdbnhy7wto.jpg"
         ]
     },
     {
@@ -380,6 +434,15 @@
         ]
     },
     {
+        "title": "翡翠",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/3/33/0kw28u1a6w2rle66p7ktdqa16ha2g1b.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/thumb/d/db/hzxqo1nhxb0on8ntmv58gshidxpue61.png/700px-%E7%BF%A1%E7%BF%A0%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/0/08/7rhdzzkpa040vu46q9kjvpvv2bqeocn.png",
+            "https://patchwiki.biligame.com/images/sr/e/e1/rzpq5lef1f15mso91wbns6hj045racj.jpg"
+        ]
+    },
+    {
         "title": "艾丝妲",
         "simple_img": "https://patchwiki.biligame.com/images/sr/2/2f/6dvewh69zisq5d7u4a7rs8emaa6rd3j.png",
         "promotion_img": [
@@ -420,6 +483,15 @@
             "https://patchwiki.biligame.com/images/sr/thumb/8/8d/32jv2f9yr1mpljcb3sugktmajr7dift.png/700px-%E8%B2%8A%E6%B3%BD%E7%AB%8B%E7%BB%98.png",
             "https://patchwiki.biligame.com/images/sr/d/d0/96wxx2zblvjf88jrdx0dvomvunbjee0.png",
             "https://patchwiki.biligame.com/images/sr/2/2e/ixj4iqcr09yh0xqu8j7k9e5t8mmtwk6.jpg"
+        ]
+    },
+    {
+        "title": "赛飞儿",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/4/40/n2ok5gt07safya02wyv28nfamifdlus.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/thumb/9/97/j9ze4tnenfrqgx4tygftk0veekqsn2z.png/700px-%E8%B5%9B%E9%A3%9E%E5%84%BF%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/2/25/eniw8ipaz17esbzo8lrgsacrwq9j3pz.png",
+            "https://patchwiki.biligame.com/images/sr/e/e4/969k2rikbmjl8db3ojcd11ilp6pg9r4.jpg"
         ]
     },
     {
