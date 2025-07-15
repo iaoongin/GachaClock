@@ -1,5 +1,57 @@
 [
     {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/3/33/j170wf9z1itaqd7it4d2dazc3gpivyg.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5018-1%E6%9C%9F.png",
+        "title": "「戏语幽谭」018-1期独家频段",
+        "type": "角色",
+        "version": "2.1上半",
+        "timer": "2.1版本更新后 ~ 2025/08/06 11:59:59",
+        "s": "柚叶",
+        "a": [
+            "比利",
+            "派派"
+        ],
+        "img_path": "img/zzz/history/「戏语幽谭」018-1期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/7/7f/gvmmg0i3yr0ifh2lhpb3rp2kfw21gos.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5018-1%E6%9C%9F.png",
+        "title": "「喧哗奏鸣」018-1期音擎频段",
+        "type": "武器",
+        "version": "2.1上半",
+        "timer": "2.1版本更新后 ~ 2025/08/06 11:59:59",
+        "s": "狸法七变化",
+        "a": [
+            "仿制星徽引擎",
+            "轰鸣座驾"
+        ],
+        "img_path": "img/zzz/history/「喧哗奏鸣」018-1期音擎频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/2/2e/pl0zitlwf1px65tqvun9vrt52n24p4v.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5018-2%E6%9C%9F.png",
+        "title": "「砺世澄沧」018-2期独家频段",
+        "type": "角色",
+        "version": "2.1上半",
+        "timer": "2.1版本更新后 ~ 2025/08/06 11:59:59",
+        "s": "雅",
+        "a": [
+            "比利",
+            "派派"
+        ],
+        "img_path": "img/zzz/history/「砺世澄沧」018-2期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/f/f7/fg4ec40rl7m439gg2h5x9i9kx0xj01o.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5018-2%E6%9C%9F.png",
+        "title": "「激荡谐振」018-2期音擎频段",
+        "type": "武器",
+        "version": "2.1上半",
+        "timer": "2.1版本更新后 ~ 2025/08/06 11:59:59",
+        "s": "霰落星殿",
+        "a": [
+            "仿制星徽引擎",
+            "轰鸣座驾"
+        ],
+        "img_path": "img/zzz/history/「激荡谐振」018-2期音擎频段.png"
+    },
+    {
         "img": "https://patchwiki.biligame.com/images/zzz/thumb/a/a2/lr7l205udsa7zanw94xb8h7p5j9kvpk.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5017-1%E6%9C%9F.png",
         "title": "「福福生威」017-1期独家频段",
         "type": "角色",
