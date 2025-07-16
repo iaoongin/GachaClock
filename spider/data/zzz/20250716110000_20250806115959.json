@@ -1,0 +1,102 @@
+[
+    {
+        "title": "「戏语幽谭」独家频段",
+        "type": "角色",
+        "timer": [
+            "2025/07/16 11:00:00",
+            "2025/08/06 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "柚叶",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/b/be/p6n16r8ky85he83f9dp2yzv0pi51xjv.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E6%9F%9A%E5%8F%B6.png",
+                "img_path": "img/zzz/柚叶.png"
+            },
+            {
+                "title": "派派",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/9/97/pfu4zzfl1h0cwia744at26rwtzi0997.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E6%B4%BE%E6%B4%BE.png",
+                "img_path": "img/zzz/派派.png"
+            },
+            {
+                "title": "比利",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/9/96/me3g5rbobr0ibzl5hcy20zy7t95hsrx.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E6%AF%94%E5%88%A9.png",
+                "img_path": "img/zzz/比利.png"
+            }
+        ]
+    },
+    {
+        "title": "「砺世澄沧」独家频段",
+        "type": "角色",
+        "timer": [
+            "2025/07/16 11:00:00",
+            "2025/08/06 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "雅",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/3/31/6ljd0fuxbygzw1set0zvvaieqgxz9hu.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E9%9B%85.png",
+                "img_path": "img/zzz/雅.png"
+            },
+            {
+                "title": "派派",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/9/97/pfu4zzfl1h0cwia744at26rwtzi0997.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E6%B4%BE%E6%B4%BE.png",
+                "img_path": "img/zzz/派派.png"
+            },
+            {
+                "title": "比利",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/9/96/me3g5rbobr0ibzl5hcy20zy7t95hsrx.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E6%AF%94%E5%88%A9.png",
+                "img_path": "img/zzz/比利.png"
+            }
+        ]
+    },
+    {
+        "title": "「喧哗奏鸣」音擎频段",
+        "type": "武器",
+        "timer": [
+            "2025/07/16 11:00:00",
+            "2025/08/06 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "狸法七变化",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/a/a4/1imod35sm4l9u8b97rf08i4id0xzqxt.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E7%8B%B8%E6%B3%95%E4%B8%83%E5%8F%98%E5%8C%96.png",
+                "img_path": "img/zzz/狸法七变化.png"
+            },
+            {
+                "title": "轰鸣座驾",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/c/cc/d3td2ztk9yzd7kn1nke9728qpy8adth.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E8%BD%B0%E9%B8%A3%E5%BA%A7%E9%A9%BE.png",
+                "img_path": "img/zzz/轰鸣座驾.png"
+            },
+            {
+                "title": "仿制星徽引擎",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/e/eb/5g2yl5e5ve88myucd32v7qa0ip70m5p.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E4%BB%BF%E5%88%B6%E6%98%9F%E5%BE%BD%E5%BC%95%E6%93%8E.png",
+                "img_path": "img/zzz/仿制星徽引擎.png"
+            }
+        ]
+    },
+    {
+        "title": "「激荡谐振」音擎频段",
+        "type": "武器",
+        "timer": [
+            "2025/07/16 11:00:00",
+            "2025/08/06 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "霰落星殿",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/3/31/muskcb1yhwwxgkyaitxl7wrk2fvjklz.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E9%9C%B0%E8%90%BD%E6%98%9F%E6%AE%BF.png",
+                "img_path": "img/zzz/霰落星殿.png"
+            },
+            {
+                "title": "轰鸣座驾",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/c/cc/d3td2ztk9yzd7kn1nke9728qpy8adth.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E8%BD%B0%E9%B8%A3%E5%BA%A7%E9%A9%BE.png",
+                "img_path": "img/zzz/轰鸣座驾.png"
+            },
+            {
+                "title": "仿制星徽引擎",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/e/eb/5g2yl5e5ve88myucd32v7qa0ip70m5p.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E4%BB%BF%E5%88%B6%E6%98%9F%E5%BE%BD%E5%BC%95%E6%93%8E.png",
+                "img_path": "img/zzz/仿制星徽引擎.png"
+            }
+        ]
+    }
+]
