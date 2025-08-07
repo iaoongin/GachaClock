@@ -1,5 +1,57 @@
 [
     {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/d/d1/k6azjil718nloxdr4nrtoa8nbxhyyrs.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5019-1%E6%9C%9F.png",
+        "title": "「馥草芳誓」019-1期独家频段",
+        "type": "角色",
+        "version": "2.1下半",
+        "timer": "2025/08/06 12:00:00 ~ 2025/09/03 14:59:59",
+        "s": "爱丽丝",
+        "a": [
+            "苍角",
+            "赛斯"
+        ],
+        "img_path": "img/zzz/history/「馥草芳誓」019-1期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/8/86/87v678z2b92mb0y1k6j0vaufpm559r7.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5019-1%E6%9C%9F.png",
+        "title": "「灿烂和声」019-1期音擎频段",
+        "type": "武器",
+        "version": "2.1下半",
+        "timer": "2025/08/06 12:00:00 ~ 2025/09/03 14:59:59",
+        "s": "十方锻星",
+        "a": [
+            "含羞恶面",
+            "维序者-特化型"
+        ],
+        "img_path": "img/zzz/history/「灿烂和声」019-1期音擎频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/7/74/hhms078jbveih7oxdnply2bsp79micm.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5019-2%E6%9C%9F.png",
+        "title": "「休心沐月」019-2期独家频段",
+        "type": "角色",
+        "version": "2.1下半",
+        "timer": "2025/08/06 12:00:00 ~ 2025/09/03 14:59:59",
+        "s": "柳",
+        "a": [
+            "苍角",
+            "赛斯"
+        ],
+        "img_path": "img/zzz/history/「休心沐月」019-2期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/b/b5/t37pquaf52k93ny0ypkrva9uw11158f.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5019-2%E6%9C%9F.png",
+        "title": "「璀璨韵律」019-2期音擎频段",
+        "type": "武器",
+        "version": "2.1下半",
+        "timer": "2025/08/06 12:00:00 ~ 2025/09/03 14:59:59",
+        "s": "时流贤者",
+        "a": [
+            "含羞恶面",
+            "维序者-特化型"
+        ],
+        "img_path": "img/zzz/history/「璀璨韵律」019-2期音擎频段.png"
+    },
+    {
         "img": "https://patchwiki.biligame.com/images/zzz/thumb/3/33/j170wf9z1itaqd7it4d2dazc3gpivyg.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5018-1%E6%9C%9F.png",
         "title": "「戏语幽谭」018-1期独家频段",
         "type": "角色",
