@@ -1,0 +1,122 @@
+[
+    {
+        "title": "「绀碧绝音」角色活动跃迁",
+        "type": "角色",
+        "timer": [
+            "2025/08/13 10:00:00",
+            "2025/09/03 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "海瑟音",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/5/54/mukowg0x3h5ctho5ds5mmby4msrrhhf.png/112px-%E6%B5%B7%E7%91%9F%E9%9F%B3.png",
+                "img_path": "img/sr/海瑟音.png"
+            },
+            {
+                "title": "艾丝妲",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/b/bf/st0z27ry91aovv8okirwqtbhwygaex7.png/112px-%E8%89%BE%E4%B8%9D%E5%A6%B2.png",
+                "img_path": "img/sr/艾丝妲.png"
+            },
+            {
+                "title": "阿兰",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/e/e3/h92y0hgibbww0f4ayg9xsc9lkkrbm1t.png/112px-%E9%98%BF%E5%85%B0.png",
+                "img_path": "img/sr/阿兰.png"
+            },
+            {
+                "title": "虎克",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/d/d9/cng0jc28j1hikbidgetsoyeq81pp2he.png/112px-%E8%99%8E%E5%85%8B.png",
+                "img_path": "img/sr/虎克.png"
+            }
+        ]
+    },
+    {
+        "title": "「夜将不眠」角色活动跃迁",
+        "type": "角色",
+        "timer": [
+            "2025/08/13 10:00:00",
+            "2025/09/03 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "卡芙卡",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/f/fe/dohx45e24wwx133a7ys68qtz1hy0mav.png/112px-%E5%8D%A1%E8%8A%99%E5%8D%A1.png",
+                "img_path": "img/sr/卡芙卡.png"
+            },
+            {
+                "title": "艾丝妲",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/b/bf/st0z27ry91aovv8okirwqtbhwygaex7.png/112px-%E8%89%BE%E4%B8%9D%E5%A6%B2.png",
+                "img_path": "img/sr/艾丝妲.png"
+            },
+            {
+                "title": "阿兰",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/e/e3/h92y0hgibbww0f4ayg9xsc9lkkrbm1t.png/112px-%E9%98%BF%E5%85%B0.png",
+                "img_path": "img/sr/阿兰.png"
+            },
+            {
+                "title": "虎克",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/d/d9/cng0jc28j1hikbidgetsoyeq81pp2he.png/112px-%E8%99%8E%E5%85%8B.png",
+                "img_path": "img/sr/虎克.png"
+            }
+        ]
+    },
+    {
+        "title": "「流光定影」光锥活动跃迁",
+        "type": "武器",
+        "timer": [
+            "2025/08/13 10:00:00",
+            "2025/09/03 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "海洋为何而歌",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/0/0b/ij2ybk71rf7huf2s2sb6hg4qtlaz3rd.png/112px-%E6%B5%B7%E6%B4%8B%E4%B8%BA%E4%BD%95%E8%80%8C%E6%AD%8C.png",
+                "img_path": "img/sr/海洋为何而歌.png"
+            },
+            {
+                "title": "猎物的视线",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/1/14/6vnpk00gk7qdcy3rwdfz852332nsyf2.png/112px-%E7%8C%8E%E7%89%A9%E7%9A%84%E8%A7%86%E7%BA%BF.png",
+                "img_path": "img/sr/猎物的视线.png"
+            },
+            {
+                "title": "芳华待灼",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/d/d4/b5z3wy0zzas5fnaxbavn88if4r8film.png/112px-%E8%8A%B3%E5%8D%8E%E5%BE%85%E7%81%BC.png",
+                "img_path": "img/sr/芳华待灼.png"
+            },
+            {
+                "title": "铭记于心的约定",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/4f/pfsscc44ydg3ijhe4b7158sjidqbmy1.png/112px-%E9%93%AD%E8%AE%B0%E4%BA%8E%E5%BF%83%E7%9A%84%E7%BA%A6%E5%AE%9A.png",
+                "img_path": "img/sr/铭记于心的约定.png"
+            }
+        ]
+    },
+    {
+        "title": "「溯回忆象」光锥活动跃迁",
+        "type": "武器",
+        "timer": [
+            "2025/08/13 10:00:00",
+            "2025/09/03 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "只需等待",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/e/e8/efjfno0uzcaf7mji1xs0pvbpvh3d3jl.png/112px-%E5%8F%AA%E9%9C%80%E7%AD%89%E5%BE%85.png",
+                "img_path": "img/sr/只需等待.png"
+            },
+            {
+                "title": "猎物的视线",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/1/14/6vnpk00gk7qdcy3rwdfz852332nsyf2.png/112px-%E7%8C%8E%E7%89%A9%E7%9A%84%E8%A7%86%E7%BA%BF.png",
+                "img_path": "img/sr/猎物的视线.png"
+            },
+            {
+                "title": "芳华待灼",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/d/d4/b5z3wy0zzas5fnaxbavn88if4r8film.png/112px-%E8%8A%B3%E5%8D%8E%E5%BE%85%E7%81%BC.png",
+                "img_path": "img/sr/芳华待灼.png"
+            },
+            {
+                "title": "铭记于心的约定",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/4f/pfsscc44ydg3ijhe4b7158sjidqbmy1.png/112px-%E9%93%AD%E8%AE%B0%E4%BA%8E%E5%BF%83%E7%9A%84%E7%BA%A6%E5%AE%9A.png",
+                "img_path": "img/sr/铭记于心的约定.png"
+            }
+        ]
+    }
+]
