@@ -1,0 +1,122 @@
+[
+    {
+        "title": "映海之梦",
+        "type": "角色",
+        "timer": [
+            "2025-08-14 10:00:00",
+            "2025-08-27 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "坎特蕾拉",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/7f97a3ba18eb44d699d0ae66b76d1a0520250813.png",
+                "img_path": "img/ww/坎特蕾拉.png"
+            },
+            {
+                "title": "丹瑾",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/b08413b323a34733a466f54b5fed2cfa20250813.png",
+                "img_path": "img/ww/丹瑾.png"
+            },
+            {
+                "title": "秧秧",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/c36234baa19d4343a2fe1910be2e5cf620250813.png",
+                "img_path": "img/ww/秧秧.png"
+            },
+            {
+                "title": "莫特斐",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/f717f581879e4c3aa931711dd163278a20250813.png",
+                "img_path": "img/ww/莫特斐.png"
+            }
+        ]
+    },
+    {
+        "title": "燃焰于海",
+        "type": "角色",
+        "timer": [
+            "2025-08-14 10:00:00",
+            "2025-08-27 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "布兰特",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/de8e19ba657d41d0bbdf51e668daa31220250813.png",
+                "img_path": "img/ww/布兰特.png"
+            },
+            {
+                "title": "丹瑾",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/5ea85e41272c4989868e2e5b7a4c7a6720250813.png",
+                "img_path": "img/ww/丹瑾.png"
+            },
+            {
+                "title": "秧秧",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/0d51e2a2b6d9424a8920202dcf01791e20250813.png",
+                "img_path": "img/ww/秧秧.png"
+            },
+            {
+                "title": "莫特斐",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/a4faad5d28f34596b533c8e5cd172ff420250813.png",
+                "img_path": "img/ww/莫特斐.png"
+            }
+        ]
+    },
+    {
+        "title": "海的呢喃",
+        "type": "武器",
+        "timer": [
+            "2025-08-14 10:00:00",
+            "2025-08-27 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "海的呢喃",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/eb1361c3eec04262af305471bd8d7f7720250813.png",
+                "img_path": "img/ww/海的呢喃.png"
+            },
+            {
+                "title": "奇幻变奏",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/4b181e4dd59c4041b63fa59335a7530420250813.png",
+                "img_path": "img/ww/奇幻变奏.png"
+            },
+            {
+                "title": "行进序曲",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/e16acdb7f1e84376991510db95aedc7e20250813.png",
+                "img_path": "img/ww/行进序曲.png"
+            },
+            {
+                "title": "飞逝",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/12f1d9e4d1a14085898874687293e08b20250813.png",
+                "img_path": "img/ww/飞逝.png"
+            }
+        ]
+    },
+    {
+        "title": "不灭航路",
+        "type": "武器",
+        "timer": [
+            "2025-08-14 10:00:00",
+            "2025-08-27 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "不灭航路",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/a3a90bd40f5349579efcb0457395ff1620250813.png",
+                "img_path": "img/ww/不灭航路.png"
+            },
+            {
+                "title": "奇幻变奏",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/4c05cbc5ab094413894f31d3597d0bfe20250813.png",
+                "img_path": "img/ww/奇幻变奏.png"
+            },
+            {
+                "title": "行进序曲",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/570537e2163c4198b16593812846655b20250813.png",
+                "img_path": "img/ww/行进序曲.png"
+            },
+            {
+                "title": "飞逝",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/0f2d15b3abfa426899ddc912bc4fe9f720250813.png",
+                "img_path": "img/ww/飞逝.png"
+            }
+        ]
+    }
+]
