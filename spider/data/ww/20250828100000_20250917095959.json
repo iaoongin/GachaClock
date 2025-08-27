@@ -1,0 +1,182 @@
+[
+    {
+        "title": "不坠烜冕",
+        "type": "角色",
+        "timer": [
+            "2025-08-28 10:00:00",
+            "2025-09-17 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "奥古斯塔-前瞻",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/7501dcc45ffa45efa10679241df0975720250826.jpg",
+                "img_path": "img/ww/奥古斯塔-前瞻.png"
+            },
+            {
+                "title": "炽霞",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/e09bcadeb55e4f44b020d458e7de76e720250826.png",
+                "img_path": "img/ww/炽霞.png"
+            },
+            {
+                "title": "釉瑚",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/87d885f3a5194c68a962cc9eccb6944b20250826.png",
+                "img_path": "img/ww/釉瑚.png"
+            },
+            {
+                "title": "渊武",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/731e79a65b64432e97eeb83aecd6243b20250826.png",
+                "img_path": "img/ww/渊武.png"
+            }
+        ]
+    },
+    {
+        "title": "另一种喧嚣",
+        "type": "角色",
+        "timer": [
+            "2025-08-28 10:00:00",
+            "2025-09-17 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "珂莱塔",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/da6c2e43ab474ef18cf433afa7eccfbc20250826.png",
+                "img_path": "img/ww/珂莱塔.png"
+            },
+            {
+                "title": "炽霞",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/44e817f74e514055a6192cd4211d0fda20250826.png",
+                "img_path": "img/ww/炽霞.png"
+            },
+            {
+                "title": "釉瑚",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/2226494b6d384e97bfe864fe07ef4b7e20250826.png",
+                "img_path": "img/ww/釉瑚.png"
+            },
+            {
+                "title": "渊武",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/b914d73994914ec88f0359a386797eee20250826.png",
+                "img_path": "img/ww/渊武.png"
+            }
+        ]
+    },
+    {
+        "title": "直至海水褪色",
+        "type": "角色",
+        "timer": [
+            "2025-08-28 10:00:00",
+            "2025-09-17 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "守岸人",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/c004746c277047b09d6348a1337cfaa320250826.png",
+                "img_path": "img/ww/守岸人.png"
+            },
+            {
+                "title": "炽霞",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/ad53bee61fe540f89b9749ad45c83f2a20250826.png",
+                "img_path": "img/ww/炽霞.png"
+            },
+            {
+                "title": "釉瑚",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/40f4b008e005413486e2c9586d6a32ab20250826.png",
+                "img_path": "img/ww/釉瑚.png"
+            },
+            {
+                "title": "渊武",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/8433d9cb29534ac898d147d88ff5562a20250826.png",
+                "img_path": "img/ww/渊武.png"
+            }
+        ]
+    },
+    {
+        "title": "驭冕铸雷之权",
+        "type": "武器",
+        "timer": [
+            "2025-08-28 10:00:00",
+            "2025-09-17 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "海的呢喃",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/5d2a2c0b90f24b24885502cd7068dce520250826.png",
+                "img_path": "img/ww/海的呢喃.png"
+            },
+            {
+                "title": "凋亡频移",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/b6dab17dc4ce4f85836856241da9600c20250826.png",
+                "img_path": "img/ww/凋亡频移.png"
+            },
+            {
+                "title": "无眠烈火",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/afa300083de54b1c98ede066239f6d7720250826.png",
+                "img_path": "img/ww/无眠烈火.png"
+            },
+            {
+                "title": "异度",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/425f0503dca9402bac79d9fa84adb73e20250826.png",
+                "img_path": "img/ww/异度.png"
+            }
+        ]
+    },
+    {
+        "title": "死与舞",
+        "type": "武器",
+        "timer": [
+            "2025-08-28 10:00:00",
+            "2025-09-17 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "死与舞",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/76b783c4cb3c43d592f565ce7a1defd120250826.png",
+                "img_path": "img/ww/死与舞.png"
+            },
+            {
+                "title": "凋亡频移",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/e1fa92e789524205ba5e6ecbacce0e0a20250826.png",
+                "img_path": "img/ww/凋亡频移.png"
+            },
+            {
+                "title": "无眠烈火",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/ed4efc2d726f461fbd160e79fd868ddb20250826.png",
+                "img_path": "img/ww/无眠烈火.png"
+            },
+            {
+                "title": "异度",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/d8a956d4d2934a77b5064acd03cf126720250826.png",
+                "img_path": "img/ww/异度.png"
+            }
+        ]
+    },
+    {
+        "title": "星序协响",
+        "type": "武器",
+        "timer": [
+            "2025-08-28 10:00:00",
+            "2025-09-17 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "星序协响",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/50c1bf8caccd49feac03e00ef784548420250826.png",
+                "img_path": "img/ww/星序协响.png"
+            },
+            {
+                "title": "凋亡频移",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/07393eddbd8e495fa4d02f8c336641de20250826.png",
+                "img_path": "img/ww/凋亡频移.png"
+            },
+            {
+                "title": "无眠烈火",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/c310f410c46946a29b44dab30364e85120250826.png",
+                "img_path": "img/ww/无眠烈火.png"
+            },
+            {
+                "title": "异度",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/e13967d09ca64e10964a96e659bf425120250826.png",
+                "img_path": "img/ww/异度.png"
+            }
+        ]
+    }
+]
