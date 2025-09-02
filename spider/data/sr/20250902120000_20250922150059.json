@@ -1,0 +1,122 @@
+[
+    {
+        "title": "「弄潮铁血」角色活动跃迁",
+        "type": "角色",
+        "timer": [
+            "2025/09/02 12:00:00",
+            "2025/09/22 15:00:59"
+        ],
+        "gachas": [
+            {
+                "title": "刻律德菈",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/c/ca/n4rihkvayctcshy7x77eyvyaahuohwq.png/112px-%E5%88%BB%E5%BE%8B%E5%BE%B7%E8%8F%88.png",
+                "img_path": "img/sr/刻律德菈.png"
+            },
+            {
+                "title": "桑博",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/4f/o084kh5szvjt4c9pg2u5u0djj3qg8xt.png/112px-%E6%A1%91%E5%8D%9A.png",
+                "img_path": "img/sr/桑博.png"
+            },
+            {
+                "title": "青雀",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/40/szkhonn9zbsqwp4fd3g4t88a5mdo94w.png/112px-%E9%9D%92%E9%9B%80.png",
+                "img_path": "img/sr/青雀.png"
+            },
+            {
+                "title": "丹恒",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/5/50/dy9w38du3j7gr0bwmkdapzx7v2yq9xu.png/112px-%E4%B8%B9%E6%81%92.png",
+                "img_path": "img/sr/丹恒.png"
+            }
+        ]
+    },
+    {
+        "title": "「零号协议」角色活动跃迁",
+        "type": "角色",
+        "timer": [
+            "2025/09/02 12:00:00",
+            "2025/09/22 15:00:59"
+        ],
+        "gachas": [
+            {
+                "title": "银狼",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/6/6a/fy5jpy31k53qtntk0aetrjq9ior9gs2.png/112px-%E9%93%B6%E7%8B%BC.png",
+                "img_path": "img/sr/银狼.png"
+            },
+            {
+                "title": "桑博",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/4f/o084kh5szvjt4c9pg2u5u0djj3qg8xt.png/112px-%E6%A1%91%E5%8D%9A.png",
+                "img_path": "img/sr/桑博.png"
+            },
+            {
+                "title": "青雀",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/40/szkhonn9zbsqwp4fd3g4t88a5mdo94w.png/112px-%E9%9D%92%E9%9B%80.png",
+                "img_path": "img/sr/青雀.png"
+            },
+            {
+                "title": "丹恒",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/5/50/dy9w38du3j7gr0bwmkdapzx7v2yq9xu.png/112px-%E4%B8%B9%E6%81%92.png",
+                "img_path": "img/sr/丹恒.png"
+            }
+        ]
+    },
+    {
+        "title": "「流光定影」光锥活动跃迁",
+        "type": "武器",
+        "timer": [
+            "2025/09/02 12:00:00",
+            "2025/09/22 15:00:59"
+        ],
+        "gachas": [
+            {
+                "title": "金血铭刻的时代",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/8/8a/qo2qaon6v5ard8o3fp1a31id7u91nzb.png/112px-%E9%87%91%E8%A1%80%E9%93%AD%E5%88%BB%E7%9A%84%E6%97%B6%E4%BB%A3.png",
+                "img_path": "img/sr/金血铭刻的时代.png"
+            },
+            {
+                "title": "「我」的诞生",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/3/3d/1tn2g6gigtqq1xyt1502xtn0gjz2q9d.png/112px-%E3%80%8C%E6%88%91%E3%80%8D%E7%9A%84%E8%AF%9E%E7%94%9F.png",
+                "img_path": "img/sr/「我」的诞生.png"
+            },
+            {
+                "title": "论剑",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/0/01/juy8mbnxkfy1rbcg6nn9l7gyreemhlq.png/112px-%E8%AE%BA%E5%89%91.png",
+                "img_path": "img/sr/论剑.png"
+            },
+            {
+                "title": "晚安与睡颜",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/2/2e/42qcpkq7qnvaenbq9z7saw4y34w192r.png/112px-%E6%99%9A%E5%AE%89%E4%B8%8E%E7%9D%A1%E9%A2%9C.png",
+                "img_path": "img/sr/晚安与睡颜.png"
+            }
+        ]
+    },
+    {
+        "title": "「溯回忆象」光锥活动跃迁",
+        "type": "武器",
+        "timer": [
+            "2025/09/02 12:00:00",
+            "2025/09/22 15:00:59"
+        ],
+        "gachas": [
+            {
+                "title": "雨一直下",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/9/91/5o2f5ztwugkgtr3j0tz89maktzlfib7.png/112px-%E9%9B%A8%E4%B8%80%E7%9B%B4%E4%B8%8B.png",
+                "img_path": "img/sr/雨一直下.png"
+            },
+            {
+                "title": "「我」的诞生",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/3/3d/1tn2g6gigtqq1xyt1502xtn0gjz2q9d.png/112px-%E3%80%8C%E6%88%91%E3%80%8D%E7%9A%84%E8%AF%9E%E7%94%9F.png",
+                "img_path": "img/sr/「我」的诞生.png"
+            },
+            {
+                "title": "论剑",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/0/01/juy8mbnxkfy1rbcg6nn9l7gyreemhlq.png/112px-%E8%AE%BA%E5%89%91.png",
+                "img_path": "img/sr/论剑.png"
+            },
+            {
+                "title": "晚安与睡颜",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/2/2e/42qcpkq7qnvaenbq9z7saw4y34w192r.png/112px-%E6%99%9A%E5%AE%89%E4%B8%8E%E7%9D%A1%E9%A2%9C.png",
+                "img_path": "img/sr/晚安与睡颜.png"
+            }
+        ]
+    }
+]
