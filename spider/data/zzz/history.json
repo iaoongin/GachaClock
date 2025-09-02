@@ -1,5 +1,57 @@
 [
     {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/e/ee/lg50boplyss10xxe7yzi47fzieljmpy.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5020-1%E6%9C%9F.png.jpeg",
+        "title": "「泪铸生花」020-1期独家频段",
+        "type": "角色",
+        "version": "2.2上半",
+        "timer": "2.2版本更新后 ~ 2025/09/24 11:59:59",
+        "s": "「席德」",
+        "a": [
+            "妮可",
+            "安比"
+        ],
+        "img_path": "img/zzz/history/「泪铸生花」020-1期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/f/f2/o2gu4e3nd2psytsn93j5pbbd54th48g.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5020-1%E6%9C%9F.png.jpeg",
+        "title": "「喧哗奏鸣」020-1期音擎频段",
+        "type": "武器",
+        "version": "2.2上半",
+        "timer": "2.2版本更新后 ~ 2025/09/24 11:59:59",
+        "s": "机巧心种",
+        "a": [
+            "德玛拉电池Ⅱ型",
+            "聚宝箱"
+        ],
+        "img_path": "img/zzz/history/「喧哗奏鸣」020-1期音擎频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/5/50/moyd5hxzn6k2ew0jmy2mtr1c96zsvxq.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5020-2%E6%9C%9F.png.jpeg",
+        "title": "「冥目幽华」020-2期独家频段",
+        "type": "角色",
+        "version": "2.2上半",
+        "timer": "2.2版本更新后 ~ 2025/09/24 11:59:59",
+        "s": "「扳机」",
+        "a": [
+            "妮可",
+            "安比"
+        ],
+        "img_path": "img/zzz/history/「冥目幽华」020-2期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/5/5a/0i94azux438rfz1k0flbb8eyqz9yqhk.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5020-2%E6%9C%9F.png.jpeg",
+        "title": "「激荡谐振」020-2期音擎频段",
+        "type": "武器",
+        "version": "2.2上半",
+        "timer": "2.2版本更新后 ~ 2025/09/24 11:59:59",
+        "s": "索魂影眸",
+        "a": [
+            "德玛拉电池Ⅱ型",
+            "聚宝箱"
+        ],
+        "img_path": "img/zzz/history/「激荡谐振」020-2期音擎频段.png"
+    },
+    {
         "img": "https://patchwiki.biligame.com/images/zzz/thumb/d/d1/k6azjil718nloxdr4nrtoa8nbxhyyrs.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5019-1%E6%9C%9F.png",
         "title": "「馥草芳誓」019-1期独家频段",
         "type": "角色",
