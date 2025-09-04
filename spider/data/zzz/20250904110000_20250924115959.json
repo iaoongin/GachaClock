@@ -1,0 +1,97 @@
+[
+    {
+        "title": "「泪铸生花」独家频段",
+        "type": "角色",
+        "timer": [
+            "2025/09/04 11:00:00",
+            "2025/09/24 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "「席德」",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/b/b2/okaku4fnrnzg61icd84jsao92wkd7db.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E3%80%8C%E5%B8%AD%E5%BE%B7%E3%80%8D.png",
+                "img_path": "img/zzz/「席德」.png"
+            },
+            {
+                "title": "安比",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/e/e7/e1g98nfpbfeem9p5jpe73xqinoimd35.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E5%AE%89%E6%AF%94.png",
+                "img_path": "img/zzz/安比.png"
+            },
+            {
+                "title": "妮可",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/a/ae/posa7yw93z9vnzep092rtnrqxksdx4k.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E5%A6%AE%E5%8F%AF.png",
+                "img_path": "img/zzz/妮可.png"
+            }
+        ]
+    },
+    {
+        "title": "「冥目幽华」独家频段",
+        "type": "角色",
+        "timer": [
+            "2025/09/04 11:00:00",
+            "2025/09/24 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "「扳机」",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/2/2d/18ehwn3zvj8d04h7wyw7lu5p7iphm50.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E3%80%8C%E6%89%B3%E6%9C%BA%E3%80%8D.png",
+                "img_path": "img/zzz/「扳机」.png"
+            },
+            {
+                "title": "安比",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/e/e7/e1g98nfpbfeem9p5jpe73xqinoimd35.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E5%AE%89%E6%AF%94.png",
+                "img_path": "img/zzz/安比.png"
+            },
+            {
+                "title": "妮可",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/a/ae/posa7yw93z9vnzep092rtnrqxksdx4k.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E5%A6%AE%E5%8F%AF.png",
+                "img_path": "img/zzz/妮可.png"
+            }
+        ]
+    },
+    {
+        "title": "「喧哗奏鸣」音擎频段",
+        "type": "武器",
+        "timer": [
+            "2025/09/04 11:00:00",
+            "2025/09/24 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "德玛拉电池Ⅱ型",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/c/c0/sefi52cbveme3j7thy1ylaakmt0eokr.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E5%BE%B7%E7%8E%9B%E6%8B%89%E7%94%B5%E6%B1%A0%E2%85%A1%E5%9E%8B.png",
+                "img_path": "img/zzz/德玛拉电池Ⅱ型.png"
+            },
+            {
+                "title": "聚宝箱",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/d/d7/ns9qpuv5994ukbdogi84c9u6ufxu43s.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E8%81%9A%E5%AE%9D%E7%AE%B1.png",
+                "img_path": "img/zzz/聚宝箱.png"
+            }
+        ]
+    },
+    {
+        "title": "「激荡谐振」音擎频段",
+        "type": "武器",
+        "timer": [
+            "2025/09/04 11:00:00",
+            "2025/09/24 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "索魂影眸",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/8/83/c4hs8iypvkkafngkiqo6tmqow4yabti.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E7%B4%A2%E9%AD%82%E5%BD%B1%E7%9C%B8.png",
+                "img_path": "img/zzz/索魂影眸.png"
+            },
+            {
+                "title": "德玛拉电池Ⅱ型",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/c/c0/sefi52cbveme3j7thy1ylaakmt0eokr.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E5%BE%B7%E7%8E%9B%E6%8B%89%E7%94%B5%E6%B1%A0%E2%85%A1%E5%9E%8B.png",
+                "img_path": "img/zzz/德玛拉电池Ⅱ型.png"
+            },
+            {
+                "title": "聚宝箱",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/d/d7/ns9qpuv5994ukbdogi84c9u6ufxu43s.png/112px-%E6%AD%A6%E5%99%A8%E7%AB%8B%E7%BB%98-%E8%81%9A%E5%AE%9D%E7%AE%B1.png",
+                "img_path": "img/zzz/聚宝箱.png"
+            }
+        ]
+    }
+]
