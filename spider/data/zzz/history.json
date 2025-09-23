@@ -1,5 +1,57 @@
 [
     {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/b/b4/2q8n4cn946fmdxuudodpaa0qilf9v7t.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5021-1%E6%9C%9F.png",
+        "title": "「孽火两畔」021-1期独家频段",
+        "type": "角色",
+        "version": "2.1下半",
+        "timer": "2025/09/24 12:00:00 ~ 2025/10/24 14:59:59",
+        "s": "奥菲丝&「鬼火」",
+        "a": [
+            "安东",
+            "露西"
+        ],
+        "img_path": "img/zzz/history/「孽火两畔」021-1期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/8/85/7jy60qebao5a6rep8vjb8kcc22lkhth.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5021-1%E6%9C%9F.png",
+        "title": "「灿烂和声」021-1期音擎频段",
+        "type": "武器",
+        "version": "2.1下半",
+        "timer": "2025/09/24 12:00:00 ~ 2025/10/24 14:59:59",
+        "s": "嚣枪喧焰",
+        "a": [
+            "好斗的阿炮",
+            "旋钻机-赤轴"
+        ],
+        "img_path": "img/zzz/history/「灿烂和声」021-1期音擎频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/d/d7/57jiugymgglocevabaeont93ucpa5rn.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5021-2%E6%9C%9F.png",
+        "title": "「光与影的纱网」021-2期独家频段",
+        "type": "角色",
+        "version": "2.1下半",
+        "timer": "2025/09/24 12:00:00 ~ 2025/10/24 14:59:59",
+        "s": "伊芙琳",
+        "a": [
+            "安东",
+            "露西"
+        ],
+        "img_path": "img/zzz/history/「光与影的纱网」021-2期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/2/2f/ftyf1oaot7ax5j0yhxujtknpufjj63k.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5021-2%E6%9C%9F.png",
+        "title": "「璀璨韵律」021-2期音擎频段",
+        "type": "武器",
+        "version": "2.1下半",
+        "timer": "2025/09/24 12:00:00 ~ 2025/10/24 14:59:59",
+        "s": "心弦夜响",
+        "a": [
+            "好斗的阿炮",
+            "旋钻机-赤轴"
+        ],
+        "img_path": "img/zzz/history/「璀璨韵律」021-2期音擎频段.png"
+    },
+    {
         "img": "https://patchwiki.biligame.com/images/zzz/thumb/e/ee/lg50boplyss10xxe7yzi47fzieljmpy.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5020-1%E6%9C%9F.png.jpeg",
         "title": "「泪铸生花」020-1期独家频段",
         "type": "角色",
