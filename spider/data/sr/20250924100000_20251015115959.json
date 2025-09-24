@@ -1,0 +1,122 @@
+[
+    {
+        "title": "「无我所忆」角色活动跃迁",
+        "type": "角色",
+        "timer": [
+            "2025/09/24 10:00:00",
+            "2025/10/15 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "长夜月",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/6/6c/qa8t3g4e1iyx0k8mc6gj6nmblljhgoj.png/112px-%E9%95%BF%E5%A4%9C%E6%9C%88.png",
+                "img_path": "img/sr/长夜月.png"
+            },
+            {
+                "title": "米沙",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/b/b4/kdjdbpwwvnyrrtap9bv06svosz0z4a3.png/112px-%E7%B1%B3%E6%B2%99.png",
+                "img_path": "img/sr/米沙.png"
+            },
+            {
+                "title": "桂乃芬",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/1/12/atc2i0g1s6acih7zoydpgthv0sxdrii.png/112px-%E6%A1%82%E4%B9%83%E8%8A%AC.png",
+                "img_path": "img/sr/桂乃芬.png"
+            },
+            {
+                "title": "雪衣",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/3/3e/hybs1m6az92iylukqp98bhmwzwdmkru.png/112px-%E9%9B%AA%E8%A1%A3.png",
+                "img_path": "img/sr/雪衣.png"
+            }
+        ]
+    },
+    {
+        "title": "「视界来信」角色活动跃迁",
+        "type": "角色",
+        "timer": [
+            "2025/09/24 10:00:00",
+            "2025/10/15 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "大黑塔",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/0/0f/k7y0cams5glai70zx3zq20dy4nvzcbp.png/112px-%E5%A4%A7%E9%BB%91%E5%A1%94.png",
+                "img_path": "img/sr/大黑塔.png"
+            },
+            {
+                "title": "米沙",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/b/b4/kdjdbpwwvnyrrtap9bv06svosz0z4a3.png/112px-%E7%B1%B3%E6%B2%99.png",
+                "img_path": "img/sr/米沙.png"
+            },
+            {
+                "title": "桂乃芬",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/1/12/atc2i0g1s6acih7zoydpgthv0sxdrii.png/112px-%E6%A1%82%E4%B9%83%E8%8A%AC.png",
+                "img_path": "img/sr/桂乃芬.png"
+            },
+            {
+                "title": "雪衣",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/3/3e/hybs1m6az92iylukqp98bhmwzwdmkru.png/112px-%E9%9B%AA%E8%A1%A3.png",
+                "img_path": "img/sr/雪衣.png"
+            }
+        ]
+    },
+    {
+        "title": "「流光定影」光锥活动跃迁",
+        "type": "武器",
+        "timer": [
+            "2025/09/24 10:00:00",
+            "2025/10/15 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "致长夜的星光",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/0/05/4xatse14l9zqx8778ne2fakwn9n58kf.png/112px-%E8%87%B4%E9%95%BF%E5%A4%9C%E7%9A%84%E6%98%9F%E5%85%89.png",
+                "img_path": "img/sr/致长夜的星光.png"
+            },
+            {
+                "title": "梦的蒙太奇",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/d/dd/fem95c444i5dl6iknqg29lquwo7kp34.png/112px-%E6%A2%A6%E7%9A%84%E8%92%99%E5%A4%AA%E5%A5%87.png",
+                "img_path": "img/sr/梦的蒙太奇.png"
+            },
+            {
+                "title": "谐乐静默之后",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/0/0f/j1i577njeg5l5uxvsh18git9hl4cj3k.png/112px-%E8%B0%90%E4%B9%90%E9%9D%99%E9%BB%98%E4%B9%8B%E5%90%8E.png",
+                "img_path": "img/sr/谐乐静默之后.png"
+            },
+            {
+                "title": "舞！舞！舞！",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/2/20/n77c807w9321r1muyp0jf58ljujf48a.png/112px-%E8%88%9E%EF%BC%81%E8%88%9E%EF%BC%81%E8%88%9E%EF%BC%81.png",
+                "img_path": "img/sr/舞！舞！舞！.png"
+            }
+        ]
+    },
+    {
+        "title": "「溯回忆象」光锥活动跃迁",
+        "type": "武器",
+        "timer": [
+            "2025/09/24 10:00:00",
+            "2025/10/15 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "向着不可追问处",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/0/04/mm29v1nfj90ddbr9y3vbvcol4kn992m.png/112px-%E5%90%91%E7%9D%80%E4%B8%8D%E5%8F%AF%E8%BF%BD%E9%97%AE%E5%A4%84.png",
+                "img_path": "img/sr/向着不可追问处.png"
+            },
+            {
+                "title": "梦的蒙太奇",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/d/dd/fem95c444i5dl6iknqg29lquwo7kp34.png/112px-%E6%A2%A6%E7%9A%84%E8%92%99%E5%A4%AA%E5%A5%87.png",
+                "img_path": "img/sr/梦的蒙太奇.png"
+            },
+            {
+                "title": "谐乐静默之后",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/0/0f/j1i577njeg5l5uxvsh18git9hl4cj3k.png/112px-%E8%B0%90%E4%B9%90%E9%9D%99%E9%BB%98%E4%B9%8B%E5%90%8E.png",
+                "img_path": "img/sr/谐乐静默之后.png"
+            },
+            {
+                "title": "舞！舞！舞！",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/2/20/n77c807w9321r1muyp0jf58ljujf48a.png/112px-%E8%88%9E%EF%BC%81%E8%88%9E%EF%BC%81%E8%88%9E%EF%BC%81.png",
+                "img_path": "img/sr/舞！舞！舞！.png"
+            }
+        ]
+    }
+]
