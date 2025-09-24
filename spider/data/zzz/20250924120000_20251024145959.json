@@ -1,0 +1,102 @@
+[
+    {
+        "title": "「孽火两畔」独家频段",
+        "type": "角色",
+        "timer": [
+            "2025/09/24 12:00:00",
+            "2025/10/24 14:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "奥菲丝&「鬼火」",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/9/9e/2hxzo9jbadg0hcxbzz2x86e1bko982n.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E5%A5%A5%E8%8F%B2%E4%B8%9D%26%E3%80%8C%E9%AC%BC%E7%81%AB%E3%80%8D.png",
+                "img_path": "img/zzz/奥菲丝&「鬼火」.png"
+            },
+            {
+                "title": "露西",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/4/4b/nun3urflupvt1lq85o81qxeoie6t9vk.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E9%9C%B2%E8%A5%BF.png",
+                "img_path": "img/zzz/露西.png"
+            },
+            {
+                "title": "安东",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/d/d6/8zfp36j8pjwrxadhpwtqeqqa1szmrk1.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E5%AE%89%E4%B8%9C.png",
+                "img_path": "img/zzz/安东.png"
+            }
+        ]
+    },
+    {
+        "title": "「光与影的纱网」独家频段",
+        "type": "角色",
+        "timer": [
+            "2025/09/24 12:00:00",
+            "2025/10/24 14:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "伊芙琳",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/8/83/gyh51mrzure6iav0szztvotfli2vwo9.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E4%BC%8A%E8%8A%99%E7%90%B3.png",
+                "img_path": "img/zzz/伊芙琳.png"
+            },
+            {
+                "title": "露西",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/4/4b/nun3urflupvt1lq85o81qxeoie6t9vk.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E9%9C%B2%E8%A5%BF.png",
+                "img_path": "img/zzz/露西.png"
+            },
+            {
+                "title": "安东",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/d/d6/8zfp36j8pjwrxadhpwtqeqqa1szmrk1.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E5%AE%89%E4%B8%9C.png",
+                "img_path": "img/zzz/安东.png"
+            }
+        ]
+    },
+    {
+        "title": "「灿烂和声」音擎频段",
+        "type": "武器",
+        "timer": [
+            "2025/09/24 12:00:00",
+            "2025/10/24 14:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "嚣枪喧焰",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/4/40/pxzvydh6m8p4u3iuusievdpn8axkui4.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E5%9A%A3%E6%9E%AA%E5%96%A7%E7%84%B0.png",
+                "img_path": "img/zzz/嚣枪喧焰.png"
+            },
+            {
+                "title": "好斗的阿炮",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/3/38/7kskbvgkgahag0e4eb064e3qtm7qff2.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E5%A5%BD%E6%96%97%E7%9A%84%E9%98%BF%E7%82%AE.png",
+                "img_path": "img/zzz/好斗的阿炮.png"
+            },
+            {
+                "title": "旋钻机-赤轴",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/2/2c/axf42gs36w3h779emro0jhbh4ltgarj.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E6%97%8B%E9%92%BB%E6%9C%BA-%E8%B5%A4%E8%BD%B4.png",
+                "img_path": "img/zzz/旋钻机-赤轴.png"
+            }
+        ]
+    },
+    {
+        "title": "「璀璨韵律」音擎频段",
+        "type": "武器",
+        "timer": [
+            "2025/09/24 12:00:00",
+            "2025/10/24 14:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "心弦夜响",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/6/6a/7cdc6h3kvcp5g4nj0ryf51iotw71btj.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E5%BF%83%E5%BC%A6%E5%A4%9C%E5%93%8D.png",
+                "img_path": "img/zzz/心弦夜响.png"
+            },
+            {
+                "title": "好斗的阿炮",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/3/38/7kskbvgkgahag0e4eb064e3qtm7qff2.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E5%A5%BD%E6%96%97%E7%9A%84%E9%98%BF%E7%82%AE.png",
+                "img_path": "img/zzz/好斗的阿炮.png"
+            },
+            {
+                "title": "旋钻机-赤轴",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/2/2c/axf42gs36w3h779emro0jhbh4ltgarj.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E6%97%8B%E9%92%BB%E6%9C%BA-%E8%B5%A4%E8%BD%B4.png",
+                "img_path": "img/zzz/旋钻机-赤轴.png"
+            }
+        ]
+    }
+]
