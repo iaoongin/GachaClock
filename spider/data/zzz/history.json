@@ -1,5 +1,57 @@
 [
     {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/c/c7/32wmh5jwefuwgnex0dfc7md4adierzw.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5022-1%E6%9C%9F.png",
+        "title": "「绮夜游灯」022-1期独家频段",
+        "type": "角色",
+        "version": "2.3上半",
+        "timer": "2.3版本更新后 ~ 2025/11/05 11:59:59",
+        "s": "卢西娅",
+        "a": [
+            "派派",
+            "真斗"
+        ],
+        "img_path": "img/zzz/history/「绮夜游灯」022-1期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/5/5b/ly4qzbjm1edeqypz9if1j5tiifdg3go.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5022-1%E6%9C%9F.png",
+        "title": "「喧哗奏鸣」022-1期音擎频段",
+        "type": "武器",
+        "version": "2.3上半",
+        "timer": "2.3版本更新后 ~ 2025/11/05 11:59:59",
+        "s": "铸梦炉歌",
+        "a": [
+            "燔火胧夜",
+            "轰鸣座驾"
+        ],
+        "img_path": "img/zzz/history/「喧哗奏鸣」022-1期音擎频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/8/88/jfclo3fgacovk82a5rt9ytmfjgg8039.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5022-2%E6%9C%9F.png",
+        "title": "「飞鸟坠入良夜」022-2期独家频段",
+        "type": "角色",
+        "version": "2.3上半",
+        "timer": "2.3版本更新后 ~ 2025/11/05 11:59:59",
+        "s": "薇薇安",
+        "a": [
+            "派派",
+            "真斗"
+        ],
+        "img_path": "img/zzz/history/「飞鸟坠入良夜」022-2期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/0/06/mv4a9gq757igjq234jncwntol44a7ya.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5022-2%E6%9C%9F.png",
+        "title": "「激荡谐振」022-2期音擎频段",
+        "type": "武器",
+        "version": "2.3上半",
+        "timer": "2.3版本更新后 ~ 2025/11/05 11:59:59",
+        "s": "飞鸟星梦",
+        "a": [
+            "燔火胧夜",
+            "轰鸣座驾"
+        ],
+        "img_path": "img/zzz/history/「激荡谐振」022-2期音擎频段.png"
+    },
+    {
         "img": "https://patchwiki.biligame.com/images/zzz/thumb/b/b4/2q8n4cn946fmdxuudodpaa0qilf9v7t.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5021-1%E6%9C%9F.png",
         "title": "「孽火两畔」021-1期独家频段",
         "type": "角色",
