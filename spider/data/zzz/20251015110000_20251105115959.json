@@ -1,0 +1,87 @@
+[
+    {
+        "title": "「绮夜游灯」独家频段",
+        "type": "角色",
+        "timer": [
+            "2025/10/15 11:00:00",
+            "2025/11/05 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "卢西娅",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/a/aa/bewpw892egodvlvmedvwfeda48zlppy.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E5%8D%A2%E8%A5%BF%E5%A8%85.png",
+                "img_path": "img/zzz/卢西娅.png"
+            },
+            {
+                "title": "真斗",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/6/65/nonhxe2x6vq5m02lfsijs0ipxkizp9s.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E7%9C%9F%E6%96%97.png",
+                "img_path": "img/zzz/真斗.png"
+            },
+            {
+                "title": "派派",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/9/97/pfu4zzfl1h0cwia744at26rwtzi0997.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E6%B4%BE%E6%B4%BE.png",
+                "img_path": "img/zzz/派派.png"
+            }
+        ]
+    },
+    {
+        "title": "「飞鸟坠入良夜」独家频段",
+        "type": "角色",
+        "timer": [
+            "2025/10/15 11:00:00",
+            "2025/11/05 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "薇薇安",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/7/79/bvjii4ks3f3azw21ablr42xk1f13n7t.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E8%96%87%E8%96%87%E5%AE%89.png",
+                "img_path": "img/zzz/薇薇安.png"
+            },
+            {
+                "title": "真斗",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/6/65/nonhxe2x6vq5m02lfsijs0ipxkizp9s.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E7%9C%9F%E6%96%97.png",
+                "img_path": "img/zzz/真斗.png"
+            },
+            {
+                "title": "派派",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/9/97/pfu4zzfl1h0cwia744at26rwtzi0997.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E6%B4%BE%E6%B4%BE.png",
+                "img_path": "img/zzz/派派.png"
+            }
+        ]
+    },
+    {
+        "title": "「喧哗奏鸣」音擎频段",
+        "type": "武器",
+        "timer": [
+            "2025/10/15 11:00:00",
+            "2025/11/05 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "轰鸣座驾",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/2/27/aomgkrvq250gqb6o3xkzs38anj95rlo.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E8%BD%B0%E9%B8%A3%E5%BA%A7%E9%A9%BE.png",
+                "img_path": "img/zzz/轰鸣座驾.png"
+            }
+        ]
+    },
+    {
+        "title": "「激荡谐振」音擎频段",
+        "type": "武器",
+        "timer": [
+            "2025/10/15 11:00:00",
+            "2025/11/05 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "飞鸟星梦",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/b/bd/n2nbtiu9ycer89y67nk7rxkth2lxi9r.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E9%A3%9E%E9%B8%9F%E6%98%9F%E6%A2%A6.png",
+                "img_path": "img/zzz/飞鸟星梦.png"
+            },
+            {
+                "title": "轰鸣座驾",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/2/27/aomgkrvq250gqb6o3xkzs38anj95rlo.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E8%BD%B0%E9%B8%A3%E5%BA%A7%E9%A9%BE.png",
+                "img_path": "img/zzz/轰鸣座驾.png"
+            }
+        ]
+    }
+]
