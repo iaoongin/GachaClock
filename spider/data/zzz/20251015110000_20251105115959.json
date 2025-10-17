@@ -58,6 +58,16 @@
         ],
         "gachas": [
             {
+                "title": "铸梦炉歌",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/7/70/tsntop27jcmfxfks5i9ors8wq0u7l10.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E9%93%B8%E6%A2%A6%E7%82%89%E6%AD%8C.png",
+                "img_path": "img/zzz/铸梦炉歌.png"
+            },
+            {
+                "title": "燔火胧夜",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/4/43/mw8mxq5tq9h7kifxl4pyeawr3sl3mnv.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E7%87%94%E7%81%AB%E8%83%A7%E5%A4%9C.png",
+                "img_path": "img/zzz/燔火胧夜.png"
+            },
+            {
                 "title": "轰鸣座驾",
                 "img": "https://patchwiki.biligame.com/images/zzz/thumb/2/27/aomgkrvq250gqb6o3xkzs38anj95rlo.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E8%BD%B0%E9%B8%A3%E5%BA%A7%E9%A9%BE.png",
                 "img_path": "img/zzz/轰鸣座驾.png"
@@ -76,6 +86,11 @@
                 "title": "飞鸟星梦",
                 "img": "https://patchwiki.biligame.com/images/zzz/thumb/b/bd/n2nbtiu9ycer89y67nk7rxkth2lxi9r.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E9%A3%9E%E9%B8%9F%E6%98%9F%E6%A2%A6.png",
                 "img_path": "img/zzz/飞鸟星梦.png"
+            },
+            {
+                "title": "燔火胧夜",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/4/43/mw8mxq5tq9h7kifxl4pyeawr3sl3mnv.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E7%87%94%E7%81%AB%E8%83%A7%E5%A4%9C.png",
+                "img_path": "img/zzz/燔火胧夜.png"
             },
             {
                 "title": "轰鸣座驾",
