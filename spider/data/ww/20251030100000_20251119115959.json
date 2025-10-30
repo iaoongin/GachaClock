@@ -1,0 +1,122 @@
+[
+    {
+        "title": "倦客不知身近远",
+        "type": "角色",
+        "timer": [
+            "2025-10-30 10:00:00",
+            "2025-11-19 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "仇远",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/c98f00a1170545848e10c03dc6b6b23120251029.jpg",
+                "img_path": "img/ww/仇远.png"
+            },
+            {
+                "title": "秧秧",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/32082094654d4401994a7b76e9a9f9bc20251029.png",
+                "img_path": "img/ww/秧秧.png"
+            },
+            {
+                "title": "桃祈",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/474e7bd198ef4de696d1b6f253a58cd120251029.png",
+                "img_path": "img/ww/桃祈.png"
+            },
+            {
+                "title": "丹瑾",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/6a991af80069484d9df7095fafb98c5620251029.png",
+                "img_path": "img/ww/丹瑾.png"
+            }
+        ]
+    },
+    {
+        "title": "行于光影之间",
+        "type": "角色",
+        "timer": [
+            "2025-10-30 10:00:00",
+            "2025-11-19 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "赞妮",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/e779ca97213f4b68877a4877978f798920251029.png",
+                "img_path": "img/ww/赞妮.png"
+            },
+            {
+                "title": "秧秧",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/224b113a3eae4580b8356c9c8e40b15a20251029.png",
+                "img_path": "img/ww/秧秧.png"
+            },
+            {
+                "title": "桃祈",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/5bb98a2111654b0ebbcdd84d04b561ea20251029.png",
+                "img_path": "img/ww/桃祈.png"
+            },
+            {
+                "title": "丹瑾",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/94431e259a724ccc81843b94d49d784620251029.png",
+                "img_path": "img/ww/丹瑾.png"
+            }
+        ]
+    },
+    {
+        "title": "裁竹",
+        "type": "武器",
+        "timer": [
+            "2025-10-30 10:00:00",
+            "2025-11-19 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "裁竹",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/b53404ab890946a2bc9eba7550edc46820251029.png",
+                "img_path": "img/ww/裁竹.png"
+            },
+            {
+                "title": "永续坍缩",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/408c1d7b6ce2452ebf18297498323b1320251029.png",
+                "img_path": "img/ww/永续坍缩.png"
+            },
+            {
+                "title": "骇行",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/3c31304e34104b439f8d7042238bbfdd20251029.png",
+                "img_path": "img/ww/骇行.png"
+            },
+            {
+                "title": "永夜长明",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/0d242ec7386d4c3f8c672b34bcb1346120251029.png",
+                "img_path": "img/ww/永夜长明.png"
+            }
+        ]
+    },
+    {
+        "title": "焰光裁定",
+        "type": "武器",
+        "timer": [
+            "2025-10-30 10:00:00",
+            "2025-11-19 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "焰痕",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/4aa5b660b78046e8a7e5906a4ea43db920251029.png",
+                "img_path": "img/ww/焰痕.png"
+            },
+            {
+                "title": "永续坍缩",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/dd49b9d633824c828ff2a84801ca3e4320251029.png",
+                "img_path": "img/ww/永续坍缩.png"
+            },
+            {
+                "title": "东落",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/f54910398d0a48cfb86c1070c01018ed20251029.png",
+                "img_path": "img/ww/东落.png"
+            },
+            {
+                "title": "核熔星盘",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/04e1972990e44bf6a680030f32d7e31020251029.png",
+                "img_path": "img/ww/核熔星盘.png"
+            }
+        ]
+    }
+]
