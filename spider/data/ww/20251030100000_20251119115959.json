@@ -98,9 +98,9 @@
         ],
         "gachas": [
             {
-                "title": "焰痕",
+                "title": "焰光裁定",
                 "img": "https://prod-alicdn-community.kurobbs.com/forum/4aa5b660b78046e8a7e5906a4ea43db920251029.png",
-                "img_path": "img/ww/焰痕.png"
+                "img_path": "img/ww/焰光裁定.png"
             },
             {
                 "title": "永续坍缩",
@@ -108,14 +108,14 @@
                 "img_path": "img/ww/永续坍缩.png"
             },
             {
-                "title": "东落",
+                "title": "骇行",
                 "img": "https://prod-alicdn-community.kurobbs.com/forum/f54910398d0a48cfb86c1070c01018ed20251029.png",
-                "img_path": "img/ww/东落.png"
+                "img_path": "img/ww/骇行.png"
             },
             {
-                "title": "核熔星盘",
+                "title": "永夜长明",
                 "img": "https://prod-alicdn-community.kurobbs.com/forum/04e1972990e44bf6a680030f32d7e31020251029.png",
-                "img_path": "img/ww/核熔星盘.png"
+                "img_path": "img/ww/永夜长明.png"
             }
         ]
     }
