@@ -119,15 +119,6 @@
         ]
     },
     {
-        "title": "刻律德菈",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/e/e6/h8wqfhk7lgv32k9gov5j5h2ourq9ftl.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/d/d0/otij3vzx3zc4ord56ccw4b7trdl3fo2.png/700px-%E5%88%BB%E5%BE%8B%E5%BE%B7%E8%8F%88%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/f/f5/1gafedork2yps9k4i1ujntzhrdx31r5.png",
-            "https://patchwiki.biligame.com/images/sr/b/ba/bgqxhqkdbuhx5mhnvw9ev239lmby2ou.jpg"
-        ]
-    },
-    {
         "title": "加拉赫",
         "simple_img": "https://patchwiki.biligame.com/images/sr/b/b7/k3a382d2ii1mtm7urge6fd95b7u6xm4.png",
         "promotion_img": [
@@ -271,15 +262,6 @@
         ]
     },
     {
-        "title": "星期日",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/c/cb/921xn1bwfnx2o48k3ai90fnrnnyk4if.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/f/f9/a1wn1pbycm3ii6cq735r5lkpjkewbac.png/700px-%E6%98%9F%E6%9C%9F%E6%97%A5%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/f/f1/cqjmmvi9ucrtej3h84x9k3c4hadbezp.png",
-            "https://patchwiki.biligame.com/images/sr/e/e4/hf85at7tih39zxt83pekgvh11ct1md4.jpg"
-        ]
-    },
-    {
         "title": "景元",
         "simple_img": "https://patchwiki.biligame.com/images/sr/0/08/pveenzc88gdslg14opkac9o85qpkdz9.png",
         "promotion_img": [
@@ -389,6 +371,15 @@
         "promotion_img": [
             "https://patchwiki.biligame.com/images/sr/thumb/3/32/rzr41b0bxdlovno4qie52rdjrun0y3z.png/700px-%E7%99%BD%E9%9C%B2%E7%AB%8B%E7%BB%98.png",
             "https://patchwiki.biligame.com/images/sr/d/dc/20tvbl6dxcecm6rn2imnzlemhh3ffr0.png"
+        ]
+    },
+    {
+        "title": "真理医生",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/8/88/gy36rwsmogrwv3biqruzypvje4ag56q.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/thumb/1/1d/925f4ivd1q8z4uxmwmrz11wjfpgxq7v.png/700px-%E7%9C%9F%E7%90%86%E5%8C%BB%E7%94%9F%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/6/68/art8sao8fcbmil27hd874zjb2wlw9wx.png",
+            "https://patchwiki.biligame.com/images/sr/4/47/on39aglim2lxrb766mxk46iwwn0tab3.jpg"
         ]
     },
     {
@@ -538,14 +529,6 @@
             "https://patchwiki.biligame.com/images/sr/thumb/a/a4/mtoe12lzwhcgk4ajjpioyv1cshr9j3t.png/700px-%E9%93%B6%E6%9E%9D%E7%AB%8B%E7%BB%98.png",
             "https://patchwiki.biligame.com/images/sr/5/57/6s7lzrxg0wwzyueoehyakj4y20vql12.png",
             "https://patchwiki.biligame.com/images/sr/2/2d/gehmvu4ua2ujqxo9pg3vtzecjktypxa.jpg"
-        ]
-    },
-    {
-        "title": "银狼",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/b/b7/6s1r3m95wjsa6xmrckdwnofb9obmsi1.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/3/3f/oy6o9fm6o0rrcwzs9gvgc4rfhvejcts.png/700px-%E9%93%B6%E7%8B%BC%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/e/ea/mavqad0rxp6zttalka56tspnd1t9qi8.png"
         ]
     },
     {
