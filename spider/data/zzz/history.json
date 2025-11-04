@@ -1,5 +1,57 @@
 [
     {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/5/5d/hztedozgpvyq61rqcmvjp0mgr6ogseq.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5023-1%E6%9C%9F.png",
+        "title": "「孤旅同梦」023-1期独家频段",
+        "type": "角色",
+        "version": "2.3下半",
+        "timer": "2025/11/05 12:00:00 ~ 2025/11/25 14:59:59",
+        "s": "伊德海莉",
+        "a": [
+            "波可娜",
+            "潘引壶"
+        ],
+        "img_path": "img/zzz/history/「孤旅同梦」023-1期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/a/ae/rj7ol6j8iqc6s4t9kemyvk8rzxocxy3.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5023-1%E6%9C%9F.png",
+        "title": "「灿烂和声」023-1期音擎频段",
+        "type": "武器",
+        "version": "2.3下半",
+        "timer": "2025/11/05 12:00:00 ~ 2025/11/25 14:59:59",
+        "s": "海妖摇篮",
+        "a": [
+            "裁纸刀",
+            "震元奇枢"
+        ],
+        "img_path": "img/zzz/history/「灿烂和声」023-1期音擎频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/0/08/tm0zjjq5vx9i2nponkvytul15i677hr.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5023-2%E6%9C%9F.png",
+        "title": "「福福生威」023-2期独家频段",
+        "type": "角色",
+        "version": "2.3下半",
+        "timer": "2025/11/05 12:00:00 ~ 2025/11/25 14:59:59",
+        "s": "橘福福",
+        "a": [
+            "波可娜",
+            "潘引壶"
+        ],
+        "img_path": "img/zzz/history/「福福生威」023-2期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/2/2b/0yj8ecswryvg658jfo6e6kdtmucdxmv.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5023-2%E6%9C%9F.png",
+        "title": "「璀璨韵律」023-2期音擎频段",
+        "type": "武器",
+        "version": "2.3下半",
+        "timer": "2025/11/05 12:00:00 ~ 2025/11/25 14:59:59",
+        "s": "福虓炉炉",
+        "a": [
+            "裁纸刀",
+            "震元奇枢"
+        ],
+        "img_path": "img/zzz/history/「璀璨韵律」023-2期音擎频段.png"
+    },
+    {
         "img": "https://patchwiki.biligame.com/images/zzz/thumb/c/c7/32wmh5jwefuwgnex0dfc7md4adierzw.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5022-1%E6%9C%9F.png",
         "title": "「绮夜游灯」022-1期独家频段",
         "type": "角色",
