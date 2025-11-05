@@ -1,0 +1,112 @@
+[
+    {
+        "title": "「涟漪回环」角色活动跃迁",
+        "type": "角色",
+        "timer": [
+            "2025/11/05 10:00:00",
+            "2025/12/16 15:00:59"
+        ],
+        "gachas": [
+            {
+                "title": "昔涟",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/e/ed/ctq3torprjw781nkmgoxshovz2wl1dw.png/112px-%E6%98%94%E6%B6%9F.png",
+                "img_path": "img/sr/昔涟.png"
+            },
+            {
+                "title": "貊泽",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/6/61/rkegujumye2mz2bddqhg976ijosbv0k.png/112px-%E8%B2%8A%E6%B3%BD.png",
+                "img_path": "img/sr/貊泽.png"
+            },
+            {
+                "title": "玲可",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/8/82/01xva2wa5fwbvlcbq3gfe8r2g8jpq2z.png/112px-%E7%8E%B2%E5%8F%AF.png",
+                "img_path": "img/sr/玲可.png"
+            },
+            {
+                "title": "佩拉",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/48/0yerfr40s6ls15ousv1pu8clfeeur5j.png/112px-%E4%BD%A9%E6%8B%89.png",
+                "img_path": "img/sr/佩拉.png"
+            }
+        ]
+    },
+    {
+        "title": "「铭心之萃•风堇、遐蝶、缇宝」角色活动跃迁",
+        "type": "角色",
+        "timer": [
+            "2025/11/05 10:00:00",
+            "2025/11/26 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "风堇",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/f/fe/btad3oegk6v46b3xswvvtl370ib8zbm.png/112px-%E9%A3%8E%E5%A0%87.png",
+                "img_path": "img/sr/风堇.png"
+            },
+            {
+                "title": "遐蝶",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/8/81/johi69tjqhfyngs4cfkfsu2w8bomyiy.png/112px-%E9%81%90%E8%9D%B6.png",
+                "img_path": "img/sr/遐蝶.png"
+            },
+            {
+                "title": "缇宝",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/1/16/s15opurtx1s67wf670orxm0ysqnr7nk.png/112px-%E7%BC%87%E5%AE%9D.png",
+                "img_path": "img/sr/缇宝.png"
+            }
+        ]
+    },
+    {
+        "title": "「流光定影」光锥活动跃迁",
+        "type": "武器",
+        "timer": [
+            "2025/11/05 10:00:00",
+            "2025/12/16 15:00:59"
+        ],
+        "gachas": [
+            {
+                "title": "爱如此刻永恒",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/9/92/lpqsfdw06gwd24gvmyjtwyefas3iz06.png/112px-%E7%88%B1%E5%A6%82%E6%AD%A4%E5%88%BB%E6%B0%B8%E6%81%92.png",
+                "img_path": "img/sr/爱如此刻永恒.png"
+            },
+            {
+                "title": "故事的下一页",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/8/85/g0icttfnclt0aek7irr63npsvrlgdl2.png/112px-%E6%95%85%E4%BA%8B%E7%9A%84%E4%B8%8B%E4%B8%80%E9%A1%B5.png",
+                "img_path": "img/sr/故事的下一页.png"
+            },
+            {
+                "title": "两个人的演唱会",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/b/be/tjvexsh80gj9oouco9pc6v2czwmebdh.png/112px-%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A.png",
+                "img_path": "img/sr/两个人的演唱会.png"
+            },
+            {
+                "title": "无边曼舞",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/a/ad/51fw7qrx03g3f1243rjpdiyswbhlgin.png/112px-%E6%97%A0%E8%BE%B9%E6%9B%BC%E8%88%9E.png",
+                "img_path": "img/sr/无边曼舞.png"
+            }
+        ]
+    },
+    {
+        "title": "「真意之汇」光锥活动跃迁",
+        "type": "武器",
+        "timer": [
+            "2025/11/05 10:00:00",
+            "2025/11/26 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "愿虹光永驻天空",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/c/c2/3ntgy78x59gaxaaerxxm4ud0t179dxu.png/112px-%E6%84%BF%E8%99%B9%E5%85%89%E6%B0%B8%E9%A9%BB%E5%A4%A9%E7%A9%BA.png",
+                "img_path": "img/sr/愿虹光永驻天空.png"
+            },
+            {
+                "title": "让告别，更美一些",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/3/3e/9rr2he9qn24t42twe0ij29w46rakykt.png/112px-%E8%AE%A9%E5%91%8A%E5%88%AB%EF%BC%8C%E6%9B%B4%E7%BE%8E%E4%B8%80%E4%BA%9B.png",
+                "img_path": "img/sr/让告别，更美一些.png"
+            },
+            {
+                "title": "如果时间是一朵花",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/5/51/fj94fxdzp0nicnfsd5i0fagwq0vwslq.png/112px-%E5%A6%82%E6%9E%9C%E6%97%B6%E9%97%B4%E6%98%AF%E4%B8%80%E6%9C%B5%E8%8A%B1.png",
+                "img_path": "img/sr/如果时间是一朵花.png"
+            }
+        ]
+    }
+]
