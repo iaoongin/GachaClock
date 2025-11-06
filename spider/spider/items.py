@@ -36,4 +36,10 @@ class RoleItem(scrapy.Item):
     title = scrapy.Field()
     simple_img = scrapy.Field()
     promotion_img = scrapy.Field()
+    chara_rarity = scrapy.Field()
+    chara_type = scrapy.Field()
+    chara_element = scrapy.Field()
+    chara_load_version = scrapy.Field()
+    chara_size = scrapy.Field()
+    
     pass

@@ -140,10 +140,23 @@ export default function IndexPage() {
       .then((res) => res.json())
       .then((data) => {
         console.log('data::', data);
-        const historyList = data
-          .filter((item: any) => item.type === '角色')
+        let historyList = [];
 
-          .map((item: any) => item.gachas[0]);
+        // 没有角色数据
+        if (!role || Object.keys(role).length === 0) {
+          historyList = data
+            .filter((item: any) => item.type === '角色')
+            .map((item: any) => item.gachas[0]);
+        } else {
+          // 有角色数据
+          historyList = data
+            .filter((item: any) => item.type === '角色')
+            .flatMap((item: any) => item.gachas)
+            .filter(
+              (item: any) => !role?.[item['title']] || role?.[item['title']].chara_rarity === '5星',
+            );
+        }
+
         historyList.forEach((item) => {
           item['img'] = role?.[item['title']]?.['promotion_img'][1] ?? item['img'];
           item['img_path'] = role?.[item['title']]?.['simple_img'] ?? item['img_path'];
@@ -153,8 +166,8 @@ export default function IndexPage() {
 
         let cardGroup = {
           [key]: {
-            currentVersion: data[0].timer,
-            currentTimer: data[0].timer.join('~'),
+            currentVersion: data[data.length - 1].timer,
+            currentTimer: data[data.length - 1].timer.join('~'),
             historyList: historyList,
           },
         };
