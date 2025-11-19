@@ -1,0 +1,122 @@
+[
+    {
+        "title": "曙暮一线之间",
+        "type": "角色",
+        "timer": [
+            "2025-11-20 11:00:00",
+            "2025-12-11 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "千咲-前瞻",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/b40cd52ad8eb4091b92dc782394ce0d020251119.jpg",
+                "img_path": "img/ww/千咲-前瞻.png"
+            },
+            {
+                "title": "桃祈",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/73b82745c9d347f3b7f49d7d48efe8b420251119.png",
+                "img_path": "img/ww/桃祈.png"
+            },
+            {
+                "title": "渊武",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/9c22a11ee8cb4900a279cc093c4e773c20251119.png",
+                "img_path": "img/ww/渊武.png"
+            },
+            {
+                "title": "秋水",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/ab5f69533c944cc9be9489b3552a928720251119.png",
+                "img_path": "img/ww/秋水.png"
+            }
+        ]
+    },
+    {
+        "title": "于静谧呢喃",
+        "type": "角色",
+        "timer": [
+            "2025-11-20 11:00:00",
+            "2025-12-11 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "菲比",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/fd6abdef9ba24f6e969d45bc3bc164f020251119.png",
+                "img_path": "img/ww/菲比.png"
+            },
+            {
+                "title": "桃祈",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/d951042fc44a4ffe80e65f13b274132c20251119.png",
+                "img_path": "img/ww/桃祈.png"
+            },
+            {
+                "title": "渊武",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/faa57620c9274fe4a7947cb586c57d2420251119.png",
+                "img_path": "img/ww/渊武.png"
+            },
+            {
+                "title": "秋水",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/fa7f5f4cc3ac4607a0f6e3254d60c33620251119.png",
+                "img_path": "img/ww/秋水.png"
+            }
+        ]
+    },
+    {
+        "title": "昙切",
+        "type": "武器",
+        "timer": [
+            "2025-11-20 11:00:00",
+            "2025-12-11 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "裁竹",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/6f0a460a5e18405d9d720023b9956b8120251119.png",
+                "img_path": "img/ww/裁竹.png"
+            },
+            {
+                "title": "不归孤军",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/31f0134317ff4180b595a5c49fa8605020251119.png",
+                "img_path": "img/ww/不归孤军.png"
+            },
+            {
+                "title": "核熔星盘",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/5ad66b8c7ca84084bff67bce0be2bda820251119.png",
+                "img_path": "img/ww/核熔星盘.png"
+            },
+            {
+                "title": "东落",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/bc120688f2564e37b5f816c27080489620251119.png",
+                "img_path": "img/ww/东落.png"
+            }
+        ]
+    },
+    {
+        "title": "和光回唱",
+        "type": "武器",
+        "timer": [
+            "2025-11-20 11:00:00",
+            "2025-12-11 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "和光回唱",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/048ed1b03b0b4e4ea387ab6fe18c7e1720251119.png",
+                "img_path": "img/ww/和光回唱.png"
+            },
+            {
+                "title": "不归孤军",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/bffb0ce6f2d2419998ed91e84635813420251119.png",
+                "img_path": "img/ww/不归孤军.png"
+            },
+            {
+                "title": "核熔星盘",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/1f5526d0f71b403f9d7a778fee79047620251119.png",
+                "img_path": "img/ww/核熔星盘.png"
+            },
+            {
+                "title": "东落",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/aec81c47344f4e209bfc7596ab11423120251119.png",
+                "img_path": "img/ww/东落.png"
+            }
+        ]
+    }
+]
