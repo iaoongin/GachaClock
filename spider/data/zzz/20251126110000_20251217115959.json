@@ -58,6 +58,11 @@
         ],
         "gachas": [
             {
+                "title": "昨夜来电",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/7/7a/8bxabh28svj5j4mktspgp3jew3u1l6n.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E6%98%A8%E5%A4%9C%E6%9D%A5%E7%94%B5.png",
+                "img_path": "img/zzz/昨夜来电.png"
+            },
+            {
                 "title": "家政员",
                 "img": "https://patchwiki.biligame.com/images/zzz/thumb/9/9f/hls5o4t1ttdha91m1eyqofe08tbpfw9.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E5%AE%B6%E6%94%BF%E5%91%98.png",
                 "img_path": "img/zzz/家政员.png"
