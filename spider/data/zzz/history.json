@@ -1,5 +1,57 @@
 [
     {
+        "img": "https://patchwiki.biligame.com/images/zzz/5/52/n2rsv7h2h2f5kbthvuh34d4bzb42a3h.png",
+        "title": "「唤寂昔声」024-1期独家频段",
+        "type": "角色",
+        "version": "2.4上半",
+        "timer": "2.4版本更新后 ~ 2025/12/17 11:59:59",
+        "s": "琉音",
+        "a": [
+            "可琳",
+            "比利"
+        ],
+        "img_path": "img/zzz/history/「唤寂昔声」024-1期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/3/36/r0x1ospwt5rfxqjk5v6xfq5xomrbwz2.png",
+        "title": "「喧哗奏鸣」024-1期音擎频段",
+        "type": "武器",
+        "version": "2.4上半",
+        "timer": "2.4版本更新后 ~ 2025/12/17 11:59:59",
+        "s": "昨夜来电",
+        "a": [
+            "仿制星徽引擎",
+            "家政员"
+        ],
+        "img_path": "img/zzz/history/「喧哗奏鸣」024-1期音擎频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/6/6f/q454duv7a4mnyejmd5yjhor23plsbzq.png",
+        "title": "「譬如昨日死」024-2期独家频段",
+        "type": "角色",
+        "version": "2.4上半",
+        "timer": "2.4版本更新后 ~ 2025/12/17 11:59:59",
+        "s": "雨果",
+        "a": [
+            "可琳",
+            "比利"
+        ],
+        "img_path": "img/zzz/history/「譬如昨日死」024-2期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/9/9e/9ai21hk7hep85zah77llgmqeuj0184r.png",
+        "title": "「激荡谐振」024-2期音擎频段",
+        "type": "武器",
+        "version": "2.4上半",
+        "timer": "2.4版本更新后 ~ 2025/12/17 11:59:59",
+        "s": "千面日陨",
+        "a": [
+            "仿制星徽引擎",
+            "家政员"
+        ],
+        "img_path": "img/zzz/history/「激荡谐振」024-2期音擎频段.png"
+    },
+    {
         "img": "https://patchwiki.biligame.com/images/zzz/thumb/5/5d/hztedozgpvyq61rqcmvjp0mgr6ogseq.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5023-1%E6%9C%9F.png",
         "title": "「孤旅同梦」023-1期独家频段",
         "type": "角色",
