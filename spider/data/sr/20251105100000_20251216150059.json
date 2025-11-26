@@ -30,27 +30,27 @@
         ]
     },
     {
-        "title": "「铭心之萃•风堇、遐蝶、缇宝」角色活动跃迁",
+        "title": "「铭心之萃•白厄、赛飞儿、万敌」角色活动跃迁",
         "type": "角色",
         "timer": [
-            "2025/11/05 10:00:00",
-            "2025/11/26 11:59:59"
+            "2025/11/26 12:00:00",
+            "2025/12/16 15:00:59"
         ],
         "gachas": [
             {
-                "title": "风堇",
-                "img": "https://patchwiki.biligame.com/images/sr/thumb/f/fe/btad3oegk6v46b3xswvvtl370ib8zbm.png/112px-%E9%A3%8E%E5%A0%87.png",
-                "img_path": "img/sr/风堇.png"
+                "title": "白厄",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/0/0f/71ifmfc3f77xp5mrsnww112mto2ul2qz.png/112px-%E7%99%BD%E5%8E%84.png",
+                "img_path": "img/sr/白厄.png"
             },
             {
-                "title": "遐蝶",
-                "img": "https://patchwiki.biligame.com/images/sr/thumb/8/81/johi69tjqhfyngs4cfkfsu2w8bomyiy.png/112px-%E9%81%90%E8%9D%B6.png",
-                "img_path": "img/sr/遐蝶.png"
+                "title": "赛飞儿",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/e/e2/2b5rj10j02j58py04b3c4eegkmphntz.png/112px-%E8%B5%9B%E9%A3%9E%E5%84%BF.png",
+                "img_path": "img/sr/赛飞儿.png"
             },
             {
-                "title": "缇宝",
-                "img": "https://patchwiki.biligame.com/images/sr/thumb/1/16/s15opurtx1s67wf670orxm0ysqnr7nk.png/112px-%E7%BC%87%E5%AE%9D.png",
-                "img_path": "img/sr/缇宝.png"
+                "title": "万敌",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/d/d9/0dyo0uk3edcfpjbz82qbwep032ge0m4.png/112px-%E4%B8%87%E6%95%8C.png",
+                "img_path": "img/sr/万敌.png"
             }
         ]
     },
@@ -88,24 +88,24 @@
         "title": "「真意之汇」光锥活动跃迁",
         "type": "武器",
         "timer": [
-            "2025/11/05 10:00:00",
-            "2025/11/26 11:59:59"
+            "2025/11/26 12:00:00",
+            "2025/12/16 15:00:59"
         ],
         "gachas": [
             {
-                "title": "愿虹光永驻天空",
-                "img": "https://patchwiki.biligame.com/images/sr/thumb/c/c2/3ntgy78x59gaxaaerxxm4ud0t179dxu.png/112px-%E6%84%BF%E8%99%B9%E5%85%89%E6%B0%B8%E9%A9%BB%E5%A4%A9%E7%A9%BA.png",
-                "img_path": "img/sr/愿虹光永驻天空.png"
+                "title": "黎明恰如此燃烧",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/0/04/3gqlqkwbprln81uwjo4p0sqw8ychh7y.png/112px-%E9%BB%8E%E6%98%8E%E6%81%B0%E5%A6%82%E6%AD%A4%E7%87%83%E7%83%A7.png",
+                "img_path": "img/sr/黎明恰如此燃烧.png"
             },
             {
-                "title": "让告别，更美一些",
-                "img": "https://patchwiki.biligame.com/images/sr/thumb/3/3e/9rr2he9qn24t42twe0ij29w46rakykt.png/112px-%E8%AE%A9%E5%91%8A%E5%88%AB%EF%BC%8C%E6%9B%B4%E7%BE%8E%E4%B8%80%E4%BA%9B.png",
-                "img_path": "img/sr/让告别，更美一些.png"
+                "title": "谎言在风中飘扬",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/9/9a/ctt4qwt0buo5h3fglgsup7mw7girw82.png/112px-%E8%B0%8E%E8%A8%80%E5%9C%A8%E9%A3%8E%E4%B8%AD%E9%A3%98%E6%89%AC.png",
+                "img_path": "img/sr/谎言在风中飘扬.png"
             },
             {
-                "title": "如果时间是一朵花",
-                "img": "https://patchwiki.biligame.com/images/sr/thumb/5/51/fj94fxdzp0nicnfsd5i0fagwq0vwslq.png/112px-%E5%A6%82%E6%9E%9C%E6%97%B6%E9%97%B4%E6%98%AF%E4%B8%80%E6%9C%B5%E8%8A%B1.png",
-                "img_path": "img/sr/如果时间是一朵花.png"
+                "title": "血火啊，燃烧前路",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/9/91/64huga50u99yuma4mur1ha97y0bmqye.png/112px-%E8%A1%80%E7%81%AB%E5%95%8A%EF%BC%8C%E7%87%83%E7%83%A7%E5%89%8D%E8%B7%AF.png",
+                "img_path": "img/sr/血火啊，燃烧前路.png"
             }
         ]
     }

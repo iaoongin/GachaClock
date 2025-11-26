@@ -1,0 +1,97 @@
+[
+    {
+        "title": "「唤寂昔声」独家频段",
+        "type": "角色",
+        "timer": [
+            "2025/11/26 11:00:00",
+            "2025/12/17 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "琉音",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/f/f4/ootwjjl52b9idun1izgsm6nfzyc06gh.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E7%90%89%E9%9F%B3.png",
+                "img_path": "img/zzz/琉音.png"
+            },
+            {
+                "title": "可琳",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/3/33/6uqxh23spl0wtgfk2qidooabodv0u2d.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E5%8F%AF%E7%90%B3.png",
+                "img_path": "img/zzz/可琳.png"
+            },
+            {
+                "title": "比利",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/9/96/me3g5rbobr0ibzl5hcy20zy7t95hsrx.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E6%AF%94%E5%88%A9.png",
+                "img_path": "img/zzz/比利.png"
+            }
+        ]
+    },
+    {
+        "title": "「譬如昨日死」独家频段",
+        "type": "角色",
+        "timer": [
+            "2025/11/26 11:00:00",
+            "2025/12/17 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "雨果",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/7/73/hifxwv8qhq376yck21r9fzao66e70zr.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E9%9B%A8%E6%9E%9C.png",
+                "img_path": "img/zzz/雨果.png"
+            },
+            {
+                "title": "可琳",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/3/33/6uqxh23spl0wtgfk2qidooabodv0u2d.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E5%8F%AF%E7%90%B3.png",
+                "img_path": "img/zzz/可琳.png"
+            },
+            {
+                "title": "比利",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/9/96/me3g5rbobr0ibzl5hcy20zy7t95hsrx.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E6%AF%94%E5%88%A9.png",
+                "img_path": "img/zzz/比利.png"
+            }
+        ]
+    },
+    {
+        "title": "「喧哗奏鸣」音擎频段",
+        "type": "武器",
+        "timer": [
+            "2025/11/26 11:00:00",
+            "2025/12/17 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "家政员",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/9/9f/hls5o4t1ttdha91m1eyqofe08tbpfw9.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E5%AE%B6%E6%94%BF%E5%91%98.png",
+                "img_path": "img/zzz/家政员.png"
+            },
+            {
+                "title": "仿制星徽引擎",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/0/04/53gdbnde4fuzblj0otw1gw96xpg3rfo.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E4%BB%BF%E5%88%B6%E6%98%9F%E5%BE%BD%E5%BC%95%E6%93%8E.png",
+                "img_path": "img/zzz/仿制星徽引擎.png"
+            }
+        ]
+    },
+    {
+        "title": "「激荡谐振」音擎频段",
+        "type": "武器",
+        "timer": [
+            "2025/11/26 11:00:00",
+            "2025/12/17 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "千面日陨",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/0/01/akac2soiyih1mh1nh8g7gloj4lxdtrm.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E5%8D%83%E9%9D%A2%E6%97%A5%E9%99%A8.png",
+                "img_path": "img/zzz/千面日陨.png"
+            },
+            {
+                "title": "家政员",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/9/9f/hls5o4t1ttdha91m1eyqofe08tbpfw9.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E5%AE%B6%E6%94%BF%E5%91%98.png",
+                "img_path": "img/zzz/家政员.png"
+            },
+            {
+                "title": "仿制星徽引擎",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/0/04/53gdbnde4fuzblj0otw1gw96xpg3rfo.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E4%BB%BF%E5%88%B6%E6%98%9F%E5%BE%BD%E5%BC%95%E6%93%8E.png",
+                "img_path": "img/zzz/仿制星徽引擎.png"
+            }
+        ]
+    }
+]
