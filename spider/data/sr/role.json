@@ -446,6 +446,20 @@
         "chara_size": "女青年"
     },
     {
+        "title": "星期日",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/c/cb/921xn1bwfnx2o48k3ai90fnrnnyk4if.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/thumb/f/f9/a1wn1pbycm3ii6cq735r5lkpjkewbac.png/900px-%E6%98%9F%E6%9C%9F%E6%97%A5%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/f/f1/cqjmmvi9ucrtej3h84x9k3c4hadbezp.png",
+            "https://patchwiki.biligame.com/images/sr/e/e4/hf85at7tih39zxt83pekgvh11ct1md4.jpg"
+        ],
+        "chara_rarity": "5星",
+        "chara_type": "同谐",
+        "chara_element": "虚数",
+        "chara_load_version": "2.7",
+        "chara_size": "男青年"
+    },
+    {
         "title": "景元",
         "simple_img": "https://patchwiki.biligame.com/images/sr/0/08/pveenzc88gdslg14opkac9o85qpkdz9.png",
         "promotion_img": [
