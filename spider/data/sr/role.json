@@ -244,6 +244,19 @@
         "chara_size": "男青年"
     },
     {
+        "title": "大丽花",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/b/b9/fvr452azci8i8jc9w3flymppljainit.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/thumb/5/55/ffat3osaxm9jv7764f2r9domcqqukmk.png/900px-%E5%A4%A7%E4%B8%BD%E8%8A%B1%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/4/47/jfw4pr95ywx5265vw1s1d62lozr1z3h.png"
+        ],
+        "chara_rarity": "5星",
+        "chara_type": "虚无",
+        "chara_element": "火",
+        "chara_load_version": "3.8",
+        "chara_size": ""
+    },
+    {
         "title": "大黑塔",
         "simple_img": "https://patchwiki.biligame.com/images/sr/e/e0/44vucb9yhgtruvn5uxlmzv8lep9lrn5.png",
         "promotion_img": [
