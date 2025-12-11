@@ -1,0 +1,122 @@
+[
+    {
+        "title": "挽歌永不落幕",
+        "type": "角色",
+        "timer": [
+            "2025-12-11 10:00:00",
+            "2025-12-24 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "弗洛洛",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/9bb043eeeedc408990351bf8aab38f4420251210.jpg",
+                "img_path": "img/ww/弗洛洛.png"
+            },
+            {
+                "title": "卜灵",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/9755ba84b3d3465a991768dd0e48a70e20251210.png",
+                "img_path": "img/ww/卜灵.png"
+            },
+            {
+                "title": "丹瑾",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/41b0d8a599604dfd8cb554cd56bbe27b20251210.png",
+                "img_path": "img/ww/丹瑾.png"
+            },
+            {
+                "title": "炽霞",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/805a9cd5db6d491ca843a3afb8c5a4b920251210.png",
+                "img_path": "img/ww/炽霞.png"
+            }
+        ]
+    },
+    {
+        "title": "映海之梦",
+        "type": "角色",
+        "timer": [
+            "2025-12-11 10:00:00",
+            "2025-12-24 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "坎特蕾拉",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/d1dd72376f4a41998302fb815d7d391220251210.png",
+                "img_path": "img/ww/坎特蕾拉.png"
+            },
+            {
+                "title": "卜灵",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/c06663ca0aa44ca8905f6b35bcde78a720251210.png",
+                "img_path": "img/ww/卜灵.png"
+            },
+            {
+                "title": "丹瑾",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/1b79270c48984de99b1f15e6daccaf4c20251210.png",
+                "img_path": "img/ww/丹瑾.png"
+            },
+            {
+                "title": "炽霞",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/53615d2961fd475b8d3b630b3ca78ebc20251210.png",
+                "img_path": "img/ww/炽霞.png"
+            }
+        ]
+    },
+    {
+        "title": "幽冥的忘忧章",
+        "type": "武器",
+        "timer": [
+            "2025-12-11 10:00:00",
+            "2025-12-24 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "幽冥的忘忧章",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/ee624d02659a44f6a2477288f2c3534520251210.png",
+                "img_path": "img/ww/幽冥的忘忧章.png"
+            },
+            {
+                "title": "今州守望",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/398e95e323dc4d6aae880428704403fa20251210.png",
+                "img_path": "img/ww/今州守望.png"
+            },
+            {
+                "title": "尘云旋臂",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/dceecdfc4baf4707a6ac637f31fbf4b220251210.png",
+                "img_path": "img/ww/尘云旋臂.png"
+            },
+            {
+                "title": "西升",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/131fd62bca6246798754b8c321f7e7d820251210.png",
+                "img_path": "img/ww/西升.png"
+            }
+        ]
+    },
+    {
+        "title": "海的呢喃",
+        "type": "武器",
+        "timer": [
+            "2025-12-11 10:00:00",
+            "2025-12-24 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "海的呢喃",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/691113f9ee5a4c76aee3cfa397219c0d20251210.png",
+                "img_path": "img/ww/海的呢喃.png"
+            },
+            {
+                "title": "今州守望",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/24cbe91808e24b3589c9185f9434b89a20251210.png",
+                "img_path": "img/ww/今州守望.png"
+            },
+            {
+                "title": "尘云旋臂",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/6af847a8c94042709978dd2763e9718120251210.png",
+                "img_path": "img/ww/尘云旋臂.png"
+            },
+            {
+                "title": "西升",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/d123ca7f7c7346c6a1796f42004d4fb620251210.png",
+                "img_path": "img/ww/西升.png"
+            }
+        ]
+    }
+]
