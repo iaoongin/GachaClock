@@ -58,6 +58,11 @@
         ],
         "gachas": [
             {
+                "title": "怒目金刚",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/e/e4/42andpnnti07xtydibwceu28pl21bnc.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E6%80%92%E7%9B%AE%E9%87%91%E5%88%9A.png",
+                "img_path": "img/zzz/怒目金刚.png"
+            },
+            {
                 "title": "含羞恶面",
                 "img": "https://patchwiki.biligame.com/images/zzz/thumb/c/c0/0tq6q646olxa4k0zfhrjqikopheoi2o.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E5%90%AB%E7%BE%9E%E6%81%B6%E9%9D%A2.png",
                 "img_path": "img/zzz/含羞恶面.png"
