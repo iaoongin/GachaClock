@@ -1,0 +1,122 @@
+[
+    {
+        "title": "「烛中翩影」角色活动跃迁",
+        "type": "角色",
+        "timer": [
+            "2025/12/17 10:00:00",
+            "2026/01/07 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "大丽花",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/1/1c/nxx3bwgqdwdsp7k9dj0z5jxumr8a32h.png/112px-%E5%A4%A7%E4%B8%BD%E8%8A%B1.png",
+                "img_path": "img/sr/大丽花.png"
+            },
+            {
+                "title": "三月七•存护",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/6/62/bke5waazntxa8nmxz85ix881v4318fv.png/112px-%E4%B8%89%E6%9C%88%E4%B8%83.png",
+                "img_path": "img/sr/三月七•存护.png"
+            },
+            {
+                "title": "卢卡",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/3/3a/1v8w1pnhdt212dis6d8n3tw4xbm4rss.png/112px-%E5%8D%A2%E5%8D%A1.png",
+                "img_path": "img/sr/卢卡.png"
+            },
+            {
+                "title": "加拉赫",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/45/635ho4kx5ge6epx3bkn6pzp3mbsvezk.png/112px-%E5%8A%A0%E6%8B%89%E8%B5%AB.png",
+                "img_path": "img/sr/加拉赫.png"
+            }
+        ]
+    },
+    {
+        "title": "「盈茧炽盛」角色活动跃迁",
+        "type": "角色",
+        "timer": [
+            "2025/12/17 10:00:00",
+            "2026/01/17 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "流萤",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/6/6e/loo8cnidyavnbgut84xmcgth6vdl5a0.png/112px-%E6%B5%81%E8%90%A4.png",
+                "img_path": "img/sr/流萤.png"
+            },
+            {
+                "title": "三月七•存护",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/6/62/bke5waazntxa8nmxz85ix881v4318fv.png/112px-%E4%B8%89%E6%9C%88%E4%B8%83.png",
+                "img_path": "img/sr/三月七•存护.png"
+            },
+            {
+                "title": "卢卡",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/3/3a/1v8w1pnhdt212dis6d8n3tw4xbm4rss.png/112px-%E5%8D%A2%E5%8D%A1.png",
+                "img_path": "img/sr/卢卡.png"
+            },
+            {
+                "title": "加拉赫",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/45/635ho4kx5ge6epx3bkn6pzp3mbsvezk.png/112px-%E5%8A%A0%E6%8B%89%E8%B5%AB.png",
+                "img_path": "img/sr/加拉赫.png"
+            }
+        ]
+    },
+    {
+        "title": "「流光定影」光锥活动跃迁",
+        "type": "武器",
+        "timer": [
+            "2025/12/17 10:00:00",
+            "2026/01/17 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "勿忘她的火焰",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/1/1b/pgn803kkzah3x90ctxadm4xkk6f3z0a.png/112px-%E5%8B%BF%E5%BF%98%E5%A5%B9%E7%9A%84%E7%81%AB%E7%84%B0.png",
+                "img_path": "img/sr/勿忘她的火焰.png"
+            },
+            {
+                "title": "晚安与睡颜",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/2/2e/42qcpkq7qnvaenbq9z7saw4y34w192r.png/112px-%E6%99%9A%E5%AE%89%E4%B8%8E%E7%9D%A1%E9%A2%9C.png",
+                "img_path": "img/sr/晚安与睡颜.png"
+            },
+            {
+                "title": "记忆中的模样",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/2/22/7cf3wdfujm66yt2c30x8gep1tzlfvb8.png/112px-%E8%AE%B0%E5%BF%86%E4%B8%AD%E7%9A%84%E6%A8%A1%E6%A0%B7.png",
+                "img_path": "img/sr/记忆中的模样.png"
+            },
+            {
+                "title": "两个人的演唱会",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/b/be/tjvexsh80gj9oouco9pc6v2czwmebdh.png/112px-%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A.png",
+                "img_path": "img/sr/两个人的演唱会.png"
+            }
+        ]
+    },
+    {
+        "title": "「溯回忆象」光锥活动跃迁",
+        "type": "武器",
+        "timer": [
+            "2025/12/17 10:00:00",
+            "2026/01/17 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "梦应归于何处",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/9/97/9hgw5hentvblnrhzra15e143qbtjdv1.png/112px-%E6%A2%A6%E5%BA%94%E5%BD%92%E4%BA%8E%E4%BD%95%E5%A4%84.png",
+                "img_path": "img/sr/梦应归于何处.png"
+            },
+            {
+                "title": "晚安与睡颜",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/2/2e/42qcpkq7qnvaenbq9z7saw4y34w192r.png/112px-%E6%99%9A%E5%AE%89%E4%B8%8E%E7%9D%A1%E9%A2%9C.png",
+                "img_path": "img/sr/晚安与睡颜.png"
+            },
+            {
+                "title": "记忆中的模样",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/2/22/7cf3wdfujm66yt2c30x8gep1tzlfvb8.png/112px-%E8%AE%B0%E5%BF%86%E4%B8%AD%E7%9A%84%E6%A8%A1%E6%A0%B7.png",
+                "img_path": "img/sr/记忆中的模样.png"
+            },
+            {
+                "title": "两个人的演唱会",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/b/be/tjvexsh80gj9oouco9pc6v2czwmebdh.png/112px-%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A.png",
+                "img_path": "img/sr/两个人的演唱会.png"
+            }
+        ]
+    }
+]
