@@ -1,0 +1,97 @@
+[
+    {
+        "title": "「渡夜焚心」独家频段",
+        "type": "角色",
+        "timer": [
+            "2025/12/17 12:00:00",
+            "2025/12/29 14:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "般岳",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/d/d0/imvff8sf35pqb1letn16eukp4h7xn4g.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E8%88%AC%E5%B2%B3.png",
+                "img_path": "img/zzz/般岳.png"
+            },
+            {
+                "title": "苍角",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/1/17/co1tz6xt4fuspz27d1dp4a29mla8i8x.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E8%8B%8D%E8%A7%92.png",
+                "img_path": "img/zzz/苍角.png"
+            },
+            {
+                "title": "赛斯",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/a/a5/h30yvx8psx74cu0l64asyml4in4othp.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E8%B5%9B%E6%96%AF.png",
+                "img_path": "img/zzz/赛斯.png"
+            }
+        ]
+    },
+    {
+        "title": "「慵懒逐浪」独家频段",
+        "type": "角色",
+        "timer": [
+            "2025/12/17 12:00:00",
+            "2025/12/29 14:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "艾莲",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/6/63/3o75q4xil7ifwh0azhk0nfndm5u4db3.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E8%89%BE%E8%8E%B2.png",
+                "img_path": "img/zzz/艾莲.png"
+            },
+            {
+                "title": "苍角",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/1/17/co1tz6xt4fuspz27d1dp4a29mla8i8x.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E8%8B%8D%E8%A7%92.png",
+                "img_path": "img/zzz/苍角.png"
+            },
+            {
+                "title": "赛斯",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/a/a5/h30yvx8psx74cu0l64asyml4in4othp.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E8%B5%9B%E6%96%AF.png",
+                "img_path": "img/zzz/赛斯.png"
+            }
+        ]
+    },
+    {
+        "title": "「灿烂和声」音擎频段",
+        "type": "武器",
+        "timer": [
+            "2025/12/17 12:00:00",
+            "2025/12/29 14:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "含羞恶面",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/c/c0/0tq6q646olxa4k0zfhrjqikopheoi2o.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E5%90%AB%E7%BE%9E%E6%81%B6%E9%9D%A2.png",
+                "img_path": "img/zzz/含羞恶面.png"
+            },
+            {
+                "title": "维序者-特化型",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/d/d3/1tmsnljjgfgxr4macw1e6fslxhk2zy7.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E7%BB%B4%E5%BA%8F%E8%80%85-%E7%89%B9%E5%8C%96%E5%9E%8B.png",
+                "img_path": "img/zzz/维序者-特化型.png"
+            }
+        ]
+    },
+    {
+        "title": "「璀璨韵律」音擎频段",
+        "type": "武器",
+        "timer": [
+            "2025/12/17 12:00:00",
+            "2025/12/29 14:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "深海访客",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/5/5e/on02jkj18c02gqmhhsylos7g1vuian3.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E6%B7%B1%E6%B5%B7%E8%AE%BF%E5%AE%A2.png",
+                "img_path": "img/zzz/深海访客.png"
+            },
+            {
+                "title": "含羞恶面",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/c/c0/0tq6q646olxa4k0zfhrjqikopheoi2o.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E5%90%AB%E7%BE%9E%E6%81%B6%E9%9D%A2.png",
+                "img_path": "img/zzz/含羞恶面.png"
+            },
+            {
+                "title": "维序者-特化型",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/d/d3/1tmsnljjgfgxr4macw1e6fslxhk2zy7.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E7%BB%B4%E5%BA%8F%E8%80%85-%E7%89%B9%E5%8C%96%E5%9E%8B.png",
+                "img_path": "img/zzz/维序者-特化型.png"
+            }
+        ]
+    }
+]
