@@ -1,5 +1,57 @@
 [
     {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/9/9e/amzu75f52zgrk1e37lc2ime7yeohoff.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5025-1%E6%9C%9F.png",
+        "title": "「渡夜焚心」025-1期独家频段",
+        "type": "角色",
+        "version": "2.4下半",
+        "timer": "2025/12/17 12:00:00 ~ 2025/12/29 14:59:59",
+        "s": "般岳",
+        "a": [
+            "苍角",
+            "赛斯"
+        ],
+        "img_path": "img/zzz/history/「渡夜焚心」025-1期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/5/58/ej3zzq0hjwd1ulwv3bv7jn7ztysmfcc.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5025-1%E6%9C%9F.png",
+        "title": "「灿烂和声」025-1期音擎频段",
+        "type": "武器",
+        "version": "2.4下半",
+        "timer": "2025/12/17 12:00:00 ~ 2025/12/29 14:59:59",
+        "s": "怒目金刚",
+        "a": [
+            "含羞恶面",
+            "维序者-特化型"
+        ],
+        "img_path": "img/zzz/history/「灿烂和声」025-1期音擎频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/5/5d/7zlzkcal0m0vdz0wl7u3cdg7czwkibj.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5025-2%E6%9C%9F.png",
+        "title": "「慵懒逐浪」025-2期独家频段",
+        "type": "角色",
+        "version": "2.4下半",
+        "timer": "2025/12/17 12:00:00 ~ 2025/12/29 14:59:59",
+        "s": "艾莲",
+        "a": [
+            "苍角",
+            "赛斯"
+        ],
+        "img_path": "img/zzz/history/「慵懒逐浪」025-2期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/5/5e/g2vntaue8389xf0076zsjmck6qzqwbc.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5025-2%E6%9C%9F.png",
+        "title": "「璀璨韵律」025-2期音擎频段",
+        "type": "武器",
+        "version": "2.4下半",
+        "timer": "2025/12/17 12:00:00 ~ 2025/12/29 14:59:59",
+        "s": "深海访客",
+        "a": [
+            "含羞恶面",
+            "维序者-特化型"
+        ],
+        "img_path": "img/zzz/history/「璀璨韵律」025-2期音擎频段.png"
+    },
+    {
         "img": "https://patchwiki.biligame.com/images/zzz/thumb/5/52/2dncxwv5u4glmx601ysrn9ahfa76pou.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5024-1%E6%9C%9F.png.jpeg",
         "title": "「唤寂昔声」024-1期独家频段",
         "type": "角色",
