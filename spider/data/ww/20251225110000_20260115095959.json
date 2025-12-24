@@ -1,0 +1,182 @@
+[
+    {
+        "title": "非定义光谱",
+        "type": "角色",
+        "timer": [
+            "2025-12-25 11:00:00",
+            "2026-01-15 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "琳奈-前瞻",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/ee00d343024241ea82736d3db62d154420251224.jpg",
+                "img_path": "img/ww/琳奈-前瞻.png"
+            },
+            {
+                "title": "秧秧",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/d4401afc92c0402481658ae50908983c20251224.png",
+                "img_path": "img/ww/秧秧.png"
+            },
+            {
+                "title": "釉瑚",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/1dada4652edb473aa2c94d88dffc414820251224.png",
+                "img_path": "img/ww/釉瑚.png"
+            },
+            {
+                "title": "白芷",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/8001901567d74d7082f82270dede75f120251224.png",
+                "img_path": "img/ww/白芷.png"
+            }
+        ]
+    },
+    {
+        "title": "却也在风潮后轻舞",
+        "type": "角色",
+        "timer": [
+            "2025-12-25 11:00:00",
+            "2026-01-15 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "卡提希娅",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/532207366bfc4f988ad19f9aaf6362fd20251224.png",
+                "img_path": "img/ww/卡提希娅.png"
+            },
+            {
+                "title": "秧秧",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/aa08260a762f4099b1dfa72f2866078120251224.png",
+                "img_path": "img/ww/秧秧.png"
+            },
+            {
+                "title": "釉瑚",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/e74ec45dd9b946688ad27b39a457721d20251224.png",
+                "img_path": "img/ww/釉瑚.png"
+            },
+            {
+                "title": "白芷",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/6c7e4cd4443446f39e401c0c7af658a020251224.png",
+                "img_path": "img/ww/白芷.png"
+            }
+        ]
+    },
+    {
+        "title": "诗与乐的交响",
+        "type": "角色",
+        "timer": [
+            "2025-12-25 11:00:00",
+            "2026-01-15 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "夏空",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/23b66639f0924713a68982060e010a2720251224.png",
+                "img_path": "img/ww/夏空.png"
+            },
+            {
+                "title": "秧秧",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/b5e3be65a8124b81ac1fa51557e256ce20251224.png",
+                "img_path": "img/ww/秧秧.png"
+            },
+            {
+                "title": "釉瑚",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/adc3c4bfc105466cb98cf5df3658026120251224.png",
+                "img_path": "img/ww/釉瑚.png"
+            },
+            {
+                "title": "白芷",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/04dcc8a080b24323979e610d0d6c575e20251224.png",
+                "img_path": "img/ww/白芷.png"
+            }
+        ]
+    },
+    {
+        "title": "溢彩荧辉",
+        "type": "武器",
+        "timer": [
+            "2025-12-25 11:00:00",
+            "2026-01-15 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "幽冥的忘忧章",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/9c4551bf0db6426d952941e14e59145b20251224.png",
+                "img_path": "img/ww/幽冥的忘忧章.png"
+            },
+            {
+                "title": "悖论喷流",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/3a74b4ea910748ddaa4b5039b9cfac1520251224.png",
+                "img_path": "img/ww/悖论喷流.png"
+            },
+            {
+                "title": "永续坍缩",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/1185bab4a8c04a9b81c14ceabf25676a20251224.png",
+                "img_path": "img/ww/永续坍缩.png"
+            },
+            {
+                "title": "无眠烈火",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/48b85d94027842e7880a946f839b75e420251224.png",
+                "img_path": "img/ww/无眠烈火.png"
+            }
+        ]
+    },
+    {
+        "title": "不屈命定之冠",
+        "type": "武器",
+        "timer": [
+            "2025-12-25 11:00:00",
+            "2026-01-15 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "不屈命定之冠",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/2a286cb80d6447f6afe3b7656f052abe20251224.png",
+                "img_path": "img/ww/不屈命定之冠.png"
+            },
+            {
+                "title": "悖论喷流",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/4c2f808dae0e42569637ba07327ce24620251224.png",
+                "img_path": "img/ww/悖论喷流.png"
+            },
+            {
+                "title": "永续坍缩",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/886decbcdade47e894bf9f5b17c2108720251224.png",
+                "img_path": "img/ww/永续坍缩.png"
+            },
+            {
+                "title": "无眠烈火",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/0e0987c6f68449439c92e46d470b1d2220251224.png",
+                "img_path": "img/ww/无眠烈火.png"
+            }
+        ]
+    },
+    {
+        "title": "林间的咏叹调",
+        "type": "武器",
+        "timer": [
+            "2025-12-25 11:00:00",
+            "2026-01-15 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "林间的咏叹调",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/63b07fb462474752a18409a7a8d3a36d20251224.png",
+                "img_path": "img/ww/林间的咏叹调.png"
+            },
+            {
+                "title": "悖论喷流",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/fc8c878f11754ebf83294d99ae064e7220251224.png",
+                "img_path": "img/ww/悖论喷流.png"
+            },
+            {
+                "title": "永续坍缩",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/e72dcbd49e7c4922979cfd5e9e43233520251224.png",
+                "img_path": "img/ww/永续坍缩.png"
+            },
+            {
+                "title": "无眠烈火",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/841834aa51b44775a5ebea43dd17131320251224.png",
+                "img_path": "img/ww/无眠烈火.png"
+            }
+        ]
+    }
+]
