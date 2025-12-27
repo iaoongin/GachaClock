@@ -925,6 +925,20 @@
         "chara_size": "女青年"
     },
     {
+        "title": "长夜月",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/5/58/btwf564wx65yw4zlzklhlsmfa3cdlzo.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/thumb/b/bb/8gu8rbyf8ca4x1p9r9rsa259dat1bi3.png/900px-%E9%95%BF%E5%A4%9C%E6%9C%88%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/9/9b/7s6sqw32vxisniguc9zygumm16e9lgf.png",
+            "https://patchwiki.biligame.com/images/sr/f/f5/95532uiv5lqae9isgcem939ao9d244p.png"
+        ],
+        "chara_rarity": "5星",
+        "chara_type": "记忆",
+        "chara_element": "冰",
+        "chara_load_version": "3.6",
+        "chara_size": "女青年"
+    },
+    {
         "title": "阮•梅",
         "simple_img": "https://patchwiki.biligame.com/images/sr/2/2f/8phahuwrbhhw4psueh7yfwxgx4d3yqa.png",
         "promotion_img": [
