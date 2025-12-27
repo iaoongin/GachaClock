@@ -177,6 +177,19 @@
         "chara_size": "少女"
     },
     {
+        "title": "刃",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/f/fe/0c2z4od0mox71ossv6hnwv7eqkni7md.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/thumb/8/84/kcyozdm1me2or1551z8t2vpxubinjwj.png/900px-%E5%88%83%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/3/36/10dqd1wzjx1xoppxz46ygeqmbxf6rpt.png"
+        ],
+        "chara_rarity": "5星",
+        "chara_type": "毁灭",
+        "chara_element": "风",
+        "chara_load_version": "1.2",
+        "chara_size": "成男"
+    },
+    {
         "title": "刻律德菈",
         "simple_img": "https://patchwiki.biligame.com/images/sr/e/e6/h8wqfhk7lgv32k9gov5j5h2ourq9ftl.png",
         "promotion_img": [
@@ -707,6 +720,19 @@
         "chara_size": "少年"
     },
     {
+        "title": "素裳",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/8/8e/tpyxwpq83si1nhhu1bhrsd42k6si5ae.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/thumb/f/f1/pa10qs0htdu6eizlhvk4b26ihm6x5tq.png/900px-%E7%B4%A0%E8%A3%B3%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/6/62/03l6560bveh17pigs9jxsrg9jjk1qlk.png"
+        ],
+        "chara_rarity": "4星",
+        "chara_type": "巡猎",
+        "chara_element": "物理",
+        "chara_load_version": "1.0",
+        "chara_size": "女青年"
+    },
+    {
         "title": "缇宝",
         "simple_img": "https://patchwiki.biligame.com/images/sr/e/ee/tmqs4490r4z0tbjbuajcrq3itx0711j.png",
         "promotion_img": [
@@ -1034,6 +1060,19 @@
         "chara_element": "雷",
         "chara_load_version": "2.1",
         "chara_size": "成女"
+    },
+    {
+        "title": "黑塔",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/7/71/8cenilo4k3qipbg51cbxhk4lqplig7v.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/thumb/7/70/r1e1jyqs1e3kn8qqjdh5s79wribucec.png/900px-%E9%BB%91%E5%A1%94%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/f/f7/7prg1ft3buafziroyspnnutke4yvotw.png"
+        ],
+        "chara_rarity": "4星",
+        "chara_type": "智识",
+        "chara_element": "冰",
+        "chara_load_version": "1.0",
+        "chara_size": "少女"
     },
     {
         "title": "黑天鹅",
