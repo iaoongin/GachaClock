@@ -204,6 +204,20 @@
         "chara_size": "少女"
     },
     {
+        "title": "加拉赫",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/b/b7/k3a382d2ii1mtm7urge6fd95b7u6xm4.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/thumb/f/fb/hv8b1bfbyhlm21glkzl9nl5r5rjsc5h.png/900px-%E5%8A%A0%E6%8B%89%E8%B5%AB%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/e/ea/lpb0ppfr6k6d2bkogqjupxsb5qoirxz.png",
+            "https://patchwiki.biligame.com/images/sr/3/3c/n2j7uyljbkn0h546x03o4i5buzdbppi.jpg"
+        ],
+        "chara_rarity": "4星",
+        "chara_type": "丰饶",
+        "chara_element": "火",
+        "chara_load_version": "2.1",
+        "chara_size": "成男"
+    },
+    {
         "title": "卡芙卡",
         "simple_img": "https://patchwiki.biligame.com/images/sr/4/40/q3on3ocd2qwlkn2yxbwnguxeb2qeh4u.png",
         "promotion_img": [
