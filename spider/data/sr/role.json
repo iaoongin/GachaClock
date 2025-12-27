@@ -138,6 +138,19 @@
         "chara_size": "少女"
     },
     {
+        "title": "佩拉",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/7/77/of8ucqcial28pzon8en6bu52kqv1mya.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/thumb/8/8a/6v9j1x7skgvszllqdwib8tmrhdffjev.png/900px-%E4%BD%A9%E6%8B%89%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/e/ec/s2ttvcyq91wjmherjpwisxl3gutkqat.png"
+        ],
+        "chara_rarity": "4星",
+        "chara_type": "虚无",
+        "chara_element": "冰",
+        "chara_load_version": "1.0",
+        "chara_size": "少女"
+    },
+    {
         "title": "停云",
         "simple_img": "https://patchwiki.biligame.com/images/sr/e/e5/ftauo8qb1vvrs1pl15764kz1rs3q5bf.png",
         "promotion_img": [
@@ -191,20 +204,6 @@
         "chara_size": "少女"
     },
     {
-        "title": "加拉赫",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/b/b7/k3a382d2ii1mtm7urge6fd95b7u6xm4.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/f/fb/hv8b1bfbyhlm21glkzl9nl5r5rjsc5h.png/900px-%E5%8A%A0%E6%8B%89%E8%B5%AB%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/e/ea/lpb0ppfr6k6d2bkogqjupxsb5qoirxz.png",
-            "https://patchwiki.biligame.com/images/sr/3/3c/n2j7uyljbkn0h546x03o4i5buzdbppi.jpg"
-        ],
-        "chara_rarity": "4星",
-        "chara_type": "丰饶",
-        "chara_element": "火",
-        "chara_load_version": "2.1",
-        "chara_size": "成男"
-    },
-    {
         "title": "卡芙卡",
         "simple_img": "https://patchwiki.biligame.com/images/sr/4/40/q3on3ocd2qwlkn2yxbwnguxeb2qeh4u.png",
         "promotion_img": [
@@ -256,6 +255,19 @@
         "chara_element": "冰",
         "chara_load_version": "3.0",
         "chara_size": "女青年"
+    },
+    {
+        "title": "姬子",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/0/08/3gv4qax2cdksleouchs6vr0y8jgdg6g.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/thumb/e/ed/7fihsuzw7se69ls7p341128sbzg2vgj.png/900px-%E5%A7%AC%E5%AD%90%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/0/05/af9uyqk356aa8q4n27lw7wn12j1t7we.png"
+        ],
+        "chara_rarity": "5星",
+        "chara_type": "智识",
+        "chara_element": "火",
+        "chara_load_version": "1.0",
+        "chara_size": "成女"
     },
     {
         "title": "娜塔莎",
@@ -376,6 +388,19 @@
         "chara_element": "冰",
         "chara_load_version": "3.0",
         "chara_size": "星, 男青年"
+    },
+    {
+        "title": "彦卿",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/5/5a/e8surf2k9jw23u61s0epnw4oquvj6ik.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/thumb/c/cf/mc7suf6eaqqnp3ndoi59doenffx2yhw.png/900px-%E5%BD%A6%E5%8D%BF%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/5/50/feltlebdj6273djraeix51z9wrpxf2x.png"
+        ],
+        "chara_rarity": "5星",
+        "chara_type": "巡猎",
+        "chara_element": "冰",
+        "chara_load_version": "1.0",
+        "chara_size": "少年"
     },
     {
         "title": "忘归人",
