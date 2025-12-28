@@ -1,5 +1,57 @@
 [
     {
+        "img": "https://patchwiki.biligame.com/images/zzz/8/83/gy9auoopwfba6ks3nixgwjmkqdac3u2.png",
+        "title": "「光落于指尖」026-1期独家频段",
+        "type": "角色",
+        "version": "2.5",
+        "timer": "2.5版本更新后 ~ 2026/02/05 14:59:59",
+        "s": "叶瞬光",
+        "a": [
+            "妮可",
+            "露西"
+        ],
+        "img_path": "img/zzz/history/「光落于指尖」026-1期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/2/2d/4bcg1hcm32ek2vd4vno61ko59r8q867.png",
+        "title": "「喧哗奏鸣」026-1期音擎频段",
+        "type": "武器",
+        "version": "2.5",
+        "timer": "2.5版本更新后 ~ 2026/02/05 14:59:59",
+        "s": "云霓孤光",
+        "a": [
+            "好斗的阿炮",
+            "聚宝箱"
+        ],
+        "img_path": "img/zzz/history/「喧哗奏鸣」026-1期音擎频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/d/da/jnj2tjy3fpocdldrj8pv6dzwjhct4tp.png",
+        "title": "「无价之心」026-2期独家频段",
+        "type": "角色",
+        "version": "2.5",
+        "timer": "2.5版本更新后 ~ 2026/02/05 14:59:59",
+        "s": "照",
+        "a": [
+            "安比",
+            "本"
+        ],
+        "img_path": "img/zzz/history/「无价之心」026-2期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/0/0c/mn33uv0zsdbn8zqostd5qwsrbliojyc.png",
+        "title": "「激荡谐振」026-2期音擎频段",
+        "type": "武器",
+        "version": "2.5",
+        "timer": "2.5版本更新后 ~ 2026/02/05 14:59:59",
+        "s": "半糖雪兔",
+        "a": [
+            "德玛拉电池Ⅱ型",
+            "比格气缸"
+        ],
+        "img_path": "img/zzz/history/「激荡谐振」026-2期音擎频段.png"
+    },
+    {
         "img": "https://patchwiki.biligame.com/images/zzz/thumb/9/9e/amzu75f52zgrk1e37lc2ime7yeohoff.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5025-1%E6%9C%9F.png",
         "title": "「渡夜焚心」025-1期独家频段",
         "type": "角色",
