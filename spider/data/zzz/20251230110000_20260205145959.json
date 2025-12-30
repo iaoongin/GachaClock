@@ -1,0 +1,102 @@
+[
+    {
+        "title": "「光落于指尖」独家频段",
+        "type": "角色",
+        "timer": [
+            "2025/12/30 11:00:00",
+            "2026/02/05 14:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "叶瞬光",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/a/aa/k2flhkxogiuzi1wdo0jrifxvy6z3ux8.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E5%8F%B6%E7%9E%AC%E5%85%89.png",
+                "img_path": "img/zzz/叶瞬光.png"
+            },
+            {
+                "title": "妮可",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/a/ae/posa7yw93z9vnzep092rtnrqxksdx4k.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E5%A6%AE%E5%8F%AF.png",
+                "img_path": "img/zzz/妮可.png"
+            },
+            {
+                "title": "露西",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/4/4b/nun3urflupvt1lq85o81qxeoie6t9vk.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E9%9C%B2%E8%A5%BF.png",
+                "img_path": "img/zzz/露西.png"
+            }
+        ]
+    },
+    {
+        "title": "「无价之心」独家频段",
+        "type": "角色",
+        "timer": [
+            "2025/12/30 11:00:00",
+            "2026/02/05 14:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "照",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/a/a7/4x6ftmp0p7f3aiy07e2c05ramfc0gr7.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E7%85%A7.png",
+                "img_path": "img/zzz/照.png"
+            },
+            {
+                "title": "安比",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/e/e7/e1g98nfpbfeem9p5jpe73xqinoimd35.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E5%AE%89%E6%AF%94.png",
+                "img_path": "img/zzz/安比.png"
+            },
+            {
+                "title": "本",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/6/69/ig9c0meb9fpwpvk8ivu9figyf7ei2rn.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E6%9C%AC.png",
+                "img_path": "img/zzz/本.png"
+            }
+        ]
+    },
+    {
+        "title": "「喧哗奏鸣」音擎频段",
+        "type": "武器",
+        "timer": [
+            "2025/12/30 11:00:00",
+            "2026/02/05 14:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "云霓孤光",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/8/83/0eubu9cq0z88402k5lv8zglhxjj2lj9.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E4%BA%91%E9%9C%93%E5%AD%A4%E5%85%89.png",
+                "img_path": "img/zzz/云霓孤光.png"
+            },
+            {
+                "title": "聚宝箱",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/3/36/phqx7sl433jtkm5fswar7en75rs8i5o.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E8%81%9A%E5%AE%9D%E7%AE%B1.png",
+                "img_path": "img/zzz/聚宝箱.png"
+            },
+            {
+                "title": "好斗的阿炮",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/3/38/7kskbvgkgahag0e4eb064e3qtm7qff2.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E5%A5%BD%E6%96%97%E7%9A%84%E9%98%BF%E7%82%AE.png",
+                "img_path": "img/zzz/好斗的阿炮.png"
+            }
+        ]
+    },
+    {
+        "title": "「激荡谐振」音擎频段",
+        "type": "武器",
+        "timer": [
+            "2025/12/30 11:00:00",
+            "2026/02/05 14:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "半糖雪兔",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/6/67/39kn1lfmkvcbgalimky4og1n4yf2iis.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E5%8D%8A%E7%B3%96%E9%9B%AA%E5%85%94.png",
+                "img_path": "img/zzz/半糖雪兔.png"
+            },
+            {
+                "title": "德玛拉电池Ⅱ型",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/c/cd/8aw198bnfhe2buyxuo8pd511b4zu1ke.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E5%BE%B7%E7%8E%9B%E6%8B%89%E7%94%B5%E6%B1%A0%E2%85%A1%E5%9E%8B.png",
+                "img_path": "img/zzz/德玛拉电池Ⅱ型.png"
+            },
+            {
+                "title": "比格气缸",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/2/2a/fsr4bjqvmi4xnblzkmn1tbonoyxwn5s.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E6%AF%94%E6%A0%BC%E6%B0%94%E7%BC%B8.png",
+                "img_path": "img/zzz/比格气缸.png"
+            }
+        ]
+    }
+]
