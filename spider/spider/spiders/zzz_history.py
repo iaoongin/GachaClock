@@ -14,7 +14,7 @@ class ZzzHistorySpider(scrapy.Spider):
     start_urls = ["https://wiki.biligame.com/zzz/%E8%B0%83%E9%A2%91"]
 
     def parse(self, response):
-        row_list = response.xpath('//*[@id="mw-content-text"]/div/h3[contains(., "第")]/following-sibling::table[following-sibling::h3]')
+        row_list = response.xpath('//*[@id="mw-content-text"]/div/h3[contains(., "第")]/following-sibling::table[following-sibling::h3 or not(following-sibling::*)]')
         # row_list = response.xpath('//*[@id="mw-content-text"]/div/table[@class="wikitable"]')
 
         # 每个版本
