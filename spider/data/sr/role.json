@@ -1,19 +1,5 @@
 [
     {
-        "title": "Archer",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/1/19/dovrwl5ycj23d0f23yf4ehdvxeu52z0.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/9/90/p3or7te6zo2pfzjgsdwlv1hpo49fs7m.png/900px-Archer%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/3/3e/qnb35j40bgv5zvowa1kh1vskvdo03wz.png",
-            "https://patchwiki.biligame.com/images/sr/f/fb/l6fpubfo1c0pu782rj7al55as0oeyz9.jpg"
-        ],
-        "chara_rarity": "5星",
-        "chara_type": "巡猎",
-        "chara_element": "量子",
-        "chara_load_version": "3.4",
-        "chara_size": "成男"
-    },
-    {
         "title": "Saber",
         "simple_img": "https://patchwiki.biligame.com/images/sr/5/52/8h7t8yyh6sk9jox5rr1nqe46hadg1xa.png",
         "promotion_img": [
@@ -26,20 +12,6 @@
         "chara_element": "风",
         "chara_load_version": "3.4",
         "chara_size": "女青年"
-    },
-    {
-        "title": "万敌",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/4/42/ngk7edwa7fo7jyijm05qeisouw11zrn.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/6/62/tqa52hs54f5ktkz1p2oaw0rlqghzr3s.png/900px-%E4%B8%87%E6%95%8C%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/c/ca/3j7689mm30lw5m6lly58hgzi3oanr09.png",
-            "https://patchwiki.biligame.com/images/sr/9/9d/4a24d4vaajfzkyua04da01h8d2nmghq.jpg"
-        ],
-        "chara_rarity": "5星",
-        "chara_type": "毁灭",
-        "chara_element": "虚数",
-        "chara_load_version": "3.1",
-        "chara_size": "成男"
     },
     {
         "title": "三月七•存护",
@@ -67,19 +39,6 @@
         "chara_element": "虚数",
         "chara_load_version": "2.4",
         "chara_size": "女青年"
-    },
-    {
-        "title": "丹恒",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/7/7e/nyx2cc7w3yv8lytrhi0jn75dylar500.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/2/24/mr59xxu5f8bf7ych9p761lw9w3clr48.png/900px-%E4%B8%B9%E6%81%92%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/3/34/hf2o5suregc5fswecw8o5x7oki5229a.png"
-        ],
-        "chara_rarity": "4星",
-        "chara_type": "巡猎",
-        "chara_element": "风",
-        "chara_load_version": "1.0",
-        "chara_size": "男青年"
     },
     {
         "title": "丹恒•腾荒",
@@ -177,19 +136,6 @@
         "chara_size": "少女"
     },
     {
-        "title": "刃",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/f/fe/0c2z4od0mox71ossv6hnwv7eqkni7md.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/8/84/kcyozdm1me2or1551z8t2vpxubinjwj.png/900px-%E5%88%83%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/3/36/10dqd1wzjx1xoppxz46ygeqmbxf6rpt.png"
-        ],
-        "chara_rarity": "5星",
-        "chara_type": "毁灭",
-        "chara_element": "风",
-        "chara_load_version": "1.2",
-        "chara_size": "成男"
-    },
-    {
         "title": "刻律德菈",
         "simple_img": "https://patchwiki.biligame.com/images/sr/e/e6/h8wqfhk7lgv32k9gov5j5h2ourq9ftl.png",
         "promotion_img": [
@@ -202,20 +148,6 @@
         "chara_element": "风",
         "chara_load_version": "3.5",
         "chara_size": "少女"
-    },
-    {
-        "title": "加拉赫",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/b/b7/k3a382d2ii1mtm7urge6fd95b7u6xm4.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/f/fb/hv8b1bfbyhlm21glkzl9nl5r5rjsc5h.png/900px-%E5%8A%A0%E6%8B%89%E8%B5%AB%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/e/ea/lpb0ppfr6k6d2bkogqjupxsb5qoirxz.png",
-            "https://patchwiki.biligame.com/images/sr/3/3c/n2j7uyljbkn0h546x03o4i5buzdbppi.jpg"
-        ],
-        "chara_rarity": "4星",
-        "chara_type": "丰饶",
-        "chara_element": "火",
-        "chara_load_version": "2.1",
-        "chara_size": "成男"
     },
     {
         "title": "卡芙卡",
@@ -231,32 +163,6 @@
         "chara_size": "成女"
     },
     {
-        "title": "卢卡",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/1/1f/qb9pytrok6o1ma7fpev9x4vpkafrnfr.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/5/5f/iz3rzu7mg628rqzz1k44feiw8yp1u8o.png/900px-%E5%8D%A2%E5%8D%A1%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/f/fc/b7aquclnjlgarcnjzu0pbiegxoplirv.png"
-        ],
-        "chara_rarity": "4星",
-        "chara_type": "虚无",
-        "chara_element": "物理",
-        "chara_load_version": "1.2",
-        "chara_size": "男青年"
-    },
-    {
-        "title": "大丽花",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/b/b9/fvr452azci8i8jc9w3flymppljainit.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/5/55/ffat3osaxm9jv7764f2r9domcqqukmk.png/900px-%E5%A4%A7%E4%B8%BD%E8%8A%B1%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/4/47/jfw4pr95ywx5265vw1s1d62lozr1z3h.png"
-        ],
-        "chara_rarity": "5星",
-        "chara_type": "虚无",
-        "chara_element": "火",
-        "chara_load_version": "3.8",
-        "chara_size": ""
-    },
-    {
         "title": "大黑塔",
         "simple_img": "https://patchwiki.biligame.com/images/sr/e/e0/44vucb9yhgtruvn5uxlmzv8lep9lrn5.png",
         "promotion_img": [
@@ -269,19 +175,6 @@
         "chara_element": "冰",
         "chara_load_version": "3.0",
         "chara_size": "女青年"
-    },
-    {
-        "title": "姬子",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/0/08/3gv4qax2cdksleouchs6vr0y8jgdg6g.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/e/ed/7fihsuzw7se69ls7p341128sbzg2vgj.png/900px-%E5%A7%AC%E5%AD%90%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/0/05/af9uyqk356aa8q4n27lw7wn12j1t7we.png"
-        ],
-        "chara_rarity": "5星",
-        "chara_type": "智识",
-        "chara_element": "火",
-        "chara_load_version": "1.0",
-        "chara_size": "成女"
     },
     {
         "title": "娜塔莎",
@@ -323,19 +216,6 @@
         "chara_size": "女青年"
     },
     {
-        "title": "希儿",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/2/2c/kfg25teo1zklnqphdtb4rv5zag9n1dc.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/9/92/b7i5ovzdaunbcdjea29imnamsztldlg.png/900px-%E5%B8%8C%E5%84%BF%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/9/92/jxsxrkyhkjyoyp39gvjw8b6i98u4gam.jpg"
-        ],
-        "chara_rarity": "5星",
-        "chara_type": "巡猎",
-        "chara_element": "量子",
-        "chara_load_version": "1.0",
-        "chara_size": "女青年"
-    },
-    {
         "title": "希露瓦",
         "simple_img": "https://patchwiki.biligame.com/images/sr/e/e5/gs65n8u6m09i8careulnhk7on212otw.png",
         "promotion_img": [
@@ -346,45 +226,6 @@
         "chara_element": "雷",
         "chara_load_version": "1.0",
         "chara_size": "成女"
-    },
-    {
-        "title": "开拓者•同谐",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/2/25/ndji123dunba9f6bol398vgxiq9kmex.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/f/f8/jvjpaipod5gi9f554nv6h27t6wtmle5.png/700px-%E5%BC%80%E6%8B%93%E8%80%85%E6%98%9F%E2%80%A2%E5%90%8C%E8%B0%90%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/thumb/7/7e/nbzcnzhhmb7oqen7v5047ypdp8rz5q0.png/700px-%E5%BC%80%E6%8B%93%E8%80%85%E7%A9%B9%E2%80%A2%E5%90%8C%E8%B0%90%E7%AB%8B%E7%BB%98.png"
-        ],
-        "chara_rarity": "5星",
-        "chara_type": "同谐",
-        "chara_element": "虚数",
-        "chara_load_version": "2.2",
-        "chara_size": "星, 男青年"
-    },
-    {
-        "title": "开拓者•存护",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/a/ae/sy92hmpuyr8egyqgsjre9pfblidoky4.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/8/8f/4pvz8amab0bem4vazg00blxhr7xnaau.png/700px-%E5%BC%80%E6%8B%93%E8%80%85%E6%98%9F%E2%80%A2%E5%AD%98%E6%8A%A4%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/thumb/5/59/g3gk5z35af2xbrhdm6jwrvdlx71lo0p.png/700px-%E5%BC%80%E6%8B%93%E8%80%85%E7%A9%B9%E2%80%A2%E5%AD%98%E6%8A%A4%E7%AB%8B%E7%BB%98.png"
-        ],
-        "chara_rarity": "5星",
-        "chara_type": "存护",
-        "chara_element": "火",
-        "chara_load_version": "1.0",
-        "chara_size": "星, 男青年"
-    },
-    {
-        "title": "开拓者•毁灭",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/b/b8/qq2a8rl6a14zl2u2v7d9jll3hwjep13.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/c/c4/2dishd6nydg68hp6ay0wjtpgjgjbmfz.png/700px-%E5%BC%80%E6%8B%93%E8%80%85%E6%98%9F%E2%80%A2%E6%AF%81%E7%81%AD%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/thumb/e/ed/a8tjm9d781ac6tw2vyhg5q8ss058415.png/700px-%E5%BC%80%E6%8B%93%E8%80%85%E7%A9%B9%E2%80%A2%E6%AF%81%E7%81%AD%E7%AB%8B%E7%BB%98.png"
-        ],
-        "chara_rarity": "5星",
-        "chara_type": "毁灭",
-        "chara_element": "物理",
-        "chara_load_version": "1.0",
-        "chara_size": "星, 男青年"
     },
     {
         "title": "开拓者•记忆",
@@ -431,20 +272,6 @@
         "chara_size": "女青年"
     },
     {
-        "title": "托帕&账账",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/4/44/gro6khvj906r2f4bd5yr5dzllpr889r.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/a/ae/rzdx12evy18xkpp13x1sjwrp1wq205v.png/900px-%E6%89%98%E5%B8%95%26%E8%B4%A6%E8%B4%A6%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/9/9b/1tyxty69xim1zpm4gps64ob8b9gygyq.png",
-            "https://patchwiki.biligame.com/images/sr/a/a3/k3x4vba8pbpk9iba6p2c3imahenw4l2.jpg"
-        ],
-        "chara_rarity": "5星",
-        "chara_type": "巡猎",
-        "chara_element": "火",
-        "chara_load_version": "1.4",
-        "chara_size": "女青年"
-    },
-    {
         "title": "昔涟",
         "simple_img": "https://patchwiki.biligame.com/images/sr/f/ff/jsy3fuwmfx9ropq7z9ccjukvt07kqzo.png",
         "promotion_img": [
@@ -457,20 +284,6 @@
         "chara_element": "冰",
         "chara_load_version": "3.7",
         "chara_size": "女青年"
-    },
-    {
-        "title": "星期日",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/c/cb/921xn1bwfnx2o48k3ai90fnrnnyk4if.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/f/f9/a1wn1pbycm3ii6cq735r5lkpjkewbac.png/900px-%E6%98%9F%E6%9C%9F%E6%97%A5%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/f/f1/cqjmmvi9ucrtej3h84x9k3c4hadbezp.png",
-            "https://patchwiki.biligame.com/images/sr/e/e4/hf85at7tih39zxt83pekgvh11ct1md4.jpg"
-        ],
-        "chara_rarity": "5星",
-        "chara_type": "同谐",
-        "chara_element": "虚数",
-        "chara_load_version": "2.7",
-        "chara_size": "男青年"
     },
     {
         "title": "景元",
@@ -540,20 +353,6 @@
         "chara_size": "男青年"
     },
     {
-        "title": "波提欧",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/c/ca/ecxvzqh55v4grwcfuypmgpf2szxs3y1.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/6/6b/1uf2xm1kea19xviupptch88hd9e1k3z.png/900px-%E6%B3%A2%E6%8F%90%E6%AC%A7%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/a/ad/huilqas2k0y697l8s6e0k1e1ctuzmdr.png",
-            "https://patchwiki.biligame.com/images/sr/6/6e/8a6lrj7gm9ffrhek3lrayz7hwdatkic.jpg"
-        ],
-        "chara_rarity": "5星",
-        "chara_type": "巡猎",
-        "chara_element": "物理",
-        "chara_load_version": "2.2",
-        "chara_size": "成男"
-    },
-    {
         "title": "流萤",
         "simple_img": "https://patchwiki.biligame.com/images/sr/5/52/rpu07i97b95ppq9vzq819evnp5idtmk.png",
         "promotion_img": [
@@ -579,20 +378,6 @@
         "chara_type": "虚无",
         "chara_element": "物理",
         "chara_load_version": "3.5",
-        "chara_size": "女青年"
-    },
-    {
-        "title": "灵砂",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/e/e9/8xut1ehdahe74l9sllyq5s0292kc8a3.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/8/87/i74ocx6kwo3qxcpl4bqeoi9m2mnn8q2.png/900px-%E7%81%B5%E7%A0%82%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/6/6b/0s288o4cslkdbd1o566xuw7z2nr1t8s.png",
-            "https://patchwiki.biligame.com/images/sr/f/f7/8rysime3gyg3ixlciej6mg6y3wruo4l.jpg"
-        ],
-        "chara_rarity": "5星",
-        "chara_type": "丰饶",
-        "chara_element": "火",
-        "chara_load_version": "2.5",
         "chara_size": "女青年"
     },
     {
@@ -664,20 +449,6 @@
         "chara_size": "成男"
     },
     {
-        "title": "知更鸟",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/0/0e/t1qy59mq19mtcpa4bhq1t7ucezliuve.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/b/b9/q7uxyiej5tg4p3ysts38oxcv23mt76p.png/900px-%E7%9F%A5%E6%9B%B4%E9%B8%9F%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/d/db/au23wjkibt90fxug7ney502r5z6tx50.png",
-            "https://patchwiki.biligame.com/images/sr/6/61/e5ngfrdvotsxei9yl7y1efdbnhy7wto.jpg"
-        ],
-        "chara_rarity": "5星",
-        "chara_type": "同谐",
-        "chara_element": "物理",
-        "chara_load_version": "2.2",
-        "chara_size": "女青年"
-    },
-    {
         "title": "砂金",
         "simple_img": "https://patchwiki.biligame.com/images/sr/1/10/nzd0t84uinengcf9gfyid23jj00seaf.png",
         "promotion_img": [
@@ -731,20 +502,6 @@
         "chara_element": "物理",
         "chara_load_version": "1.0",
         "chara_size": "女青年"
-    },
-    {
-        "title": "缇宝",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/e/ee/tmqs4490r4z0tbjbuajcrq3itx0711j.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/1/11/qqo0bipfay40rjz0aniuy2xcpongx91.png/900px-%E7%BC%87%E5%AE%9D%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/e/e1/ijsq1pyqcy8ftp85h0vhn1z6jvctn48.png",
-            "https://patchwiki.biligame.com/images/sr/0/02/jb0xu9960xrbrjmak9aob2av7tm0wl9.jpg"
-        ],
-        "chara_rarity": "5星",
-        "chara_type": "同谐",
-        "chara_element": "量子",
-        "chara_load_version": "3.1",
-        "chara_size": "幼女"
     },
     {
         "title": "罗刹",
@@ -828,34 +585,6 @@
         "chara_size": "幼女"
     },
     {
-        "title": "貊泽",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/3/36/l748srx42nwhw7dx1i7aql9skyrlr2p.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/8/8d/32jv2f9yr1mpljcb3sugktmajr7dift.png/900px-%E8%B2%8A%E6%B3%BD%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/d/d0/96wxx2zblvjf88jrdx0dvomvunbjee0.png",
-            "https://patchwiki.biligame.com/images/sr/2/2e/ixj4iqcr09yh0xqu8j7k9e5t8mmtwk6.jpg"
-        ],
-        "chara_rarity": "4星",
-        "chara_type": "巡猎",
-        "chara_element": "雷",
-        "chara_load_version": "2.5",
-        "chara_size": "成男"
-    },
-    {
-        "title": "赛飞儿",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/4/40/n2ok5gt07safya02wyv28nfamifdlus.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/9/97/j9ze4tnenfrqgx4tygftk0veekqsn2z.png/900px-%E8%B5%9B%E9%A3%9E%E5%84%BF%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/2/25/eniw8ipaz17esbzo8lrgsacrwq9j3pz.png",
-            "https://patchwiki.biligame.com/images/sr/e/e4/969k2rikbmjl8db3ojcd11ilp6pg9r4.jpg"
-        ],
-        "chara_rarity": "5星",
-        "chara_type": "虚无",
-        "chara_element": "量子",
-        "chara_load_version": "3.3",
-        "chara_size": "女青年"
-    },
-    {
         "title": "遐蝶",
         "simple_img": "https://patchwiki.biligame.com/images/sr/5/56/qkmuen2chl8p19rkh5yf9u4egbekmi7.png",
         "promotion_img": [
@@ -882,20 +611,6 @@
         "chara_element": "风",
         "chara_load_version": "3.2",
         "chara_size": "男青年"
-    },
-    {
-        "title": "银枝",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/9/94/4g1908cw3chsvwt1znyob8m03y8yecw.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/a/a4/mtoe12lzwhcgk4ajjpioyv1cshr9j3t.png/900px-%E9%93%B6%E6%9E%9D%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/5/57/6s7lzrxg0wwzyueoehyakj4y20vql12.png",
-            "https://patchwiki.biligame.com/images/sr/2/2d/gehmvu4ua2ujqxo9pg3vtzecjktypxa.jpg"
-        ],
-        "chara_rarity": "5星",
-        "chara_type": "智识",
-        "chara_element": "物理",
-        "chara_load_version": "1.5",
-        "chara_size": "成男"
     },
     {
         "title": "银狼",
@@ -939,20 +654,6 @@
         "chara_size": "女青年"
     },
     {
-        "title": "阮•梅",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/2/2f/8phahuwrbhhw4psueh7yfwxgx4d3yqa.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/4/4d/0iamwg2dwen149n3ucjxlnx4dw4ym5z.png/900px-%E9%98%AE%E2%80%A2%E6%A2%85%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/f/f3/enc8l44r8z89keumyagi2zkd9zzv72a.png",
-            "https://patchwiki.biligame.com/images/sr/e/ee/qi0yxtjr45nftd1l1n09kq862wd6wrx.jpg"
-        ],
-        "chara_rarity": "5星",
-        "chara_type": "同谐",
-        "chara_element": "冰",
-        "chara_load_version": "1.6",
-        "chara_size": "女青年"
-    },
-    {
         "title": "阿兰",
         "simple_img": "https://patchwiki.biligame.com/images/sr/1/11/1a47vur36821gyod0yk9mfjoy30f17t.png",
         "promotion_img": [
@@ -964,20 +665,6 @@
         "chara_element": "雷",
         "chara_load_version": "1.0",
         "chara_size": "少年"
-    },
-    {
-        "title": "阿格莱雅",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/5/55/4w0sxm4jbg3m0lqt7kj928hopv5lvc8.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/f/f2/eeo6be0rpoxmfhlk3bq7jrr490zhqiq.png/900px-%E9%98%BF%E6%A0%BC%E8%8E%B1%E9%9B%85%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/6/6b/esth9m1oh1n1mo3r4d903rwwq8nin9a.png",
-            "https://patchwiki.biligame.com/images/sr/f/f8/e921s4mptp5gucttsu5ivog21kuwbzp.jpg"
-        ],
-        "chara_rarity": "5星",
-        "chara_type": "记忆",
-        "chara_element": "雷",
-        "chara_load_version": "3.0",
-        "chara_size": "成女"
     },
     {
         "title": "雪衣",
@@ -992,19 +679,6 @@
         "chara_element": "量子",
         "chara_load_version": "1.6",
         "chara_size": "女青年"
-    },
-    {
-        "title": "青雀",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/0/0f/pvswlbd6mf5vv3hrm1844bgn2n42opl.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/7/7a/owzniqqsb9gqy1hckv3nhuiwye76k6j.png/900px-%E9%9D%92%E9%9B%80%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/9/9d/f1l3bb3agxofvt78pagrikgyiitcq7a.png"
-        ],
-        "chara_rarity": "4星",
-        "chara_type": "智识",
-        "chara_element": "量子",
-        "chara_load_version": "1.0",
-        "chara_size": "少女"
     },
     {
         "title": "风堇",
@@ -1048,20 +722,6 @@
         "chara_size": "成女"
     },
     {
-        "title": "黄泉",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/0/06/f3n8ijkczalcz23z2oghkzkvaver7jj.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/7/71/fud590c54lodhhcj2bji0zucih5dzm5.png/900px-%E9%BB%84%E6%B3%89%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/0/09/tbsyww1cmlr4k5sulsqo2pstfhk80t6.png",
-            "https://patchwiki.biligame.com/images/sr/4/49/6fsdnc0plmgnnt67rhe4niikivi931z.jpg"
-        ],
-        "chara_rarity": "5星",
-        "chara_type": "虚无",
-        "chara_element": "雷",
-        "chara_load_version": "2.1",
-        "chara_size": "成女"
-    },
-    {
         "title": "黑塔",
         "simple_img": "https://patchwiki.biligame.com/images/sr/7/71/8cenilo4k3qipbg51cbxhk4lqplig7v.png",
         "promotion_img": [
@@ -1073,19 +733,5 @@
         "chara_element": "冰",
         "chara_load_version": "1.0",
         "chara_size": "少女"
-    },
-    {
-        "title": "黑天鹅",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/a/a5/g41wngswn8eheold60bnw8wxud25rsd.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/a/af/payusvzxpo9mso33fml1trp9qtr39j5.png/900px-%E9%BB%91%E5%A4%A9%E9%B9%85%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/5/55/daz1xi6s2uy8loajbihqas5lrsufrse.png",
-            "https://patchwiki.biligame.com/images/sr/e/e3/4nuq8f9ppbpvz5u99524dac80ggxngh.jpg"
-        ],
-        "chara_rarity": "5星",
-        "chara_type": "虚无",
-        "chara_element": "风",
-        "chara_load_version": "2.0",
-        "chara_size": "成女"
     }
 ]
