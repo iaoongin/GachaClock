@@ -323,19 +323,6 @@
         "chara_size": "女青年"
     },
     {
-        "title": "希儿",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/2/2c/kfg25teo1zklnqphdtb4rv5zag9n1dc.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/9/92/b7i5ovzdaunbcdjea29imnamsztldlg.png/900px-%E5%B8%8C%E5%84%BF%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/9/92/jxsxrkyhkjyoyp39gvjw8b6i98u4gam.jpg"
-        ],
-        "chara_rarity": "5星",
-        "chara_type": "巡猎",
-        "chara_element": "量子",
-        "chara_load_version": "1.0",
-        "chara_size": "女青年"
-    },
-    {
         "title": "希露瓦",
         "simple_img": "https://patchwiki.biligame.com/images/sr/e/e5/gs65n8u6m09i8careulnhk7on212otw.png",
         "promotion_img": [
@@ -384,23 +371,6 @@
         "chara_type": "毁灭",
         "chara_element": "物理",
         "chara_load_version": "1.0",
-        "chara_size": "星, 男青年"
-    },
-    {
-        "title": "开拓者•记忆",
-        "simple_img": "https://patchwiki.biligame.com/images/sr/0/03/5wrymiibhwaqmbwpd8l47dcej6zzpgh.png",
-        "promotion_img": [
-            "https://patchwiki.biligame.com/images/sr/thumb/a/a5/aqj9biwvgnc97r10wymc0g442kqvo6a.png/700px-%E5%BC%80%E6%8B%93%E8%80%85%E6%98%9F%E2%80%A2%E8%AE%B0%E5%BF%86%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/thumb/3/3d/5ywqka5s7dwv3gfrh4410rc25jga1qb.png/700px-%E5%BC%80%E6%8B%93%E8%80%85%E7%A9%B9%E2%80%A2%E8%AE%B0%E5%BF%86%E7%AB%8B%E7%BB%98.png",
-            "https://patchwiki.biligame.com/images/sr/8/8e/j3iq2aakqbxf0i2anrhmz7xsgoof9es.png",
-            "https://patchwiki.biligame.com/images/sr/6/63/tf3cffph008r7ytghm6cp3fd0iht6b9.png",
-            "https://patchwiki.biligame.com/images/sr/8/81/728xososprmtk2tfvycszmskoh2wbz2.jpg",
-            "https://patchwiki.biligame.com/images/sr/e/e7/3g3nj62bw2ugtkueqicw8vcpro9rg8j.jpg"
-        ],
-        "chara_rarity": "5星",
-        "chara_type": "记忆",
-        "chara_element": "冰",
-        "chara_load_version": "3.0",
         "chara_size": "星, 男青年"
     },
     {
