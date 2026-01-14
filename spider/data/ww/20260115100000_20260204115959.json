@@ -1,0 +1,182 @@
+[
+    {
+        "title": "纵使星光于无穷远",
+        "type": "角色",
+        "timer": [
+            "2026-01-15 10:00:00",
+            "2026-02-04 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "莫宁-前瞻",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/51e643a4843e428a9dc58b1a608d2ab320260114.jpg",
+                "img_path": "img/ww/莫宁-前瞻.png"
+            },
+            {
+                "title": "炽霞",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/8b6a558ab4bc48bd8d63fc9fcda58b4020260114.png",
+                "img_path": "img/ww/炽霞.png"
+            },
+            {
+                "title": "散华",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/d583f7c7f36243948981284edb561a3420260114.png",
+                "img_path": "img/ww/散华.png"
+            },
+            {
+                "title": "丹瑾",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/bc7063eb34e443118bcce5a7ec987b3920260114.png",
+                "img_path": "img/ww/丹瑾.png"
+            }
+        ]
+    },
+    {
+        "title": "不坠烜冕",
+        "type": "角色",
+        "timer": [
+            "2026-01-15 10:00:00",
+            "2026-02-04 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "奥古斯塔",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/76d97134ec9f4a8293915e0b0c5ece6e20260114.jpg",
+                "img_path": "img/ww/奥古斯塔.png"
+            },
+            {
+                "title": "炽霞",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/f33f1cb8767c4f409160e435341339bf20260114.png",
+                "img_path": "img/ww/炽霞.png"
+            },
+            {
+                "title": "散华",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/b67faa6aa9034b75a671f4d97ff169e120260114.png",
+                "img_path": "img/ww/散华.png"
+            },
+            {
+                "title": "丹瑾",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/8e26913418b1481faa0b33791f6a8c9720260114.png",
+                "img_path": "img/ww/丹瑾.png"
+            }
+        ]
+    },
+    {
+        "title": "漫于盈缺时轴",
+        "type": "角色",
+        "timer": [
+            "2026-01-15 10:00:00",
+            "2026-02-04 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "尤诺",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/0ae0d5a80ee14430a47a7275f0ac2a7320260114.jpg",
+                "img_path": "img/ww/尤诺.png"
+            },
+            {
+                "title": "炽霞",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/15034ca51c8e4d8c8dcac03acae4c37f20260114.png",
+                "img_path": "img/ww/炽霞.png"
+            },
+            {
+                "title": "散华",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/6c792146010c413d96242769abbb6cf320260114.png",
+                "img_path": "img/ww/散华.png"
+            },
+            {
+                "title": "丹瑾",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/096274247d1c495e9667ddb41ac32c7920260114.png",
+                "img_path": "img/ww/丹瑾.png"
+            }
+        ]
+    },
+    {
+        "title": "宙算仪轨",
+        "type": "武器",
+        "timer": [
+            "2026-01-15 10:00:00",
+            "2026-02-04 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "溢彩荧辉",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/60abf95e560a42eba3c7abb7fc8c65c120260114.png",
+                "img_path": "img/ww/溢彩荧辉.png"
+            },
+            {
+                "title": "异响空灵",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/62515458501c4ffa8120c9033db7892220260114.png",
+                "img_path": "img/ww/异响空灵.png"
+            },
+            {
+                "title": "凋亡频移",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/e36f00af144345bbbf16318bb7ba233620260114.png",
+                "img_path": "img/ww/凋亡频移.png"
+            },
+            {
+                "title": "尘云旋臂",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/651d370b013b4b21aab0679b687921de20260114.png",
+                "img_path": "img/ww/尘云旋臂.png"
+            }
+        ]
+    },
+    {
+        "title": "驭冕铸雷之权",
+        "type": "武器",
+        "timer": [
+            "2026-01-15 10:00:00",
+            "2026-02-04 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "驭冕铸雷之权",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/eb98db4c6a46445090c1dd6e90480db420260114.png",
+                "img_path": "img/ww/驭冕铸雷之权.png"
+            },
+            {
+                "title": "异响空灵",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/b733cf211b00449e81bf600570e6c9df20260114.png",
+                "img_path": "img/ww/异响空灵.png"
+            },
+            {
+                "title": "凋亡频移",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/87747518c06a4c15acedc7363dcc733a20260114.png",
+                "img_path": "img/ww/凋亡频移.png"
+            },
+            {
+                "title": "尘云旋臂",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/607d586fd532494a8a208f2e74d8988a20260114.png",
+                "img_path": "img/ww/尘云旋臂.png"
+            }
+        ]
+    },
+    {
+        "title": "万物持存的注释",
+        "type": "武器",
+        "timer": [
+            "2026-01-15 10:00:00",
+            "2026-02-04 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "万物持存的注释",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/b0e972dafcd64c5aa0e469dab6514e4b20260114.png",
+                "img_path": "img/ww/万物持存的注释.png"
+            },
+            {
+                "title": "异响空灵",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/66b65bf0396b4a69834dbd11ee84329020260114.png",
+                "img_path": "img/ww/异响空灵.png"
+            },
+            {
+                "title": "凋亡频移",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/fc6a50c24d584543adc1622e9954967b20260114.png",
+                "img_path": "img/ww/凋亡频移.png"
+            },
+            {
+                "title": "尘云旋臂",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/e440b164491846598e67180cf100785020260114.png",
+                "img_path": "img/ww/尘云旋臂.png"
+            }
+        ]
+    }
+]
