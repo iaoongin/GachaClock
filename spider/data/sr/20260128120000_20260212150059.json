@@ -1,0 +1,122 @@
+[
+    {
+        "title": "「裁酌天命」角色活动跃迁",
+        "type": "角色",
+        "timer": [
+            "2026/01/28 12:00:00",
+            "2026/02/12 15:00:59"
+        ],
+        "gachas": [
+            {
+                "title": "阿格莱雅",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/b/b3/js5tt9qxs66y1o04vi921zmgsrt54le.png/112px-%E9%98%BF%E6%A0%BC%E8%8E%B1%E9%9B%85.png",
+                "img_path": "img/sr/阿格莱雅.png"
+            },
+            {
+                "title": "驭空",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/44/3n1jlyek8fscf4peqpttg615pvamwj0.png/112px-%E9%A9%AD%E7%A9%BA.png",
+                "img_path": "img/sr/驭空.png"
+            },
+            {
+                "title": "停云",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/4e/mjwg8u69l0h798rk9hquglyl8vut9fr.png/112px-%E5%81%9C%E4%BA%91.png",
+                "img_path": "img/sr/停云.png"
+            },
+            {
+                "title": "丹恒",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/5/50/dy9w38du3j7gr0bwmkdapzx7v2yq9xu.png/112px-%E4%B8%B9%E6%81%92.png",
+                "img_path": "img/sr/丹恒.png"
+            }
+        ]
+    },
+    {
+        "title": "「向星举目」角色活动跃迁",
+        "type": "角色",
+        "timer": [
+            "2026/01/28 12:00:00",
+            "2026/02/12 15:00:59"
+        ],
+        "gachas": [
+            {
+                "title": "星期日",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/8/8d/65lqy2112fqzq7jiaznl1bys2ito0oez.png/112px-%E6%98%9F%E6%9C%9F%E6%97%A5.png",
+                "img_path": "img/sr/星期日.png"
+            },
+            {
+                "title": "驭空",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/44/3n1jlyek8fscf4peqpttg615pvamwj0.png/112px-%E9%A9%AD%E7%A9%BA.png",
+                "img_path": "img/sr/驭空.png"
+            },
+            {
+                "title": "停云",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/4e/mjwg8u69l0h798rk9hquglyl8vut9fr.png/112px-%E5%81%9C%E4%BA%91.png",
+                "img_path": "img/sr/停云.png"
+            },
+            {
+                "title": "丹恒",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/5/50/dy9w38du3j7gr0bwmkdapzx7v2yq9xu.png/112px-%E4%B8%B9%E6%81%92.png",
+                "img_path": "img/sr/丹恒.png"
+            }
+        ]
+    },
+    {
+        "title": "「流光定影」光锥活动跃迁",
+        "type": "武器",
+        "timer": [
+            "2026/01/28 12:00:00",
+            "2026/02/12 15:00:59"
+        ],
+        "gachas": [
+            {
+                "title": "将光阴织成黄金",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/f/ff/6hiv3esq6merfws803g9uqkvh288d0c.png/112px-%E5%B0%86%E5%85%89%E9%98%B4%E7%BB%87%E6%88%90%E9%BB%84%E9%87%91.png",
+                "img_path": "img/sr/将光阴织成黄金.png"
+            },
+            {
+                "title": "天才们的问候",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/2/27/85gq1ozd2998q064cek1ylowv3sb17n.png/112px-%E5%A4%A9%E6%89%8D%E4%BB%AC%E7%9A%84%E9%97%AE%E5%80%99.png",
+                "img_path": "img/sr/天才们的问候.png"
+            },
+            {
+                "title": "宇宙市场趋势",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/e/e9/svwdk3yfbv6mvpn7ev4ajj3ew152e52.png/112px-%E5%AE%87%E5%AE%99%E5%B8%82%E5%9C%BA%E8%B6%8B%E5%8A%BF.png",
+                "img_path": "img/sr/宇宙市场趋势.png"
+            },
+            {
+                "title": "舞！舞！舞！",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/2/20/n77c807w9321r1muyp0jf58ljujf48a.png/112px-%E8%88%9E%EF%BC%81%E8%88%9E%EF%BC%81%E8%88%9E%EF%BC%81.png",
+                "img_path": "img/sr/舞！舞！舞！.png"
+            }
+        ]
+    },
+    {
+        "title": "「溯回忆象」光锥活动跃迁",
+        "type": "武器",
+        "timer": [
+            "2026/01/28 12:00:00",
+            "2026/02/12 15:00:59"
+        ],
+        "gachas": [
+            {
+                "title": "回到大地的飞行",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/6/6c/9u705gmkt4im18pajxkl8nspivu7x27.png/112px-%E5%9B%9E%E5%88%B0%E5%A4%A7%E5%9C%B0%E7%9A%84%E9%A3%9E%E8%A1%8C.png",
+                "img_path": "img/sr/回到大地的飞行.png"
+            },
+            {
+                "title": "天才们的问候",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/2/27/85gq1ozd2998q064cek1ylowv3sb17n.png/112px-%E5%A4%A9%E6%89%8D%E4%BB%AC%E7%9A%84%E9%97%AE%E5%80%99.png",
+                "img_path": "img/sr/天才们的问候.png"
+            },
+            {
+                "title": "宇宙市场趋势",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/e/e9/svwdk3yfbv6mvpn7ev4ajj3ew152e52.png/112px-%E5%AE%87%E5%AE%99%E5%B8%82%E5%9C%BA%E8%B6%8B%E5%8A%BF.png",
+                "img_path": "img/sr/宇宙市场趋势.png"
+            },
+            {
+                "title": "舞！舞！舞！",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/2/20/n77c807w9321r1muyp0jf58ljujf48a.png/112px-%E8%88%9E%EF%BC%81%E8%88%9E%EF%BC%81%E8%88%9E%EF%BC%81.png",
+                "img_path": "img/sr/舞！舞！舞！.png"
+            }
+        ]
+    }
+]
