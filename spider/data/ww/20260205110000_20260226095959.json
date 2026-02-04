@@ -1,0 +1,182 @@
+[
+    {
+        "title": "飞星自春天启航 ",
+        "type": "角色",
+        "timer": [
+            "2026-02-05 11:00:00",
+            "2026-02-26 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "爱弥斯-前瞻",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/221b9a0a53b148428c4e10df6c5b987d20260204.jpg",
+                "img_path": "img/ww/爱弥斯-前瞻.png"
+            },
+            {
+                "title": "莫特斐",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/8f7b4b082e7949d683d49298c88c8e7f20260204.png",
+                "img_path": "img/ww/莫特斐.png"
+            },
+            {
+                "title": "桃祈",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/44fc4bed46ba4c28bc034fcf8940deec20260204.png",
+                "img_path": "img/ww/桃祈.png"
+            },
+            {
+                "title": "秋水",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/5875bd5e82cc46c385c92635481aef0c20260204.png",
+                "img_path": "img/ww/秋水.png"
+            }
+        ]
+    },
+    {
+        "title": "曙暮一线之间",
+        "type": "角色",
+        "timer": [
+            "2026-02-05 11:00:00",
+            "2026-02-26 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "千咲",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/b193d612ec4e4f1c937cf35438b029cb20260204.jpg",
+                "img_path": "img/ww/千咲.png"
+            },
+            {
+                "title": "莫特斐",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/59cc7afb291d4001ae092367ed996c7f20260204.png",
+                "img_path": "img/ww/莫特斐.png"
+            },
+            {
+                "title": "桃祈",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/b98d7d0c9e01432ea8c2287db063d2c520260204.png",
+                "img_path": "img/ww/桃祈.png"
+            },
+            {
+                "title": "秋水",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/5c252f1702654a25b8664e4ec704d05c20260204.png",
+                "img_path": "img/ww/秋水.png"
+            }
+        ]
+    },
+    {
+        "title": "胜利为我喝彩",
+        "type": "角色",
+        "timer": [
+            "2026-02-05 11:00:00",
+            "2026-02-26 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "露帕",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/befc3923023146a9a0a405e943fed19c20260204.png",
+                "img_path": "img/ww/露帕.png"
+            },
+            {
+                "title": "莫特斐",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/e5b13f3f9cea4301910b3b8b8e83e1c220260204.png",
+                "img_path": "img/ww/莫特斐.png"
+            },
+            {
+                "title": "桃祈",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/37cf723d491a4b6b96bdc7d04177a80320260204.png",
+                "img_path": "img/ww/桃祈.png"
+            },
+            {
+                "title": "秋水",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/119d9d39947b427680c2219e8c409df720260204.png",
+                "img_path": "img/ww/秋水.png"
+            }
+        ]
+    },
+    {
+        "title": "永远的启明星",
+        "type": "武器",
+        "timer": [
+            "2026-02-05 11:00:00",
+            "2026-02-26 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "宙算仪轨",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/ea41a58ecc4e4a9487a5922cbe20929b20260204.png",
+                "img_path": "img/ww/宙算仪轨.png"
+            },
+            {
+                "title": "不归孤军",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/8be691860c4a462fb89b744ec0de574e20260204.png",
+                "img_path": "img/ww/不归孤军.png"
+            },
+            {
+                "title": "凋亡频移",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/e36f00af144345bbbf16318bb7ba233620260114.png",
+                "img_path": "img/ww/凋亡频移.png"
+            },
+            {
+                "title": "华彩乐段",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/5d4206bd7e6641f592d5e37c31b8282c20260204.png",
+                "img_path": "img/ww/华彩乐段.png"
+            }
+        ]
+    },
+    {
+        "title": "昙切",
+        "type": "武器",
+        "timer": [
+            "2026-02-05 11:00:00",
+            "2026-02-26 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "昙切",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/27bf6ca0f698497abeb2d2b8e395818120260204.png",
+                "img_path": "img/ww/昙切.png"
+            },
+            {
+                "title": "不归孤军",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/e6b8b7cc23bd4a039da8934b3efd976220260204.png",
+                "img_path": "img/ww/不归孤军.png"
+            },
+            {
+                "title": "凋亡频移",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/87747518c06a4c15acedc7363dcc733a20260114.png",
+                "img_path": "img/ww/凋亡频移.png"
+            },
+            {
+                "title": "华彩乐段",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/26b33bb0eaa3416bb3f15e2ac32d8d4320260204.png",
+                "img_path": "img/ww/华彩乐段.png"
+            }
+        ]
+    },
+    {
+        "title": "焰痕",
+        "type": "武器",
+        "timer": [
+            "2026-02-05 11:00:00",
+            "2026-02-26 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "焰痕",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/21151c6b42c240119c723b5bc8b20b2420260204.png",
+                "img_path": "img/ww/焰痕.png"
+            },
+            {
+                "title": "不归孤军",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/c393efc78f5f4af99a3c308df33a2fbd20260204.png",
+                "img_path": "img/ww/不归孤军.png"
+            },
+            {
+                "title": "凋亡频移",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/fc6a50c24d584543adc1622e9954967b20260114.png",
+                "img_path": "img/ww/凋亡频移.png"
+            },
+            {
+                "title": "华彩乐段",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/9e2992b3d1654138996cd9b386e1fcbe20260204.png",
+                "img_path": "img/ww/华彩乐段.png"
+            }
+        ]
+    }
+]
