@@ -1,0 +1,112 @@
+[
+    {
+        "title": "「光映千翎」角色活动跃迁",
+        "type": "角色",
+        "timer": [
+            "2026/02/13:00",
+            "2026/03/24 15:00:59"
+        ],
+        "gachas": [
+            {
+                "title": "爻光",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/d/dd/g9zc7p0op80hxgy12p7pgbot8wof7bt.png/112px-%E7%88%BB%E5%85%89.png",
+                "img_path": "img/sr/爻光.png"
+            },
+            {
+                "title": "佩拉",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/48/0yerfr40s6ls15ousv1pu8clfeeur5j.png/112px-%E4%BD%A9%E6%8B%89.png",
+                "img_path": "img/sr/佩拉.png"
+            },
+            {
+                "title": "寒鸦",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/2/2a/4wcmkrfx62ngkpa260kjr20dtjk7ctp.png/112px-%E5%AF%92%E9%B8%A6.png",
+                "img_path": "img/sr/寒鸦.png"
+            },
+            {
+                "title": "青雀",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/40/szkhonn9zbsqwp4fd3g4t88a5mdo94w.png/112px-%E9%9D%92%E9%9B%80.png",
+                "img_path": "img/sr/青雀.png"
+            }
+        ]
+    },
+    {
+        "title": "「铭心之萃•长夜月、海瑟音、黑天鹅」角色活动跃迁",
+        "type": "角色",
+        "timer": [
+            "2026/02/13:00",
+            "2026/03/03 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "长夜月",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/6/6c/qa8t3g4e1iyx0k8mc6gj6nmblljhgoj.png/112px-%E9%95%BF%E5%A4%9C%E6%9C%88.png",
+                "img_path": "img/sr/长夜月.png"
+            },
+            {
+                "title": "海瑟音",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/5/54/mukowg0x3h5ctho5ds5mmby4msrrhhf.png/112px-%E6%B5%B7%E7%91%9F%E9%9F%B3.png",
+                "img_path": "img/sr/海瑟音.png"
+            },
+            {
+                "title": "黑天鹅",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/b/b8/qrev74l35vj8n7kwpcpr8ud9b41ni1a.png/112px-%E9%BB%91%E5%A4%A9%E9%B9%85.png",
+                "img_path": "img/sr/黑天鹅.png"
+            }
+        ]
+    },
+    {
+        "title": "「流光定影」光锥活动跃迁",
+        "type": "武器",
+        "timer": [
+            "2026/02/13:00",
+            "2026/03/24 15:00:59"
+        ],
+        "gachas": [
+            {
+                "title": "当她决定看见",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/1/14/n0ysea89xw6wdsu4utz3tuj8wumfjmx.png/112px-%E5%BD%93%E5%A5%B9%E5%86%B3%E5%AE%9A%E7%9C%8B%E8%A7%81.png",
+                "img_path": "img/sr/当她决定看见.png"
+            },
+            {
+                "title": "与行星相会",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/0/00/l66yszhlv3n1qhxpow938qguf557tc1.png/112px-%E4%B8%8E%E8%A1%8C%E6%98%9F%E7%9B%B8%E4%BC%9A.png",
+                "img_path": "img/sr/与行星相会.png"
+            },
+            {
+                "title": "决心如汗珠般闪耀",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/e/ee/76qzyt2plgt6nofk9hivkpj5o36ilqk.png/112px-%E5%86%B3%E5%BF%83%E5%A6%82%E6%B1%97%E7%8F%A0%E8%88%AC%E9%97%AA%E8%80%80.png",
+                "img_path": "img/sr/决心如汗珠般闪耀.png"
+            },
+            {
+                "title": "故事的下一页",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/8/85/g0icttfnclt0aek7irr63npsvrlgdl2.png/112px-%E6%95%85%E4%BA%8B%E7%9A%84%E4%B8%8B%E4%B8%80%E9%A1%B5.png",
+                "img_path": "img/sr/故事的下一页.png"
+            }
+        ]
+    },
+    {
+        "title": "「真意之汇」光锥活动跃迁",
+        "type": "武器",
+        "timer": [
+            "2026/02/13:00",
+            "2026/03/03 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "致长夜的星光",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/0/05/4xatse14l9zqx8778ne2fakwn9n58kf.png/112px-%E8%87%B4%E9%95%BF%E5%A4%9C%E7%9A%84%E6%98%9F%E5%85%89.png",
+                "img_path": "img/sr/致长夜的星光.png"
+            },
+            {
+                "title": "海洋为何而歌",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/0/0b/ij2ybk71rf7huf2s2sb6hg4qtlaz3rd.png/112px-%E6%B5%B7%E6%B4%8B%E4%B8%BA%E4%BD%95%E8%80%8C%E6%AD%8C.png",
+                "img_path": "img/sr/海洋为何而歌.png"
+            },
+            {
+                "title": "重塑时光之忆",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/6/60/1dqan418sbv4dtlcusymmi1rmtzgjrl.png/112px-%E9%87%8D%E5%A1%91%E6%97%B6%E5%85%89%E4%B9%8B%E5%BF%86.png",
+                "img_path": "img/sr/重塑时光之忆.png"
+            }
+        ]
+    }
+]
