@@ -582,6 +582,20 @@
         "chara_size": "女青年"
     },
     {
+        "title": "火花",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/4/44/d5rigkvtozl23deyi6mt4ho3dl7pqb4.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/thumb/e/ee/63hqon3na14jkwbtm547evvxfeirli9.png/900px-%E7%81%AB%E8%8A%B1%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/d/d8/f6onpi3g45wi9pxamzlnml6b1dnl0n9.png",
+            "https://patchwiki.biligame.com/images/sr/5/58/8027d5my7vzuywbbnkl7rydnwzl517a.jpg"
+        ],
+        "chara_rarity": "5星",
+        "chara_type": "欢愉",
+        "chara_element": "火",
+        "chara_load_version": "4.0",
+        "chara_size": "少女"
+    },
+    {
         "title": "灵砂",
         "simple_img": "https://patchwiki.biligame.com/images/sr/e/e9/8xut1ehdahe74l9sllyq5s0292kc8a3.png",
         "promotion_img": [
