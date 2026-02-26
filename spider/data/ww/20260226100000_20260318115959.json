@@ -1,0 +1,122 @@
+[
+    {
+        "title": "逾此长冬 ",
+        "type": "角色",
+        "timer": [
+            "2026-02-26 10:00:00",
+            "2026-03-18 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "陆·赫斯",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/dede47af101a4ceb8b03e311adabf69720260225.jpg",
+                "img_path": "img/ww/陆·赫斯.png"
+            },
+            {
+                "title": "散华",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/9aa90d856e034aa59babd159cbd742c220260225.png",
+                "img_path": "img/ww/散华.png"
+            },
+            {
+                "title": "灯灯",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/cce9064501ed440281ea486535fad45220260225.png",
+                "img_path": "img/ww/灯灯.png"
+            },
+            {
+                "title": "渊武",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/ea2511afd79546d0970ed2c643f5931a20260225.png",
+                "img_path": "img/ww/渊武.png"
+            }
+        ]
+    },
+    {
+        "title": "于灰烬中",
+        "type": "角色",
+        "timer": [
+            "2026-02-26 10:00:00",
+            "2026-03-18 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "嘉贝莉娜",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/416570bfd7c74700b9ae8e9da6f0c15220260225.jpg",
+                "img_path": "img/ww/嘉贝莉娜.png"
+            },
+            {
+                "title": "散华",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/7c126c227111455b8b019da009a915c420260225.png",
+                "img_path": "img/ww/散华.png"
+            },
+            {
+                "title": "灯灯",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/6a7130909172475692be6d6a34e37e3720260225.png",
+                "img_path": "img/ww/灯灯.png"
+            },
+            {
+                "title": "渊武",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/e28a459d01ad4bd4a3956729717f012920260225.png",
+                "img_path": "img/ww/渊武.png"
+            }
+        ]
+    },
+    {
+        "title": "白昼之脊",
+        "type": "武器",
+        "timer": [
+            "2026-02-26 10:00:00",
+            "2026-03-18 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "白昼之脊",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/9fdcb479a2094e91b061a971d2a6438820260225.png",
+                "img_path": "img/ww/白昼之脊.png"
+            },
+            {
+                "title": "骇行",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/ef300ecac7dc4158b6cb1f4a26834ea520260225.png",
+                "img_path": "img/ww/骇行.png"
+            },
+            {
+                "title": "今州守望",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/089f90ffcff4456791ef3eb6d3afe37e20260225.png",
+                "img_path": "img/ww/今州守望.png"
+            },
+            {
+                "title": "行进序曲",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/c08a29a58966471786283b01b4fa1e9920260225.png",
+                "img_path": "img/ww/行进序曲.png"
+            }
+        ]
+    },
+    {
+        "title": "光影双生",
+        "type": "武器",
+        "timer": [
+            "2026-02-26 10:00:00",
+            "2026-03-18 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "光影双生",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/725ba27b6394442d9eea4cbc891c938420260225.png",
+                "img_path": "img/ww/光影双生.png"
+            },
+            {
+                "title": "骇行",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/b40015a27e744df0b61624e497d947c920260225.png",
+                "img_path": "img/ww/骇行.png"
+            },
+            {
+                "title": "今州守望",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/2096a64e03de4e11a1248c873cd22b6f20260225.png",
+                "img_path": "img/ww/今州守望.png"
+            },
+            {
+                "title": "行进序曲",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/fad38709502a42169ddcb5a90537600c20260225.png",
+                "img_path": "img/ww/行进序曲.png"
+            }
+        ]
+    }
+]
