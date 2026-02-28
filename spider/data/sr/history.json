@@ -141,7 +141,7 @@
     },
     {
         "img": "https://patchwiki.biligame.com/images/sr/1/1d/424b0ajam5gj21i9hh8xg9jotjc3vnt.png",
-        "title": "「铭心之萃•波提欧」032-2期角色活动跃迁",
+        "title": "「铭心之萃•波提欧、知更鸟、银狼」032-2期角色活动跃迁",
         "type": "角色",
         "version": "3.0下半",
         "timer": "2025/02/05 12:00 ~ 2025/02/25 15:00",
@@ -151,7 +151,7 @@
             "寒鸦",
             "素裳"
         ],
-        "img_path": "img/sr/history/「铭心之萃•波提欧」032-2期角色活动跃迁.png"
+        "img_path": "img/sr/history/「铭心之萃•波提欧、知更鸟、银狼」032-2期角色活动跃迁.png"
     },
     {
         "img": "https://patchwiki.biligame.com/images/sr/3/3d/kie1orxhv16la1g9laaglakjwlq80w1.png",
@@ -166,62 +166,6 @@
             "舞！舞！舞！"
         ],
         "img_path": "img/sr/history/「真意之汇」032-2期光锥活动跃迁.png"
-    },
-    {
-        "img": "https://patchwiki.biligame.com/images/sr/5/57/9hcx74cvo6fbuoprulgwpigvs4reoyf.png",
-        "title": "「铭心之萃•知更鸟」032-3期角色活动跃迁",
-        "type": "角色",
-        "version": "3.0下半",
-        "timer": "2025/02/05 12:00 ~ 2025/02/25 15:00",
-        "s": "知更鸟",
-        "a": [
-            "停云",
-            "寒鸦",
-            "素裳"
-        ],
-        "img_path": "img/sr/history/「铭心之萃•知更鸟」032-3期角色活动跃迁.png"
-    },
-    {
-        "img": "https://patchwiki.biligame.com/images/sr/7/77/iit0go90o583dnydwqp3p7ks0ff60k3.png",
-        "title": "「真意之汇」032-3期光锥活动跃迁",
-        "type": "武器",
-        "version": "3.0下半",
-        "timer": "2025/02/05 12:00 ~ 2025/02/25 15:00",
-        "s": "夜色流光溢彩",
-        "a": [
-            "天才们的问候",
-            "点个关注吧！",
-            "舞！舞！舞！"
-        ],
-        "img_path": "img/sr/history/「真意之汇」032-3期光锥活动跃迁.png"
-    },
-    {
-        "img": "https://patchwiki.biligame.com/images/sr/a/a3/ntpo906a883tl58y743pwojvhpt7y4j.png",
-        "title": "「铭心之萃•银狼」032-4期角色活动跃迁",
-        "type": "角色",
-        "version": "3.0下半",
-        "timer": "2025/02/05 12:00 ~ 2025/02/25 15:00",
-        "s": "银狼",
-        "a": [
-            "停云",
-            "寒鸦",
-            "素裳"
-        ],
-        "img_path": "img/sr/history/「铭心之萃•银狼」032-4期角色活动跃迁.png"
-    },
-    {
-        "img": "https://patchwiki.biligame.com/images/sr/f/fb/qvom5ljww6yh1odt7xog9ib3h642ebf.png",
-        "title": "「真意之汇」032-4期光锥活动跃迁",
-        "type": "武器",
-        "version": "3.0下半",
-        "timer": "2025/02/05 12:00 ~ 2025/02/25 15:00",
-        "s": "雨一直下",
-        "a": [
-            "天才们的问候",
-            "点个关注吧！",
-            "舞！舞！舞！"
-        ],
-        "img_path": "img/sr/history/「真意之汇」032-4期光锥活动跃迁.png"
     },
     {
         "img": "https://patchwiki.biligame.com/images/sr/2/27/j9de2tvbtmyekvjt8ro3mjojc9io7a5.png",
@@ -253,7 +197,7 @@
     },
     {
         "img": "https://patchwiki.biligame.com/images/sr/6/65/b9jp3efibafjyntthtr4ywkfze2f0h0.png",
-        "title": "「铭心之萃•灵砂」031-2期角色活动跃迁",
+        "title": "「铭心之萃•灵砂、飞霄、翡翠」031-2期角色活动跃迁",
         "type": "角色",
         "version": "3.0上半",
         "timer": "3.0版本更新后 ~ 2025/02/05 11:59",
@@ -263,7 +207,7 @@
             "艾丝妲",
             "貊泽"
         ],
-        "img_path": "img/sr/history/「铭心之萃•灵砂」031-2期角色活动跃迁.png"
+        "img_path": "img/sr/history/「铭心之萃•灵砂、飞霄、翡翠」031-2期角色活动跃迁.png"
     },
     {
         "img": "https://patchwiki.biligame.com/images/sr/a/a5/kytwgwl5pr9n1jhleeufmqfdk37h3yy.png",
@@ -278,62 +222,6 @@
             "朗道的选择"
         ],
         "img_path": "img/sr/history/「真意之汇」031-2期光锥活动跃迁.png"
-    },
-    {
-        "img": "https://patchwiki.biligame.com/images/sr/2/23/fzy5ivufrrbncn7xkh1qfg59fqcshlg.png",
-        "title": "「铭心之萃•飞霄」031-3期角色活动跃迁",
-        "type": "角色",
-        "version": "3.0上半",
-        "timer": "3.0版本更新后 ~ 2025/02/05 11:59",
-        "s": "飞霄",
-        "a": [
-            "娜塔莎",
-            "艾丝妲",
-            "貊泽"
-        ],
-        "img_path": "img/sr/history/「铭心之萃•飞霄」031-3期角色活动跃迁.png"
-    },
-    {
-        "img": "https://patchwiki.biligame.com/images/sr/5/57/7z9w6vhra86cximlaif76g08pg2pjxf.png",
-        "title": "「真意之汇」031-3期光锥活动跃迁",
-        "type": "武器",
-        "version": "3.0上半",
-        "timer": "3.0版本更新后 ~ 2025/02/05 11:59",
-        "s": "我将，巡征追猎",
-        "a": [
-            "唯有沉默",
-            "天才们的休憩",
-            "朗道的选择"
-        ],
-        "img_path": "img/sr/history/「真意之汇」031-3期光锥活动跃迁.png"
-    },
-    {
-        "img": "https://patchwiki.biligame.com/images/sr/d/db/3pe70nrnr9uhdfommi97rc74s22icur.png",
-        "title": "「铭心之萃•翡翠」031-4期角色活动跃迁",
-        "type": "角色",
-        "version": "3.0上半",
-        "timer": "3.0版本更新后 ~ 2025/02/05 11:59",
-        "s": "翡翠",
-        "a": [
-            "娜塔莎",
-            "艾丝妲",
-            "貊泽"
-        ],
-        "img_path": "img/sr/history/「铭心之萃•翡翠」031-4期角色活动跃迁.png"
-    },
-    {
-        "img": "https://patchwiki.biligame.com/images/sr/2/2d/r3ozewywf1s7tiqousxh31zw6kc8xkh.png",
-        "title": "「真意之汇」031-4期光锥活动跃迁",
-        "type": "武器",
-        "version": "3.0上半",
-        "timer": "3.0版本更新后 ~ 2025/02/05 11:59",
-        "s": "偏偏希望无价",
-        "a": [
-            "唯有沉默",
-            "天才们的休憩",
-            "朗道的选择"
-        ],
-        "img_path": "img/sr/history/「真意之汇」031-4期光锥活动跃迁.png"
     },
     {
         "img": "https://patchwiki.biligame.com/images/sr/thumb/d/da/ek42vy1z2t8euqrsa825gezs44h8sqi.png/900px-%E8%B7%83%E8%BF%81030-1%E6%9C%9F.png.jpeg",
@@ -645,7 +533,7 @@
     },
     {
         "img": "https://patchwiki.biligame.com/images/sr/thumb/3/3d/4cjctbwh1lhjtdd1s391cqc7r0mwo64.png/900px-%E8%B7%83%E8%BF%81025-2%E6%9C%9F.png.jpeg",
-        "title": "「铭心之萃•卡芙卡」025-2期角色活动跃迁",
+        "title": "「铭心之萃•卡芙卡、黑天鹅、知更鸟」025-2期角色活动跃迁",
         "type": "角色",
         "version": "2.5上半",
         "timer": "2.5版本更新后 ~ 2024/10/02 11:59",
@@ -655,7 +543,7 @@
             "艾丝妲",
             "貊泽"
         ],
-        "img_path": "img/sr/history/「铭心之萃•卡芙卡」025-2期角色活动跃迁.png"
+        "img_path": "img/sr/history/「铭心之萃•卡芙卡、黑天鹅、知更鸟」025-2期角色活动跃迁.png"
     },
     {
         "img": "https://patchwiki.biligame.com/images/sr/thumb/6/68/cgstab8m1v633gw7ogq8fkzrphwn8ox.png/900px-%E8%B7%83%E8%BF%81025-2%E6%9C%9F%E5%85%89%E9%94%A5.png.jpeg",
@@ -670,62 +558,6 @@
             "论剑"
         ],
         "img_path": "img/sr/history/「真意之汇」025-2期光锥活动跃迁.png"
-    },
-    {
-        "img": "https://patchwiki.biligame.com/images/sr/thumb/1/1d/8qll3sof6iwcmmtrzzrijd1yoglfgq7.png/900px-%E8%B7%83%E8%BF%81025-3%E6%9C%9F.png.jpeg",
-        "title": "「铭心之萃•黑天鹅」025-3期角色活动跃迁",
-        "type": "角色",
-        "version": "2.5上半",
-        "timer": "2.5版本更新后 ~ 2024/10/02 11:59",
-        "s": "黑天鹅",
-        "a": [
-            "卢卡",
-            "艾丝妲",
-            "貊泽"
-        ],
-        "img_path": "img/sr/history/「铭心之萃•黑天鹅」025-3期角色活动跃迁.png"
-    },
-    {
-        "img": "https://patchwiki.biligame.com/images/sr/thumb/4/4f/dflj8361od07xhyfcq0oxvza7nvm6wc.png/900px-%E8%B7%83%E8%BF%81025-3%E6%9C%9F%E5%85%89%E9%94%A5.png.jpeg",
-        "title": "「真意之汇」025-3期光锥活动跃迁",
-        "type": "武器",
-        "version": "2.5上半",
-        "timer": "2.5版本更新后 ~ 2024/10/02 11:59",
-        "s": "重塑时光之忆",
-        "a": [
-            "「我」的诞生",
-            "决心如汗珠般闪耀",
-            "论剑"
-        ],
-        "img_path": "img/sr/history/「真意之汇」025-3期光锥活动跃迁.png"
-    },
-    {
-        "img": "https://patchwiki.biligame.com/images/sr/thumb/6/66/c6y3fh65ciryjwo1n23wmshqilvcecn.png/900px-%E8%B7%83%E8%BF%81025-4%E6%9C%9F.png.jpeg",
-        "title": "「铭心之萃•知更鸟」025-4期角色活动跃迁",
-        "type": "角色",
-        "version": "2.5上半",
-        "timer": "2.5版本更新后 ~ 2024/10/02 11:59",
-        "s": "知更鸟",
-        "a": [
-            "卢卡",
-            "艾丝妲",
-            "貊泽"
-        ],
-        "img_path": "img/sr/history/「铭心之萃•知更鸟」025-4期角色活动跃迁.png"
-    },
-    {
-        "img": "https://patchwiki.biligame.com/images/sr/thumb/a/ac/royfq4rcumot0ek6uv6wjywx7xy9zwi.png/900px-%E8%B7%83%E8%BF%81025-4%E6%9C%9F%E5%85%89%E9%94%A5.png.jpeg",
-        "title": "「真意之汇」025-4期光锥活动跃迁",
-        "type": "武器",
-        "version": "2.5上半",
-        "timer": "2.5版本更新后 ~ 2024/10/02 11:59",
-        "s": "夜色流光溢彩",
-        "a": [
-            "「我」的诞生",
-            "决心如汗珠般闪耀",
-            "论剑"
-        ],
-        "img_path": "img/sr/history/「真意之汇」025-4期光锥活动跃迁.png"
     },
     {
         "img": "https://patchwiki.biligame.com/images/sr/thumb/9/9a/hq2r7tm628hgatrhd6bazm5g0tkk92h.png/900px-%E8%B7%83%E8%BF%81024-1%E6%9C%9F.png.jpeg",
