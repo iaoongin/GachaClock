@@ -58,6 +58,11 @@
         ],
         "gachas": [
             {
+                "title": "壳中之灵",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/b/b8/au958mslgqhpwznjx4leulgfaf5238c.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E5%A3%B3%E4%B8%AD%E4%B9%8B%E7%81%B5.png",
+                "img_path": "img/zzz/壳中之灵.png"
+            },
+            {
                 "title": "旋钻机-赤轴",
                 "img": "https://patchwiki.biligame.com/images/zzz/thumb/2/2c/axf42gs36w3h779emro0jhbh4ltgarj.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E6%97%8B%E9%92%BB%E6%9C%BA-%E8%B5%A4%E8%BD%B4.png",
                 "img_path": "img/zzz/旋钻机-赤轴.png"
