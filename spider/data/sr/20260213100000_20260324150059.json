@@ -30,46 +30,26 @@
         ]
     },
     {
-        "title": "「狂欢企划」角色活动跃迁, 「长夜狩影」角色活动跃迁",
+        "title": "「狂欢企划」角色活动跃迁",
         "type": "角色",
         "timer": [
-            "2026/03/03 12:00, 2026/03/25 10:00:00",
-            "2026/03/24 15:00, 2026/04/21 15:00:59"
+            "2026/03/03 12:00:00",
+            "2026/03/24 15:00:59"
         ],
         "gachas": [
             {
                 "title": "火花",
                 "img": "https://patchwiki.biligame.com/images/sr/thumb/1/1d/guxpvan8rcg0hoy9rv9upi4kw60kd8z.png/112px-%E7%81%AB%E8%8A%B1.png",
                 "img_path": "img/sr/火花.png"
-            },
-            {
-                "title": "不死途",
-                "img": "https://patchwiki.biligame.com/images/sr/thumb/0/04/oha65dklgc3lfjlmazp0t5la8bdkqll.png/112px-%E4%B8%8D%E6%AD%BB%E9%80%94.png",
-                "img_path": "img/sr/不死途.png"
-            },
-            {
-                "title": "艾丝妲",
-                "img": "https://patchwiki.biligame.com/images/sr/thumb/b/bf/st0z27ry91aovv8okirwqtbhwygaex7.png/112px-%E8%89%BE%E4%B8%9D%E5%A6%B2.png",
-                "img_path": "img/sr/艾丝妲.png"
-            },
-            {
-                "title": "貊泽",
-                "img": "https://patchwiki.biligame.com/images/sr/thumb/6/61/rkegujumye2mz2bddqhg976ijosbv0k.png/112px-%E8%B2%8A%E6%B3%BD.png",
-                "img_path": "img/sr/貊泽.png"
-            },
-            {
-                "title": "米沙",
-                "img": "https://patchwiki.biligame.com/images/sr/thumb/b/b4/kdjdbpwwvnyrrtap9bv06svosz0z4a3.png/112px-%E7%B1%B3%E6%B2%99.png",
-                "img_path": "img/sr/米沙.png"
             }
         ]
     },
     {
-        "title": "「铭心之萃•刻律德菈、乱破、花火」角色活动跃迁, 「虹隽晨昏」角色活动跃迁",
+        "title": "「铭心之萃•刻律德菈、乱破、花火」角色活动跃迁",
         "type": "角色",
         "timer": [
-            "2026/03/03 12:00, 2026/03/25 10:00:00",
-            "2026/03/24 15:00, 2026/04/08 11:59:59"
+            "2026/03/03 12:00:00",
+            "2026/03/24 15:00:59"
         ],
         "gachas": [
             {
@@ -86,11 +66,6 @@
                 "title": "花火",
                 "img": "https://patchwiki.biligame.com/images/sr/thumb/9/90/jf5yte1ote51iepifi8i75wifww5ybe.png/112px-%E8%8A%B1%E7%81%AB.png",
                 "img_path": "img/sr/花火.png"
-            },
-            {
-                "title": "风堇",
-                "img": "https://patchwiki.biligame.com/images/sr/thumb/f/fe/btad3oegk6v46b3xswvvtl370ib8zbm.png/112px-%E9%A3%8E%E5%A0%87.png",
-                "img_path": "img/sr/风堇.png"
             }
         ]
     },
@@ -128,38 +103,23 @@
         "title": "「流光定影」光锥活动跃迁",
         "type": "武器",
         "timer": [
-            "2026/03/03 12:00, 2026/03/25 10:00:00",
-            "2026/03/24 15:00, 2026/04/21 15:00:59"
+            "2026/03/03 12:00:00",
+            "2026/03/24 15:00:59"
         ],
         "gachas": [
             {
                 "title": "花花世界迷人眼",
                 "img": "https://patchwiki.biligame.com/images/sr/thumb/f/f3/cgd7w378smjzdhfvjgrrgzctwj64zur.png/112px-%E8%8A%B1%E8%8A%B1%E4%B8%96%E7%95%8C%E8%BF%B7%E4%BA%BA%E7%9C%BC.png",
                 "img_path": "img/sr/花花世界迷人眼.png"
-            },
-            {
-                "title": "别让世界静下来",
-                "img": "https://patchwiki.biligame.com/images/sr/thumb/7/77/mhy5r1wuw1t7afrq79839ltm8h49uhn.png/112px-%E5%88%AB%E8%AE%A9%E4%B8%96%E7%95%8C%E9%9D%99%E4%B8%8B%E6%9D%A5.png",
-                "img_path": "img/sr/别让世界静下来.png"
-            },
-            {
-                "title": "梦的蒙太奇",
-                "img": "https://patchwiki.biligame.com/images/sr/thumb/d/dd/fem95c444i5dl6iknqg29lquwo7kp34.png/112px-%E6%A2%A6%E7%9A%84%E8%92%99%E5%A4%AA%E5%A5%87.png",
-                "img_path": "img/sr/梦的蒙太奇.png"
-            },
-            {
-                "title": "黑夜如影随行",
-                "img": "https://patchwiki.biligame.com/images/sr/thumb/6/62/s0xr2i4njbtkpzbgl16vkg26kb5c47l.png/112px-%E9%BB%91%E5%A4%9C%E5%A6%82%E5%BD%B1%E9%9A%8F%E8%A1%8C.png",
-                "img_path": "img/sr/黑夜如影随行.png"
             }
         ]
     },
     {
-        "title": "「真意之汇」光锥活动跃迁, 「溯回忆象」光锥活动跃迁",
+        "title": "「真意之汇」光锥活动跃迁",
         "type": "武器",
         "timer": [
-            "2026/03/03 12:00, 2026/03/25 10:00:00",
-            "2026/03/24 15:00, 2026/04/08 11:59:59"
+            "2026/03/03 12:00:00",
+            "2026/03/24 15:00:59"
         ],
         "gachas": [
             {
@@ -176,11 +136,6 @@
                 "title": "游戏尘寰",
                 "img": "https://patchwiki.biligame.com/images/sr/thumb/4/40/cjkwkkdlpbyfu5rh292fgc5dl8c09wj.png/112px-%E6%B8%B8%E6%88%8F%E5%B0%98%E5%AF%B0.png",
                 "img_path": "img/sr/游戏尘寰.png"
-            },
-            {
-                "title": "愿虹光永驻天空",
-                "img": "https://patchwiki.biligame.com/images/sr/thumb/c/c2/3ntgy78x59gaxaaerxxm4ud0t179dxu.png/112px-%E6%84%BF%E8%99%B9%E5%85%89%E6%B0%B8%E9%A9%BB%E5%A4%A9%E7%A9%BA.png",
-                "img_path": "img/sr/愿虹光永驻天空.png"
             }
         ]
     }
