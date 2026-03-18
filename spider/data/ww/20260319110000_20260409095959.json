@@ -1,0 +1,122 @@
+[
+    {
+        "title": "符文烁醒之刻",
+        "type": "角色",
+        "timer": [
+            "2026-03-19 11:00:00",
+            "2026-04-09 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "西格莉卡",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/7cc3049bd920437eb97641bf24970c1820260318.jpg",
+                "img_path": "img/ww/西格莉卡.png"
+            },
+            {
+                "title": "散华",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/9aa90d856e034aa59babd159cbd742c220260225.png",
+                "img_path": "img/ww/散华.png"
+            },
+            {
+                "title": "卜灵",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/3847b786845a45ab80cc66b5bb6e5f3620260318.png",
+                "img_path": "img/ww/卜灵.png"
+            },
+            {
+                "title": "秧秧",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/2500e86cb5f54776846c985875da45a120260318.png",
+                "img_path": "img/ww/秧秧.png"
+            }
+        ]
+    },
+    {
+        "title": "倦客不知身近远",
+        "type": "角色",
+        "timer": [
+            "2026-03-19 11:00:00",
+            "2026-04-09 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "仇远",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/c2a19c2ac21a468f8695a91e5417436420260318.jpg",
+                "img_path": "img/ww/仇远.png"
+            },
+            {
+                "title": "散华",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/7c126c227111455b8b019da009a915c420260225.png",
+                "img_path": "img/ww/散华.png"
+            },
+            {
+                "title": "卜灵",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/cb6dbcd4b0724409832c3a62fe2f832a20260318.png",
+                "img_path": "img/ww/卜灵.png"
+            },
+            {
+                "title": "秧秧",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/e803f85bd64349d6aa49a86c7624946420260318.png",
+                "img_path": "img/ww/秧秧.png"
+            }
+        ]
+    },
+    {
+        "title": "昭日译注",
+        "type": "武器",
+        "timer": [
+            "2026-03-19 11:00:00",
+            "2026-04-09 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "白昼之脊",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/dd10507d97a1496086acadb5a4c0a0b520260318.png",
+                "img_path": "img/ww/白昼之脊.png"
+            },
+            {
+                "title": "尘云旋臂",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/ce2ca50eee7f4c45a97b0a76d830e02d20260318.png",
+                "img_path": "img/ww/尘云旋臂.png"
+            },
+            {
+                "title": "永续坍缩",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/6e565bf62b7b435d83d814d1c8471b5220260318.png",
+                "img_path": "img/ww/永续坍缩.png"
+            },
+            {
+                "title": "西升",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/9fd772980bd04d1988bae6e629c74cf520260318.png",
+                "img_path": "img/ww/西升.png"
+            }
+        ]
+    },
+    {
+        "title": "裁竹",
+        "type": "武器",
+        "timer": [
+            "2026-03-19 11:00:00",
+            "2026-04-09 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "裁竹",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/fd62d5fb4f7f4989ae33248fb054022820260318.png",
+                "img_path": "img/ww/裁竹.png"
+            },
+            {
+                "title": "尘云旋臂",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/062914a5e6ec46b89ec847127ae48eae20260318.png",
+                "img_path": "img/ww/尘云旋臂.png"
+            },
+            {
+                "title": "永续坍缩",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/e71bc2e8025f4101a8ccfdee2a25745020260318.png",
+                "img_path": "img/ww/永续坍缩.png"
+            },
+            {
+                "title": "西升",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/73ab6e37d2804be0ad687fb91ea9595120260318.png",
+                "img_path": "img/ww/西升.png"
+            }
+        ]
+    }
+]
