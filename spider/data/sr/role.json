@@ -69,6 +69,18 @@
         "chara_size": "女青年"
     },
     {
+        "title": "不死途",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/5/50/s9mbdn7n442xb0z08ui3k71qiq1rckk.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/c/c8/hkgfe2w83ap6lm1g7ourzuxsh4khild.png"
+        ],
+        "chara_rarity": "5星",
+        "chara_type": "巡猎",
+        "chara_element": "雷",
+        "chara_load_version": "4.1",
+        "chara_size": ""
+    },
+    {
         "title": "丹恒",
         "simple_img": "https://patchwiki.biligame.com/images/sr/7/7e/nyx2cc7w3yv8lytrhi0jn75dylar500.png",
         "promotion_img": [
