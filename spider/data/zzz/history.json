@@ -1,5 +1,57 @@
 [
     {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/8/88/km08u0grbo9fv1e06c5og9kwhvhtx96.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5029-1%E6%9C%9F.png",
+        "title": "「视线定格公理」029-1期独家频段",
+        "type": "角色",
+        "version": "2.7上半",
+        "timer": "2.7版本更新后 ~ 2026/04/15 11:59:59",
+        "s": "南宫羽",
+        "a": [
+            "妮可",
+            "派派"
+        ],
+        "img_path": "img/zzz/history/「视线定格公理」029-1期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/a/af/ae8kq9f0vagb9pc8oo3jnynfcgtn25l.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5029-1%E6%9C%9F.png",
+        "title": "「霓虹妄想」029-1期音擎频段",
+        "type": "武器",
+        "version": "2.7上半",
+        "timer": "2.7版本更新后 ~ 2026/04/15 11:59:59",
+        "s": "霓虹妄想（页面不存在）",
+        "a": [
+            "聚宝箱",
+            "轰鸣座驾"
+        ],
+        "img_path": "img/zzz/history/「霓虹妄想」029-1期音擎频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/2/24/9uyp10b1n7l1l7d6ib3msb6blzttc2q.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5029-2%E6%9C%9F.png",
+        "title": "「孤旅同梦」029-2期独家频段",
+        "type": "角色",
+        "version": "2.7上半",
+        "timer": "2.7版本更新后 ~ 2026/04/15 11:59:59",
+        "s": "伊德海莉",
+        "a": [
+            "妮可",
+            "派派"
+        ],
+        "img_path": "img/zzz/history/「孤旅同梦」029-2期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/4/47/4zhuhsxuv53lb61yodwpb2mpew0rb0l.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5029-2%E6%9C%9F.png",
+        "title": "「海妖摇篮」029-2期音擎频段",
+        "type": "武器",
+        "version": "2.7上半",
+        "timer": "2.7版本更新后 ~ 2026/04/15 11:59:59",
+        "s": "海妖摇篮",
+        "a": [
+            "聚宝箱",
+            "轰鸣座驾"
+        ],
+        "img_path": "img/zzz/history/「海妖摇篮」029-2期音擎频段.png"
+    },
+    {
         "img": "https://patchwiki.biligame.com/images/zzz/thumb/8/82/0sgdmn342du4tds4sy1fy82in7xhko6.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5028-1%E6%9C%9F.png",
         "title": "「霓色天使」028-1期独家频段",
         "type": "角色",
