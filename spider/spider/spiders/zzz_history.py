@@ -20,9 +20,7 @@ class ZzzHistorySpider(scrapy.Spider):
         for row in row_list:
             # 每个卡池
             for tb in row.xpath(".//table"):
-                item = self._parse_table(tb)
-                if item:
-                    yield item
+                yield from self._parse_table(tb)
 
     def _parse_table(self, tb):
         try:
@@ -31,27 +29,29 @@ class ZzzHistorySpider(scrapy.Spider):
             img = tr_list[0].xpath(".//img/@srcset").extract_first()
             title = tr_list[0].xpath(".//img/@alt").extract_first()
             if not img or not title:
-                return None
+                return
 
             timer = tr_list[1].xpath("normalize-space(.//td/text())").get()
             version = tr_list[2].xpath("normalize-space(.//td/text())").get()
-            s = tr_list[3].xpath(".//td/a/@title").extract_first() if len(tr_list) > 3 else None
+            s_list = tr_list[3].xpath(".//td/a/@title").extract() if len(tr_list) > 3 else []
             a = tr_list[4].xpath(".//td/a/@title").extract() if len(tr_list) > 4 else []
 
-            if not all([timer, version, s]):
-                return None
+            if not all([timer, version]) or not s_list:
+                return
 
-            return self._build_item(
-                img=img,
-                title=title,
-                version=version,
-                timer=timer,
-                s=s,
-                a=a,
-            )
+            a = sorted(set(a))
+
+            for s in s_list:
+                yield self._build_item(
+                    img=img,
+                    title=title,
+                    version=version,
+                    timer=timer,
+                    s=s,
+                    a=a,
+                )
         except Exception:
-            # 单个卡池解析失败时跳过，不影响同一版本的其它卡池
-            return None
+            return
 
     def _build_item(self, img, title, version, timer, s, a):
         item = HistoryItem()

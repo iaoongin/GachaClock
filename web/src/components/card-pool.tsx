@@ -1,18 +1,36 @@
 import { AccordionItem, Card, CardBody, CardFooter, Image } from '@heroui/react';
-import { useEffect, useRef, useState, useCallback } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 
 export interface CardPoolProps {
   historyList: [];
 }
 
 export const CardPool: React.FC<CardPoolProps> = ({ historyList }: CardPoolProps) => {
+  // 某些卡池同一期有多个s角色（如重映），后端会生成多条记录，导致图片和标题重复展示
+  // 按 title 分组合并，相同卡池名称的多条记录合并为一条，s 角色去重保留
+  const mergedList = useMemo((): any[] => {
+    const group: Record<string, any> = {};
+    for (const item of historyList as any[]) {
+      const key = item.title;
+      if (!group[key]) {
+        // 首次遇到该 title，初始化分组
+        group[key] = { ...item, s: [] };
+      }
+      // 合并 s 角色（数组去重）
+      const existingS = Array.isArray(group[key].s) ? group[key].s : [group[key].s];
+      const newS = Array.isArray(item.s) ? item.s : [item.s];
+      group[key].s = [...new Set([...existingS, ...newS])];
+    }
+    return Object.values(group);
+  }, [historyList]);
+
   useEffect(() => {
     console.log('historyList:::', historyList);
   }, []);
 
   return (
     <div className="columns-1 md:columns-2 lg:columns-2 gap-3 space-y-4">
-      {historyList.map((item: any, index: number) => (
+      {mergedList.map((item: any, index: number) => (
         <Card
           className=""
           key={index}
