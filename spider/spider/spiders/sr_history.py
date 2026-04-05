@@ -23,16 +23,25 @@ class SrHistorySpider(scrapy.Spider):
             for tb in tb_list:
                 try:
                     tr_list = tb.xpath(".//tr")
-                    # 每行数据
-                    img = tr_list[0].xpath(".//img/@srcset").extract_first().strip()
-                    title = tr_list[0].xpath(".//img/@alt").extract_first().strip()
+                    # 每行数据，兼容两种结构：tr[0] 可能包含 img（旧版banner图）或只有 th 纯文本（新版）
+                    img_srcset = tr_list[0].xpath(".//img/@srcset").extract_first()
+                    img_alt = tr_list[0].xpath(".//img/@alt").extract_first()
+                    th_text = tr_list[0].xpath(".//th/text()").extract_first()
+
+                    if img_srcset:
+                        img = img_srcset.strip().split(' ', 1)[0]
+                        title = img_alt.strip() if img_alt else ''
+                    else:
+                        img = ''
+                        title = th_text.strip() if th_text else ''
                     timer = tr_list[1].xpath(".//td/text()").extract_first().strip()
                     version = tr_list[2].xpath(".//td/text()").extract_first().strip()
                     s = tr_list[3].xpath(".//td/a/@title").extract_first().strip()
                     a = tr_list[4].xpath(".//td/a/@title").extract()
 
                     item = HistoryItem()
-                    item["img"] = img.split(' ', 1)[0]
+                    
+                    item["img"] = img
                     item["title"] = title
                     item["type"] =  '角色' if '角色' in title else '武器'
                     item["version"] = version

@@ -45,7 +45,6 @@ export const CardPool: React.FC<CardPoolProps> = ({ historyList }: CardPoolProps
               className="w-full"
               shadow="sm"
               src={item.img}
-              fallbackSrc={item.img_path}
             />
           </CardBody>
           <CardFooter className="shadow-large justify-center before:bg-white/10 border-white/20 border-1 overflow-hidden py-1 absolute before:rounded-xl rounded-large bottom-1 w-[calc(100%_-_8px)] ml-1 z-10">

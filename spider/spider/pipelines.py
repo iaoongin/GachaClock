@@ -26,7 +26,7 @@ def download_file(url, save_path):
     :return: 如果下载成功返回 True，文件已存在返回 None，出现错误返回 False
     """
     if os.path.exists(save_path):
-        print(f"文件 {save_path} 已存在，跳过下载。")
+        # print(f"文件 {save_path} 已存在，跳过下载。")
         return None
     try:
         response = requests.get(url, stream=True)
@@ -41,7 +41,7 @@ def download_file(url, save_path):
                 if chunk:
                     file.write(chunk)
 
-        print(f"文件下载成功，保存路径: {save_path}")
+        # print(f"文件下载成功，保存路径: {save_path}")
         return True
     except requests.RequestException as e:
         print(f"下载过程中出现网络错误: {e}")
@@ -57,12 +57,15 @@ class SpiderPipeline:
         self.items = []
 
     def process_item(self, item, spider):
-        print(f"==================> {item}")
+        # print(f"==================> {item}")
         # 处理图片为base64
         for gacha in item["gachas"]:
-            file_name = f"{img_dir}/{spider.name}/{gacha['title']}.png"
-            download_file(gacha["img"], file_name)
-            gacha["img_path"] = file_name
+            if gacha["img"]:
+                file_name = f"{img_dir}/{spider.name}/{gacha['title']}.png"
+                download_file(gacha["img"], file_name)
+                gacha["img_path"] = file_name
+            else:
+                gacha["img_path"] = ''
         # 爬虫处理数据时将数据添加到列表
         self.items.append(item)
         return item
@@ -74,7 +77,7 @@ class SpiderPipeline:
             format_timer = self.convert_to_filename_format(timer)
             # 生成文件名
             file_name = f"{data_dir}/{spider.name}/{format_timer}.{ext}"
-            print(f"目标文件路径： {file_name}")
+            # print(f"目标文件路径： {file_name}")
 
             # 获取文件所在的目录
             directory = os.path.dirname(file_name)
@@ -141,12 +144,12 @@ class SpiderPipeline:
                 f.seek(0)  # 移动指针到文件开头
                 json.dump(data, f, indent=2, ensure_ascii=False)
                 f.truncate()  # 清除旧内容可能残留的部分
-            print(f"已设置 {target_key} = {new_value}")
+            # print(f"已设置 {target_key} = {new_value}")
         except FileNotFoundError:
             # 如果文件不存在，直接创建新文件
             with open(file_path, "w") as f:
                 json.dump({target_key: new_value}, f, indent=2)
-            print(f"创建新文件并设置 {target_key} = {new_value}")
+            # print(f"创建新文件并设置 {target_key} = {new_value}")
 
 
 class HistoryPipeline:
@@ -156,11 +159,14 @@ class HistoryPipeline:
         self.items = []
 
     def process_item(self, item, spider):
-        print(f"==================> {item}")
-        print(f"下载图片")
+        # print(f"==================> {item}")
+        # print(f"下载图片")
         file_name = f"{img_dir}/{spider.name}/{item['title']}.png"
-        download_file(item["img"], file_name)
-        item["img_path"] = file_name
+        if item["img"]:
+            download_file(item["img"], file_name)
+            item["img_path"] = file_name
+        else:
+            item["img_path"] = ''
         self.items.append(item)
         return item
 
@@ -173,7 +179,7 @@ class HistoryPipeline:
             
             # 生成文件名
             file_name = f"{data_dir}/{spider.name}.{ext}"
-            print(f"目标文件路径： {file_name}")
+            # print(f"目标文件路径： {file_name}")
 
             # 获取文件所在的目录
             directory = os.path.dirname(file_name)

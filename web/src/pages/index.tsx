@@ -1,37 +1,27 @@
 import { Accordion, AccordionItem } from '@heroui/react';
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 
 import { CardPool, CardPoolProps, CountdownTimer } from '@/components/card-pool';
 import DefaultLayout from '@/layouts/default';
-import { Link, LinkIcon } from '@heroui/link';
+import { Link } from '@heroui/link';
 import { useLocalStorage } from 'react-use';
 
 export default function IndexPage() {
   const [cardGroup, setCardGroup] = useState<CardPoolProps>();
-  const [expandedKeys, setExpandedKeys] = useLocalStorage('expandedKeys', null); // 初始值为空
+  const [expandedKeys, setExpandedKeys] = useLocalStorage('expandedKeys', null);
+  const roleCache = useRef<Record<string, any>>({});
 
   useEffect(() => {
     const fetchData = async () => {
-      const meta = await fetch('data/meta.json').then((res) => {
-        if (res.ok) {
-          return res.json();
-        } else {
-          return [];
-        }
-      });
+      const meta = await fetch('data/meta.json').then((res) => (res.ok ? res.json() : {}));
 
       console.log('meta:::', meta);
 
-      Object.keys(meta).forEach((game) => {
-        console.log('game:::', game);
-        fetchEachGame(game, meta[game]);
-      });
+      await Promise.all(Object.keys(meta).map((game) => fetchEachGame(game, meta[game])));
     };
 
     fetchData();
   }, []);
-
-  console.log('cardGroup:::', cardGroup);
 
   useEffect(() => {
     if (expandedKeys) {
@@ -90,114 +80,102 @@ export default function IndexPage() {
     </DefaultLayout>
   );
 
-  function fetchEachGame(key: string, lastPoolUrl: string) {
-    fetch(`data/${key}/history.json`)
-      .then((res) => res.json())
-      .then(async (data) => {
-        console.log('data:::', data);
-        const currentVersion = data[0].version;
-        const historyList = data
-          .filter((item: any) => item.version === currentVersion)
-          .filter((item: any) => item.type === '角色')
-          .map((item: any) => {
-            let copy = { ...item };
-
-            copy.title = item.title.substring(0, item.title.indexOf('」') + 1);
-
-            return copy;
-          });
-
-        const currentEndTimer = historyList[0].timer.split('~')[1];
-        if (new Date(currentEndTimer).getTime() < new Date().getTime()) {
-          // 当前版本已过期, 从最新卡池信息获取
-          console.log(`${key} 当前版本已过期(${currentEndTimer}), 从最新卡池信息获取`);
-          return await fallbackFetch(key, lastPoolUrl);
-        }
-
-        // 设置group
-        setCardGroup((prev: any) => ({
-          ...prev,
-          [key]: {
-            currentVersion: historyList[0].version,
-            currentTimer: historyList[0].timer,
-            historyList: historyList,
-          },
-        }));
-      })
-      .catch(async (err) => {
-        console.log('err:::', err);
-        // 无法获取历史卡池信息，从最新卡池信息获取
-        console.log(`${key} 无法获取历史卡池信息，从最新卡池信息获取`);
-        return await fallbackFetch(key, lastPoolUrl);
-      });
-  }
-
-  async function fallbackFetch(key: string, lastPoolUrl: string) {
-    let role = await fetchEachGameRole(key);
+  async function fetchEachGame(key: string, lastPoolUrl: string) {
+    const role = await fetchEachGameRole(key);
     console.log(`${key} role`, role);
 
-    fetch(lastPoolUrl)
-      .then((res) => res.json())
-      .then((data) => {
-        console.log('data::', data);
-        let historyList = [];
+    let historyList: any[];
+    let version: string;
+    let timer: string;
 
-        // 没有角色数据
-        if (!role || Object.keys(role).length === 0) {
-          historyList = data
-            .filter((item: any) => item.type === '角色')
-            .map((item: any) => item.gachas[0]);
-        } else {
-          // 有角色数据
-          historyList = data
-            .filter((item: any) => item.type === '角色')
-            .flatMap((item: any) => item.gachas)
-            .filter(
-              (item: any) => !role?.[item['title']] || role?.[item['title']].chara_rarity === '5星',
-            );
-        }
+    try {
+      const data = await fetch(`data/${key}/history.json`).then((res) => res.json());
+      console.log(`${key} history`, data);
 
-        historyList.forEach((item) => {
-          const promotionImg = role?.[item['title']]?.['promotion_img'];
-          item['img'] = promotionImg?.[1] ?? promotionImg?.[0] ?? item['img'];
-          item['img_path'] = role?.[item['title']]?.['simple_img'] ?? item['img_path'];
+      const currentVersion = data[0].version;
+      historyList = data
+        .filter((item: any) => item.version === currentVersion)
+        .filter((item: any) => item.type === '角色')
+        .map((item: any) => {
+          const copy = { ...item };
+          copy.title = item.title.substring(0, item.title.indexOf('」') + 1);
+          return copy;
         });
 
-        console.log(`${key} historyList::`, historyList);
+      const currentEndTimer = historyList[0]?.timer?.split('~')[1];
+      const currentStartTimer = historyList[0]?.timer?.split('~')[0];
+      let currentTime = new Date().getTime();
+      if (new Date(currentEndTimer).getTime() < currentTime) {
+        throw new Error('版本过期');
+      }
+      if (currentTime < new Date(currentStartTimer).getTime()) {
+        throw new Error('版本未开始');
+      }
 
-        let cardGroup = {
-          [key]: {
-            currentVersion: data[data.length - 1].timer,
-            currentTimer: data[data.length - 1].timer.join('~'),
-            historyList: historyList,
-          },
-        };
+      version = historyList[0].version;
+      timer = historyList[0].timer;
+    } catch (err) {
+      console.log(`${key} history err, 使用最新卡池数据, 即从meta里面获取。 `, err);
 
-        // 设置group
-        setCardGroup((prev: any) => ({
-          ...prev,
-          ...cardGroup,
-        }));
-        return;
-      });
+      const data = await fetch(lastPoolUrl).then((res) => res.json());
+      console.log(`${key} meta`, data);
+
+      if (!role || Object.keys(role).length === 0) {
+        historyList = data
+          .filter((item: any) => item.type === '角色')
+          .map((item: any) => item.gachas[0]);
+      } else {
+        historyList = data
+          .filter((item: any) => item.type === '角色')
+          .flatMap((item: any) => item.gachas)
+          .filter(
+            (item: any) => !role?.[item['title']] || role?.[item['title']].chara_rarity === '5星',
+          );
+      }
+
+      version = data[data.length - 1].timer;
+      timer = data[data.length - 1].timer.join('~');
+    }
+
+    historyList.forEach((item) => {
+      const promotionImg = role?.[item['title']]?.['promotion_img'];
+      const simpleImg = role?.[item['title']]?.['simple_img'];
+      item['img'] = promotionImg?.[1] ?? promotionImg?.[0] ?? item['img_path'] ?? simpleImg;
+    });
+
+    console.log(`${key} historyList::`, historyList);
+
+    setCardGroup((prev: any) => ({
+      ...prev,
+      [key]: {
+        currentVersion: version,
+        currentTimer: timer,
+        historyList: historyList,
+      },
+    }));
   }
 
-  function fetchEachGameRole(key) {
+  async function fetchEachGameRole(key: string) {
+    if (roleCache.current[key]) {
+      console.log(`${key} 使用缓存的 role 数据`);
+      return roleCache.current[key];
+    }
+
     return fetch(`data/${key}/role.json`)
       .then((res) => res.json())
-      .then(async (data) => {
-        console.log('role data:::', data);
-        let tmp_role = data.reduce((acc, item) => {
+      .then((data) => {
+        // console.log(`${key} role`, data);
+        const tmp_role = data.reduce((acc, item) => {
           acc[item.title] = item;
           return acc;
         }, {});
+        roleCache.current[key] = tmp_role;
         return tmp_role;
       })
-      .catch(async (err) => {
-        console.log('err:::', err);
-        // 无法获取历史卡池信息，从最新卡池信息获取
-        console.log(`${key} 无法获取角色信息，返回空.`);
-        return await {};
+      .catch((err) => {
+        console.log(`${key} 无法获取角色信息，返回空.`, err);
+        roleCache.current[key] = {};
+        return {};
       });
   }
 }
