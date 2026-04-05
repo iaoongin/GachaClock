@@ -58,6 +58,11 @@
         ],
         "gachas": [
             {
+                "title": "霓虹妄想",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/f/fb/9pd4pw9nhu0tkh3010qxnirmj9k3bag.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E9%9C%93%E8%99%B9%E5%A6%84%E6%83%B3.png",
+                "img_path": "img/zzz/霓虹妄想.png"
+            },
+            {
                 "title": "聚宝箱",
                 "img": "https://patchwiki.biligame.com/images/zzz/thumb/3/36/phqx7sl433jtkm5fswar7en75rs8i5o.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E8%81%9A%E5%AE%9D%E7%AE%B1.png",
                 "img_path": "img/zzz/聚宝箱.png"
