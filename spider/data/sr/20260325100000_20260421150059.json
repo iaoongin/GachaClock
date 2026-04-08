@@ -30,17 +30,17 @@
         ]
     },
     {
-        "title": "「虹隽晨昏」角色活动跃迁",
+        "title": "「扬尘孤星」角色活动跃迁",
         "type": "角色",
         "timer": [
-            "2026/03/25 10:00:00",
-            "2026/04/08 11:59:59"
+            "2026/04/08 12:00:00",
+            "2026/04/21 15:00:59"
         ],
         "gachas": [
             {
-                "title": "风堇",
-                "img": "https://patchwiki.biligame.com/images/sr/thumb/f/fe/btad3oegk6v46b3xswvvtl370ib8zbm.png/112px-%E9%A3%8E%E5%A0%87.png",
-                "img_path": "img/sr/风堇.png"
+                "title": "波提欧",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/d/da/5wtfcz4garqrmk9k3jbq0vc5x45lgu3.png/112px-%E6%B3%A2%E6%8F%90%E6%AC%A7.png",
+                "img_path": "img/sr/波提欧.png"
             }
         ]
     },
@@ -78,14 +78,14 @@
         "title": "「溯回忆象」光锥活动跃迁",
         "type": "武器",
         "timer": [
-            "2026/03/25 10:00:00",
-            "2026/04/08 11:59:59"
+            "2026/04/08 12:00:00",
+            "2026/04/21 15:00:59"
         ],
         "gachas": [
             {
-                "title": "愿虹光永驻天空",
-                "img": "https://patchwiki.biligame.com/images/sr/thumb/c/c2/3ntgy78x59gaxaaerxxm4ud0t179dxu.png/112px-%E6%84%BF%E8%99%B9%E5%85%89%E6%B0%B8%E9%A9%BB%E5%A4%A9%E7%A9%BA.png",
-                "img_path": "img/sr/愿虹光永驻天空.png"
+                "title": "驶向第二次生命",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/f/ff/i0df57yj4zoqi9ij944mc20innski09.png/112px-%E9%A9%B6%E5%90%91%E7%AC%AC%E4%BA%8C%E6%AC%A1%E7%94%9F%E5%91%BD.png",
+                "img_path": "img/sr/驶向第二次生命.png"
             }
         ]
     }
