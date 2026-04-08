@@ -138,8 +138,8 @@ export default function IndexPage() {
     }
 
     historyList.forEach((item) => {
-      const promotionImg = role?.[item['title']]?.['promotion_img'];
-      const simpleImg = role?.[item['title']]?.['simple_img'];
+      const promotionImg = role?.[item['s']]?.['promotion_img'];
+      const simpleImg = role?.[item['s']]?.['simple_img'];
       item['img'] = promotionImg?.[1] ?? promotionImg?.[0] ?? item['img_path'] ?? simpleImg;
     });
 
