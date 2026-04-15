@@ -1,0 +1,102 @@
+[
+    {
+        "title": "「贪食进化论」独家频段",
+        "type": "角色",
+        "timer": [
+            "2026/04/15 12:00:00",
+            "2026/05/05 14:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "希希芙",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/7/70/m20kufbhnpdqqt96srscy9tqx2osjvr.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E5%B8%8C%E5%B8%8C%E8%8A%99.png",
+                "img_path": "img/zzz/希希芙.png"
+            },
+            {
+                "title": "波可娜",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/6/6e/ndj19fh7x8d9z5g3cjnkuk7rgw5pl8c.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E6%B3%A2%E5%8F%AF%E5%A8%9C.png",
+                "img_path": "img/zzz/波可娜.png"
+            },
+            {
+                "title": "本",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/6/69/ig9c0meb9fpwpvk8ivu9figyf7ei2rn.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E6%9C%AC.png",
+                "img_path": "img/zzz/本.png"
+            }
+        ]
+    },
+    {
+        "title": "「泪铸生花」独家频段",
+        "type": "角色",
+        "timer": [
+            "2026/04/15 12:00:00",
+            "2026/05/05 14:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "「席德」",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/b/b2/okaku4fnrnzg61icd84jsao92wkd7db.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E3%80%8C%E5%B8%AD%E5%BE%B7%E3%80%8D.png",
+                "img_path": "img/zzz/「席德」.png"
+            },
+            {
+                "title": "波可娜",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/6/6e/ndj19fh7x8d9z5g3cjnkuk7rgw5pl8c.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E6%B3%A2%E5%8F%AF%E5%A8%9C.png",
+                "img_path": "img/zzz/波可娜.png"
+            },
+            {
+                "title": "本",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/6/69/ig9c0meb9fpwpvk8ivu9figyf7ei2rn.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E6%9C%AC.png",
+                "img_path": "img/zzz/本.png"
+            }
+        ]
+    },
+    {
+        "title": "「鳞齿寻踪」音擎频段",
+        "type": "武器",
+        "timer": [
+            "2026/04/15 12:00:00",
+            "2026/05/05 14:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "鳞齿寻踪",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/1/1a/r20jarnzveqil2d0aadwsmw1197bpsl.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E9%B3%9E%E9%BD%BF%E5%AF%BB%E8%B8%AA.png",
+                "img_path": "img/zzz/鳞齿寻踪.png"
+            },
+            {
+                "title": "裁纸刀",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/0/00/6a9s2hhn8czzmqs5d35gnbiqton2w27.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E8%A3%81%E7%BA%B8%E5%88%80.png",
+                "img_path": "img/zzz/裁纸刀.png"
+            },
+            {
+                "title": "比格气缸",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/2/2a/fsr4bjqvmi4xnblzkmn1tbonoyxwn5s.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E6%AF%94%E6%A0%BC%E6%B0%94%E7%BC%B8.png",
+                "img_path": "img/zzz/比格气缸.png"
+            }
+        ]
+    },
+    {
+        "title": "「机巧心种」音擎频段",
+        "type": "武器",
+        "timer": [
+            "2026/04/15 12:00:00",
+            "2026/05/05 14:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "机巧心种",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/a/af/heem3u5ysam31xpyfb4obzi8hzttrtg.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E6%9C%BA%E5%B7%A7%E5%BF%83%E7%A7%8D.png",
+                "img_path": "img/zzz/机巧心种.png"
+            },
+            {
+                "title": "裁纸刀",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/0/00/6a9s2hhn8czzmqs5d35gnbiqton2w27.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E8%A3%81%E7%BA%B8%E5%88%80.png",
+                "img_path": "img/zzz/裁纸刀.png"
+            },
+            {
+                "title": "比格气缸",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/2/2a/fsr4bjqvmi4xnblzkmn1tbonoyxwn5s.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E6%AF%94%E6%A0%BC%E6%B0%94%E7%BC%B8.png",
+                "img_path": "img/zzz/比格气缸.png"
+            }
+        ]
+    }
+]

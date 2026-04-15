@@ -1,5 +1,44 @@
 [
     {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/1/14/cn451e9lezpqkq5044vu63vr3pd2alb.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5030-1%E6%9C%9F.png",
+        "title": "「贪食进化论」030-1期独家频段",
+        "type": "角色",
+        "version": "2.7下半",
+        "timer": "2026/04/15 12:00:00 ~ 2026/05/05 14:59:59",
+        "s": "希希芙",
+        "a": [
+            "本",
+            "波可娜"
+        ],
+        "img_path": "img/zzz/history/「贪食进化论」030-1期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/7/78/3hgj1aurgedsdtz8rddat37r3t7q6l1.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5030-2%E6%9C%9F.png",
+        "title": "「泪铸生花」030-2期独家频段",
+        "type": "角色",
+        "version": "2.7下半",
+        "timer": "2026/04/15 12:00:00 ~ 2026/05/05 14:59:59",
+        "s": "「席德」",
+        "a": [
+            "本",
+            "波可娜"
+        ],
+        "img_path": "img/zzz/history/「泪铸生花」030-2期独家频段.png"
+    },
+    {
+        "img": "https://patchwiki.biligame.com/images/zzz/thumb/9/9b/ojd8blu9njqzmeq2labzoct1tbp8cwd.png/900px-%E9%9F%B3%E6%93%8E%E9%A2%91%E6%AE%B5030-2%E6%9C%9F.png",
+        "title": "「机巧心种」030-2期音擎频段",
+        "type": "武器",
+        "version": "2.6下半",
+        "timer": "2026/04/15 12:00:00 ~ 2026/05/05 14:59:59",
+        "s": "机巧心种",
+        "a": [
+            "比格气缸",
+            "裁纸刀"
+        ],
+        "img_path": "img/zzz/history/「机巧心种」030-2期音擎频段.png"
+    },
+    {
         "img": "https://patchwiki.biligame.com/images/zzz/thumb/8/88/km08u0grbo9fv1e06c5og9kwhvhtx96.png/900px-%E7%8B%AC%E5%AE%B6%E9%A2%91%E6%AE%B5029-1%E6%9C%9F.png",
         "title": "「视线定格公理」029-1期独家频段",
         "type": "角色",
