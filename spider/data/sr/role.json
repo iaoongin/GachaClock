@@ -952,6 +952,19 @@
         "chara_size": "少女"
     },
     {
+        "title": "银狼LV.999",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/3/37/mt98z24lt11y8eb8n5mrfwjbwt0yt8d.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/thumb/c/c2/sblh37m20iahfe4h7t4ez9mmsx6ask8.png/900px-%E9%93%B6%E7%8B%BCLV.999%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/a/a8/opry10qdayo9gmcm19wv0f0sle2hb59.png"
+        ],
+        "chara_rarity": "5星",
+        "chara_type": "欢愉",
+        "chara_element": "虚数",
+        "chara_load_version": "4.2",
+        "chara_size": ""
+    },
+    {
         "title": "镜流",
         "simple_img": "https://patchwiki.biligame.com/images/sr/b/b5/skmc2r78nn9wkbeyrgcbxuut4f0nz5z.png",
         "promotion_img": [
