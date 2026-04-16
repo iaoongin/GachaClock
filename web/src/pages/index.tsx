@@ -87,8 +87,10 @@ export default function IndexPage() {
     let historyList: any[];
     let version: string;
     let timer: string;
+    let roleKey: string; // 历史卡池为 s，meta信息为title
 
     try {
+      roleKey = 's';
       const data = await fetch(`data/${key}/history.json`).then((res) => res.json());
       console.log(`${key} history`, data);
 
@@ -117,6 +119,8 @@ export default function IndexPage() {
     } catch (err) {
       console.log(`${key} history err, 使用最新卡池数据, 即从meta里面获取。 `, err);
 
+      roleKey = 'title';
+
       const data = await fetch(lastPoolUrl).then((res) => res.json());
       console.log(`${key} meta`, data);
 
@@ -138,8 +142,8 @@ export default function IndexPage() {
     }
 
     historyList.forEach((item) => {
-      const promotionImg = role?.[item['s']]?.['promotion_img'];
-      const simpleImg = role?.[item['s']]?.['simple_img'];
+      const promotionImg = role?.[item[roleKey]]?.['promotion_img'];
+      const simpleImg = role?.[item[roleKey]]?.['simple_img'];
       item['img'] = promotionImg?.[1] ?? promotionImg?.[0] ?? item['img_path'] ?? simpleImg;
     });
 
