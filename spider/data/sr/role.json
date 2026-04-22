@@ -387,6 +387,21 @@
         "chara_size": "星, 男青年"
     },
     {
+        "title": "开拓者•欢愉",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/0/07/6elgqyf1a03ni0i3ay27c62i9ltpmsl.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/thumb/9/9f/j5axs4yxyv5e4t4xepuy376t84z7v0l.png/700px-%E5%BC%80%E6%8B%93%E8%80%85%E6%98%9F%E2%80%A2%E6%AC%A2%E6%84%89%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/thumb/a/af/4p697een8lltzx2qk2jmpfcc71zdog9.png/700px-%E5%BC%80%E6%8B%93%E8%80%85%E7%A9%B9%E2%80%A2%E6%AC%A2%E6%84%89%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/e/ef/qdbb6zs0m2efwx2lict0cdtga7zrlvh.png",
+            "https://patchwiki.biligame.com/images/sr/2/24/njnkyi4kv0qk3xp8nfqptngk6sqdhch.png"
+        ],
+        "chara_rarity": "5星",
+        "chara_type": "欢愉",
+        "chara_element": "雷",
+        "chara_load_version": "4.2",
+        "chara_size": "星, 男青年"
+    },
+    {
         "title": "开拓者•毁灭",
         "simple_img": "https://patchwiki.biligame.com/images/sr/b/b8/qq2a8rl6a14zl2u2v7d9jll3hwjep13.png",
         "promotion_img": [
