@@ -1,0 +1,112 @@
+[
+    {
+        "title": "「」角色活动跃迁",
+        "type": "角色",
+        "timer": [
+            "2026/04/22 10:00:00",
+            "2026/05/13 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "银狼LV.999",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/e/e5/f70nc18yogu7nw1v4xrmgrc3b5t801j.png/112px-%E9%93%B6%E7%8B%BCLV.999.png",
+                "img_path": "img/sr/银狼LV.999.png"
+            },
+            {
+                "title": "加拉赫",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/45/635ho4kx5ge6epx3bkn6pzp3mbsvezk.png/112px-%E5%8A%A0%E6%8B%89%E8%B5%AB.png",
+                "img_path": "img/sr/加拉赫.png"
+            },
+            {
+                "title": "雪衣",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/3/3e/hybs1m6az92iylukqp98bhmwzwdmkru.png/112px-%E9%9B%AA%E8%A1%A3.png",
+                "img_path": "img/sr/雪衣.png"
+            },
+            {
+                "title": "虎克",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/d/d9/cng0jc28j1hikbidgetsoyeq81pp2he.png/112px-%E8%99%8E%E5%85%8B.png",
+                "img_path": "img/sr/虎克.png"
+            }
+        ]
+    },
+    {
+        "title": "「铭心之萃•大丽花、遐蝶、流萤」角色活动跃迁",
+        "type": "角色",
+        "timer": [
+            "2026/04/22 10:00:00",
+            "2026/05/13 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "大丽花",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/1/1c/nxx3bwgqdwdsp7k9dj0z5jxumr8a32h.png/112px-%E5%A4%A7%E4%B8%BD%E8%8A%B1.png",
+                "img_path": "img/sr/大丽花.png"
+            },
+            {
+                "title": "遐蝶",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/8/81/johi69tjqhfyngs4cfkfsu2w8bomyiy.png/112px-%E9%81%90%E8%9D%B6.png",
+                "img_path": "img/sr/遐蝶.png"
+            },
+            {
+                "title": "流萤",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/6/6e/loo8cnidyavnbgut84xmcgth6vdl5a0.png/112px-%E6%B5%81%E8%90%A4.png",
+                "img_path": "img/sr/流萤.png"
+            }
+        ]
+    },
+    {
+        "title": "「流光定影」光锥活动跃迁",
+        "type": "武器",
+        "timer": [
+            "2026/04/22 10:00:00",
+            "2026/05/13 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "欢迎来到银河城",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/b/bf/ksdznitvv9hb45s8hmg3xlip4eilxfs.png/112px-%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E9%93%B6%E6%B2%B3%E5%9F%8E.png",
+                "img_path": "img/sr/欢迎来到银河城.png"
+            },
+            {
+                "title": "芳华待灼",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/d/d4/b5z3wy0zzas5fnaxbavn88if4r8film.png/112px-%E8%8A%B3%E5%8D%8E%E5%BE%85%E7%81%BC.png",
+                "img_path": "img/sr/芳华待灼.png"
+            },
+            {
+                "title": "铭记于心的约定",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/4/4f/pfsscc44ydg3ijhe4b7158sjidqbmy1.png/112px-%E9%93%AD%E8%AE%B0%E4%BA%8E%E5%BF%83%E7%9A%84%E7%BA%A6%E5%AE%9A.png",
+                "img_path": "img/sr/铭记于心的约定.png"
+            },
+            {
+                "title": "猎物的视线",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/1/14/6vnpk00gk7qdcy3rwdfz852332nsyf2.png/112px-%E7%8C%8E%E7%89%A9%E7%9A%84%E8%A7%86%E7%BA%BF.png",
+                "img_path": "img/sr/猎物的视线.png"
+            }
+        ]
+    },
+    {
+        "title": "「真意之汇」光锥活动跃迁",
+        "type": "武器",
+        "timer": [
+            "2026/04/22 10:00:00",
+            "2026/05/13 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "勿忘她的火焰",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/1/1b/pgn803kkzah3x90ctxadm4xkk6f3z0a.png/112px-%E5%8B%BF%E5%BF%98%E5%A5%B9%E7%9A%84%E7%81%AB%E7%84%B0.png",
+                "img_path": "img/sr/勿忘她的火焰.png"
+            },
+            {
+                "title": "让告别，更美一些",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/3/3e/9rr2he9qn24t42twe0ij29w46rakykt.png/112px-%E8%AE%A9%E5%91%8A%E5%88%AB%EF%BC%8C%E6%9B%B4%E7%BE%8E%E4%B8%80%E4%BA%9B.png",
+                "img_path": "img/sr/让告别，更美一些.png"
+            },
+            {
+                "title": "梦应归于何处",
+                "img": "https://patchwiki.biligame.com/images/sr/thumb/9/97/9hgw5hentvblnrhzra15e143qbtjdv1.png/112px-%E6%A2%A6%E5%BA%94%E5%BD%92%E4%BA%8E%E4%BD%95%E5%A4%84.png",
+                "img_path": "img/sr/梦应归于何处.png"
+            }
+        ]
+    }
+]
