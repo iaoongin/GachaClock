@@ -1,0 +1,182 @@
+[
+    {
+        "title": "雪色所映千般未来",
+        "type": "角色",
+        "timer": [
+            "2026-04-30 11:00:00",
+            "2026-05-21 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "绯雪",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/010d8d6bc7994ad38ec7bbfbe7b7782420260429.jpg",
+                "img_path": "img/ww/绯雪.png"
+            },
+            {
+                "title": "白芷",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/e3a7792de2284ab589b1d9f3ba2c145120260429.png",
+                "img_path": "img/ww/白芷.png"
+            },
+            {
+                "title": "秋水",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/6e06bd7a3eac41ebbca9e79a05e7fce620260429.png",
+                "img_path": "img/ww/秋水.png"
+            },
+            {
+                "title": "渊武",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/6a4c6d4c3c884dcbae03d62cce9b8ac320260429.png",
+                "img_path": "img/ww/渊武.png"
+            }
+        ]
+    },
+    {
+        "title": "纵使星光于无穷远",
+        "type": "角色",
+        "timer": [
+            "2026-04-30 11:00:00",
+            "2026-05-21 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "莫宁",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/6b6d0fdd6998491d94d7f6254cdeebfa20260429.jpg",
+                "img_path": "img/ww/莫宁.png"
+            },
+            {
+                "title": "白芷",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/ed19844ad7d247bfb9008d542b15051d20260429.png",
+                "img_path": "img/ww/白芷.png"
+            },
+            {
+                "title": "秋水",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/5cc1c400e0214aada17c7c1b4bd27a3120260429.png",
+                "img_path": "img/ww/秋水.png"
+            },
+            {
+                "title": "渊武",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/e00a7fb155574e609f9a2651e634c71820260429.png",
+                "img_path": "img/ww/渊武.png"
+            }
+        ]
+    },
+    {
+        "title": "漫于盈缺时轴",
+        "type": "角色",
+        "timer": [
+            "2026-04-30 11:00:00",
+            "2026-05-21 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "尤诺",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/f888fb150c7949d0857e6f202e570ec820260429.jpg",
+                "img_path": "img/ww/尤诺.png"
+            },
+            {
+                "title": "白芷",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/ab4f8998bb8e44ed92e65b8874c14c1020260429.png",
+                "img_path": "img/ww/白芷.png"
+            },
+            {
+                "title": "秋水",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/7d1a5fa0985f456db9a44b87857d279920260429.png",
+                "img_path": "img/ww/秋水.png"
+            },
+            {
+                "title": "渊武",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/d1800164369f44f2ae44f79369f798b820260429.png",
+                "img_path": "img/ww/渊武.png"
+            }
+        ]
+    },
+    {
+        "title": "灼霜",
+        "type": "武器",
+        "timer": [
+            "2026-04-30 11:00:00",
+            "2026-05-21 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "溢彩荧辉",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/40ba55dde72043c194999ff907bb87cf20260429.png",
+                "img_path": "img/ww/溢彩荧辉.png"
+            },
+            {
+                "title": "不归孤军",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/1ec7ea29ba4b443fa997a71ad4b2034220260429.png",
+                "img_path": "img/ww/不归孤军.png"
+            },
+            {
+                "title": "异响空灵",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/098a60571ac6452faa02d18bfca092af20260429.png",
+                "img_path": "img/ww/异响空灵.png"
+            },
+            {
+                "title": "无眠烈火",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/60a7f2a600ac4a76aca2751782192bb220260429.png",
+                "img_path": "img/ww/无眠烈火.png"
+            }
+        ]
+    },
+    {
+        "title": "宙算仪轨",
+        "type": "武器",
+        "timer": [
+            "2026-04-30 11:00:00",
+            "2026-05-21 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "宙算仪轨",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/312b7e6a634642a3bb8211efeb54959120260429.png",
+                "img_path": "img/ww/宙算仪轨.png"
+            },
+            {
+                "title": "不归孤军",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/e91149118529468795695a47ee481a6820260429.png",
+                "img_path": "img/ww/不归孤军.png"
+            },
+            {
+                "title": "异响空灵",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/a15c900dd59a484fbb3ed855170fd9d220260429.png",
+                "img_path": "img/ww/异响空灵.png"
+            },
+            {
+                "title": "无眠烈火",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/9d6a87860e8f4443b22c6aefbf3ac17020260429.png",
+                "img_path": "img/ww/无眠烈火.png"
+            }
+        ]
+    },
+    {
+        "title": "万物持存的注释",
+        "type": "武器",
+        "timer": [
+            "2026-04-30 11:00:00",
+            "2026-05-21 09:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "万物持存的注释",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/6edde50523f444ecb35e7fbe013567cb20260429.png",
+                "img_path": "img/ww/万物持存的注释.png"
+            },
+            {
+                "title": "不归孤军",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/ce51547dc9234f1faac28ea95214e97620260429.png",
+                "img_path": "img/ww/不归孤军.png"
+            },
+            {
+                "title": "异响空灵",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/b86efb607bdf48b68339efcd34c1ecca20260429.png",
+                "img_path": "img/ww/异响空灵.png"
+            },
+            {
+                "title": "无眠烈火",
+                "img": "https://prod-alicdn-community.kurobbs.com/forum/784d7c5d2b7c46499211dc26490b55e020260429.png",
+                "img_path": "img/ww/无眠烈火.png"
+            }
+        ]
+    }
+]
