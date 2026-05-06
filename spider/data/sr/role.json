@@ -789,6 +789,19 @@
         "chara_size": "女青年"
     },
     {
+        "title": "绯英",
+        "simple_img": "https://patchwiki.biligame.com/images/sr/4/42/mnle7n0cwoaxkbqvoggufnn466w8aqq.png",
+        "promotion_img": [
+            "https://patchwiki.biligame.com/images/sr/thumb/9/93/0kwsaceudzpvh1vzhc3zwr8zy5zvqgh.png/900px-%E7%BB%AF%E8%8B%B1%E7%AB%8B%E7%BB%98.png",
+            "https://patchwiki.biligame.com/images/sr/b/bb/fdvnr5djok16z1p6dk0xdu5yjornr5n.png"
+        ],
+        "chara_rarity": "5星",
+        "chara_type": "欢愉",
+        "chara_element": "物理",
+        "chara_load_version": "4.2",
+        "chara_size": ""
+    },
+    {
         "title": "缇宝",
         "simple_img": "https://patchwiki.biligame.com/images/sr/e/ee/tmqs4490r4z0tbjbuajcrq3itx0711j.png",
         "promotion_img": [
