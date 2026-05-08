@@ -1,0 +1,102 @@
+[
+    {
+        "title": "「冷雨将尽之夜」独家频段",
+        "type": "角色",
+        "timer": [
+            "2026/05/06 11:00:00",
+            "2026/05/27 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "普罗米娅",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/d/d1/3fh5azkfcuhy18bxfeagudlivtldeag.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E6%99%AE%E7%BD%97%E7%B1%B3%E5%A8%85.png",
+                "img_path": "img/zzz/普罗米娅.png"
+            },
+            {
+                "title": "苍角",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/1/17/co1tz6xt4fuspz27d1dp4a29mla8i8x.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E8%8B%8D%E8%A7%92.png",
+                "img_path": "img/zzz/苍角.png"
+            },
+            {
+                "title": "露西",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/4/4b/nun3urflupvt1lq85o81qxeoie6t9vk.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E9%9C%B2%E8%A5%BF.png",
+                "img_path": "img/zzz/露西.png"
+            }
+        ]
+    },
+    {
+        "title": "「孤旅同梦」独家频段",
+        "type": "角色",
+        "timer": [
+            "2026/05/06 11:00:00",
+            "2026/05/27 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "卢西娅",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/a/aa/bewpw892egodvlvmedvwfeda48zlppy.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E5%8D%A2%E8%A5%BF%E5%A8%85.png",
+                "img_path": "img/zzz/卢西娅.png"
+            },
+            {
+                "title": "苍角",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/1/17/co1tz6xt4fuspz27d1dp4a29mla8i8x.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E8%8B%8D%E8%A7%92.png",
+                "img_path": "img/zzz/苍角.png"
+            },
+            {
+                "title": "露西",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/4/4b/nun3urflupvt1lq85o81qxeoie6t9vk.png/112px-%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F-%E9%9C%B2%E8%A5%BF.png",
+                "img_path": "img/zzz/露西.png"
+            }
+        ]
+    },
+    {
+        "title": "「朔月裁霜」音擎频段",
+        "type": "武器",
+        "timer": [
+            "2026/05/06 11:00:00",
+            "2026/05/27 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "朔月裁霜",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/9/94/ksia551y8253bbw8tc72r9qxf1e491o.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E6%9C%94%E6%9C%88%E8%A3%81%E9%9C%9C.png",
+                "img_path": "img/zzz/朔月裁霜.png"
+            },
+            {
+                "title": "含羞恶面",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/c/c0/0tq6q646olxa4k0zfhrjqikopheoi2o.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E5%90%AB%E7%BE%9E%E6%81%B6%E9%9D%A2.png",
+                "img_path": "img/zzz/含羞恶面.png"
+            },
+            {
+                "title": "好斗的阿炮",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/3/38/7kskbvgkgahag0e4eb064e3qtm7qff2.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E5%A5%BD%E6%96%97%E7%9A%84%E9%98%BF%E7%82%AE.png",
+                "img_path": "img/zzz/好斗的阿炮.png"
+            }
+        ]
+    },
+    {
+        "title": "「铸梦炉歌」音擎频段",
+        "type": "武器",
+        "timer": [
+            "2026/05/06 11:00:00",
+            "2026/05/27 11:59:59"
+        ],
+        "gachas": [
+            {
+                "title": "铸梦炉歌",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/7/70/tsntop27jcmfxfks5i9ors8wq0u7l10.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E9%93%B8%E6%A2%A6%E7%82%89%E6%AD%8C.png",
+                "img_path": "img/zzz/铸梦炉歌.png"
+            },
+            {
+                "title": "含羞恶面",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/c/c0/0tq6q646olxa4k0zfhrjqikopheoi2o.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E5%90%AB%E7%BE%9E%E6%81%B6%E9%9D%A2.png",
+                "img_path": "img/zzz/含羞恶面.png"
+            },
+            {
+                "title": "好斗的阿炮",
+                "img": "https://patchwiki.biligame.com/images/zzz/thumb/3/38/7kskbvgkgahag0e4eb064e3qtm7qff2.png/112px-%E6%AD%A6%E5%99%A8%E5%9B%BE%E6%A0%87-%E5%A5%BD%E6%96%97%E7%9A%84%E9%98%BF%E7%82%AE.png",
+                "img_path": "img/zzz/好斗的阿炮.png"
+            }
+        ]
+    }
+]
